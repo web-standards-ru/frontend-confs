@@ -1,2 +1,4 @@
-# frontend-confs-ru
-List of frontend conferences in Russia
+# Фронтенд-конференции в России
+
+- [По датам](README.date.md)
+- [По городам](README.city.md)
