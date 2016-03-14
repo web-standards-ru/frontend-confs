@@ -19,7 +19,7 @@
 
 ### [Frontend Conf](http://frontendconf.ru/)
 
-19 и 20 мая, 14 000 — 27 000 руб.
+19 и 20 мая, 14 000 – 27 000 руб.
 
 ## Новосибирск
 
@@ -36,7 +36,7 @@
 - «(Web?) Components in production», Thomas Lobinger (Amazon)
 - «„Конструктор“, или идеальный порядок в большом проекте», Денис Паясь (Яндекс)
 - «Жизнь HTML в iOS приложении», Роман Янке (2ГИС)
-- «Event-Sourcing your React-Flux applications», Maurice de Beijer (ABL - The Problem Solver)
+- «Event-Sourcing your React-Flux applications», Maurice de Beijer (ABL - The Problem Solver)
 
 ## Пенза
 
