@@ -3,9 +3,19 @@
 - [Март](#Март)
 - [Апрель](#Апрель)
 - [Май](#Май)
+- [Июль](#Июль)
 - [Сентябрь](#Сентябрь)
 
 ## Март
+
+### [ChernihivJS](http://www.meetup.com/chernihivjs/events/229153941/)
+
+17 марта
+
+Доклады:
+
+- «От jQuery к React за 5 дней»
+- «Нужен ли нам TypeScript?»
 
 ### [PiterCSS](https://pitercss.timepad.ru/event/298243/)
 
@@ -59,11 +69,30 @@
 
 14 апреля, Пенза, вход свободный
 
+### [FDConf](http://fdconf.by/)
+
+16 апреля, Минск, $99 (цена покупки до 20 марта)
+
+Доклады:
+
+- «Service Worker: Let Your Web App Feel Like a Native», Viktor Zozuliak (DataXu/RailsReactor)
+- «Dart: питание и сила для вашего проекта», Евгений Гусев (Wrike)
+- «Redux. From twitter hype to production», Вячеслав Пытель и Евгений Терпиль
+- «Анализ производительности web-приложений в 2016 году», Илья Климов (WookieeLabs)
+- «Migrate your React.js application from (m)Observable to Redux​», Владимир Барсуков (​Scrivito)
+
 ## Май
 
 ### [Frontend Conf](http://frontendconf.ru/)
 
 19 и 20 мая, Москва, 14 000 – 27 000 руб.
+
+## Июль
+
+### [OdessaJS](http://odessajs.org/)
+
+2 и 3 июля, Одесса  
+*На данный момент был только [анонс конференции в Твиттере](https://twitter.com/OdessaJS/status/706957901395415040)*
 
 ## Сентябрь
 
