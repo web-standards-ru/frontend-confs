@@ -1,5 +1,11 @@
 # По городам
 
+## Москва
+
+### [Frontend Conf](http://frontendconf.ru/)
+
+19 и 20 мая, 14 000 — 27 000 руб.
+
 ## Санкт-Петербург
 
 ### [PiterCSS](https://pitercss.timepad.ru/event/298243/)
