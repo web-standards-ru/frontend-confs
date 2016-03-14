@@ -1,5 +1,12 @@
 # По городам
 
+## Екатеринбург
+
+### [DUMP](http://dump-conf.ru/)
+
+8 апреля, 4 500 – 5 000 руб.
+
+
 ## Москва
 
 ### [Frontend Conf](http://frontendconf.ru/)
