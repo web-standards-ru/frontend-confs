@@ -8,9 +8,13 @@
 
 ## Март
 
+### [BeerJS](http://www.meetup.com/BeerJS-Moscow/)
+
+17 марта, Москва
+
 ### [ChernihivJS](http://www.meetup.com/chernihivjs/events/229153941/)
 
-17 марта
+17 марта, Чернигов
 
 Доклады:
 
