@@ -69,6 +69,18 @@
 
 9 апреля, Ростов-на-Дону
 
+### [RS on Tour. Gomel](http://gomel.rollingscopes.com/)
+
+9 апреля, Гомель
+
+Доклады:
+
+- «Web Accessibility», Станислав Зубович
+- «NightwatchJS. Легенды ночных стражей», Василий Ванчук
+- «TV in browsers: live cases», Александр Карлович
+- «Welcome to V/A/M R.», Павел Юхнович
+- «Migrating from angular 1.4 to 2.0», Олег Капля
+
 ### [Penza Frontend Meetup #2](https://vk.com/pfm_2)
 
 14 апреля, Пенза, вход свободный
