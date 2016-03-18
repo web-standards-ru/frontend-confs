@@ -8,22 +8,11 @@
 
 ## Март
 
-### [BeerJS](http://www.meetup.com/BeerJS-Moscow/)
-
-17 марта, Москва
-
-### [ChernihivJS](http://www.meetup.com/chernihivjs/events/229153941/)
-
-17 марта, Чернигов
-
-Доклады:
-
-- «От jQuery к React за 5 дней»
-- «Нужен ли нам TypeScript?»
-
 ### [PiterCSS](https://pitercss.timepad.ru/event/298243/)
 
 22 марта, Санкт-Петербург
+
+*Регистрация закрыта*
 
 Доклады:
 
@@ -43,6 +32,21 @@
 
 - «Web-интерфейсы: реактивный подход», Никита Дюмин (Прикладные технологии)
 - «Что такое service-worker?», Пётр Лаптев (MoscowFresh)
+- «Дружим с контентом пользователя», Владимир Кузнецов (Graph)
+
+### [Kursk Meetup](https://github.com/kurskmeetup/meetups)
+
+26 марта, Курск
+
+### [WebJam](https://events.yandex.ru/events/meetings/26-march-2016/)
+
+26 марта, Симферополь
+
+Доклады:
+
+- «Node.js как инструмент для разработчика интерфейсов», Руслан Муфтиев (Яндекс)
+- «Новая парадигма веб-разработки Microsoft», Дмитрий Иноземцев
+- «Под капотом у машины для тестирования», Николай Ильченко (Яндекс)
 
 ### [CodeFest](http://2016.codefest.ru/)
 
@@ -61,9 +65,20 @@
 
 ## Апрель
 
-### [DUMP](http://dump-conf.ru/)
+### [DUMP 2016 — FrontTalks](http://dump-conf.ru/section/8/)
 
-8 апреля, Екатеринбург, 4 500 – 5 000 руб.
+8 апреля, Екатеринбург, 5 000 руб.
+
+Доклады:
+
+- «БЭМ без bem-tools», Владимир Гриненко и Виталий Харисов (Яндекс)
+- «Баги в браузерах: кто виноват и что делать?», Виталий Зюзин (HTML Academy)
+- «Отладка кода в браузере», Антон Шувалов (Lazada)
+- «CSSO — сжимаем CSS», Роман Дворнов (Avito)
+- «React-native: одного JS мало», Алексей Андросов (Яндекс)
+- «Тесты — это не больно», Сергей Жигалов (Яндекс)
+- «Можно вообще всё. Раскладка по гриду», Вадим Макеев (Opera Software)
+- «Пишем код, тягаем штангу», Александр Завьялов (Яндекс)
 
 ### [RND.JS](https://vk.com/rndjs)
 
@@ -96,6 +111,10 @@
 - «Redux. From twitter hype to production», Вячеслав Пытель и Евгений Терпиль
 - «Анализ производительности web-приложений в 2016 году», Илья Климов (WookieeLabs)
 - «Migrate your React.js application from (m)Observable to Redux​», Владимир Барсуков (​Scrivito)
+
+### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2016)
+
+17 апреля, Киев, $65 – $73
 
 ## Май
 
