@@ -79,6 +79,17 @@
 
 ## Москва
 
+### [MoscowJS](https://moscowjs.timepad.ru/event/308175/)
+
+31 марта
+
+Доклады:
+
+- «Observable и computed на примере KnockoutJS», Ольга Кобец (Яндекс)
+- «AMP — технология на три буквы», Макс Фролов (Rambler&Co)
+- «Во все тяжкие с responsive images», Павел Померанцев (Unclip)
+- «Опыт разработки универсальной библиотеки визуальных компонентов в HeadHunter», Никита Мостовой (HeadHunter)
+
 ### [Frontend Conf](http://frontendconf.ru/)
 
 19 и 20 мая, 14 000 – 27 000 руб.
