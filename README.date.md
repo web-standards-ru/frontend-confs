@@ -63,6 +63,17 @@
 - «Жизнь HTML в iOS приложении», Роман Янке (2ГИС)
 - «Event-Sourcing your React-Flux applications», Maurice de Beijer (ABL - The Problem Solver)
 
+### [MoscowJS](https://moscowjs.timepad.ru/event/308175/)
+
+31 марта, Москва
+
+Доклады:
+
+- «Observable и computed на примере KnockoutJS», Ольга Кобец (Яндекс)
+- «AMP — технология на три буквы», Макс Фролов (Rambler&Co)
+- «Во все тяжкие с responsive images», Павел Померанцев (Unclip)
+- «Опыт разработки универсальной библиотеки визуальных компонентов в HeadHunter», Никита Мостовой (HeadHunter)
+
 ## Апрель
 
 ### [DUMP 2016 — FrontTalks](http://dump-conf.ru/section/8/)
