@@ -77,7 +77,8 @@
 
 ### [DUMP 2016 — FrontTalks](http://dump-conf.ru/section/8/)
 
-8 апреля, Екатеринбург, 5 000 руб.
+8 апреля, Екатеринбург, 5000 руб.  
+*Для студентов скидка, 2500 руб.: http://dump-conf.ru/student-discount/*
 
 Доклады:
 
