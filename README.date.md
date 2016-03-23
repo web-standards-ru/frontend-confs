@@ -12,7 +12,7 @@
 
 24 марта, Рязань
 
-### [FrontendFellows](https://frontendfellows.timepad.ru/event/284979/)
+### [FrontendFellows #3](https://frontendfellows.timepad.ru/event/284979/)
 
 25 марта, Челябинск
 
@@ -21,10 +21,15 @@
 - «Web-интерфейсы: реактивный подход», Никита Дюмин (Прикладные технологии)
 - «Что такое service-worker?», Пётр Лаптев (MoscowFresh)
 - «Дружим с контентом пользователя», Владимир Кузнецов (Graph)
+- «Функциональное программирование на.bat», Роман Парадеев (Яндекс)
 
 ### [Kursk Meetup](https://github.com/kurskmeetup/meetups)
 
 26 марта, Курск
+
+Доклады:
+
+- «Дизайнеры против веб-разработчиков», Вадим Дюмин (Super Studio)
 
 ### [WebJam](https://events.yandex.ru/events/meetings/26-march-2016/)
 
@@ -39,7 +44,7 @@
 ### [CodeFest](http://2016.codefest.ru/)
 
 26 и 27 марта, Новосибирск, 7 800 руб.  
-*Фронтенд-секция только 26 марта*
+*Фронтенд-секция только 26 марта; регистрация закрыта*
 
 Доклады: 
 
@@ -64,6 +69,12 @@
 
 ## Апрель
 
+### [PiterJS #7](http://piter-united.ru/itgm7/itgm.html)
+
+2 апреля, Санкт-Петербург
+
+*Конференция пройдёт в рамках IT Global Meetup*
+
 ### [DUMP 2016 — FrontTalks](http://dump-conf.ru/section/8/)
 
 8 апреля, Екатеринбург, 5 000 руб.
@@ -83,17 +94,24 @@
 
 9 апреля, Ростов-на-Дону
 
+Доклады:
+
+- «Будущее с Angular 2», Евгений Кубеш (ИТ инкубатор Борщ)
+- «9 кругов ада разработки front-end», Виталий Слободин
+
 ### [RS on Tour. Gomel](http://gomel.rollingscopes.com/)
 
 9 апреля, Гомель
 
 Доклады:
 
-- «Web Accessibility», Станислав Зубович
 - «NightwatchJS. Легенды ночных стражей», Василий Ванчук
-- «TV in browsers: live cases», Александр Карлович
-- «Welcome to V/A/M R.», Павел Юхнович
 - «Migrating from angular 1.4 to 2.0», Олег Капля
+- «Asyncable ES для тех, кто еще не в теме», Денис Влассенко
+- «Welcome to V/A/M R.», Павел Юхнович
+- «Google Closure Library + Compiler - Что в этом особенного и как это работает», Иван Селицкий
+- «TV in browsers: live cases», Александр Карлович
+- «Web Accessibility», Станислав Зубович
 
 ### [Penza Frontend Meetup #2](https://vk.com/pfm_2)
 
@@ -110,16 +128,38 @@
 - «Redux. From twitter hype to production», Вячеслав Пытель и Евгений Терпиль
 - «Анализ производительности web-приложений в 2016 году», Илья Климов (WookieeLabs)
 - «Migrate your React.js application from (m)Observable to Redux​», Владимир Барсуков (​Scrivito)
+- «CCSO — инструмент для минификации CSS, который недавно вернулся к активной разработке. Зачем?», Роман Дворнов (Avito)
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2016)
 
 17 апреля, Киев, $65 – $73
 
+Доклады:
+
+- «Minecraft на Javascript: как писать моды», Юлия Пучнина
+- «Real-life React», Роман Якобчук (Lifestreet Media)
+- «Angular Components: все уже за, а вы еще нет?, Сергей Больщиков (Wix)
+- «ES6 - Just Do It», Алексей Косинский (Gulsy Inc)
+- «Ember.js 2 - Future-friendly ambitious apps, that scale!», Michael North (Levanto Financial)
+- «Web rendering performance», Martin Naumann (Archilogic)
+
+### [Front-End Meetup](http://expertfridays.com/meetups/front-end-meetup-3/)
+
+29 апреля, Одесса
+
+### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
+
+29 апреля, Екатеринбург
+
 ## Май
+
+### [FrontendFellows #5](https://frontendfellows.timepad.ru/event/299132/)
+
+27 мая, Пермь
 
 ### [Frontend Conf](http://frontendconf.ru/)
 
-19 и 20 мая, Москва, 14 000 – 27 000 руб.
+31 мая и 1 июня, Москва, 14 000 – 27 000 руб.
 
 ## Июль
 
