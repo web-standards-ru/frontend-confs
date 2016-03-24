@@ -8,10 +8,6 @@
 
 ## Март
 
-### [WebPurple Meetup #7](https://vk.com/webpurple_meetup7)
-
-24 марта, Рязань
-
 ### [FrontendFellows #3](https://frontendfellows.timepad.ru/event/284979/)
 
 25 марта, Челябинск
@@ -43,8 +39,8 @@
 
 ### [CodeFest](http://2016.codefest.ru/)
 
-26 и 27 марта, Новосибирск, 7 800 руб.  
-*Фронтенд-секция только 26 марта; регистрация закрыта*
+26 и 27 марта, Новосибирск, 7800 руб.  
+*Регистрация закрыта; доступен платный [онлайн-просмотр за 1000 руб.](http://2016.codefest.ru/onlinebegins/)*
 
 Доклады: 
 
@@ -55,6 +51,20 @@
 - «„Конструктор“, или идеальный порядок в большом проекте», Денис Паясь (Яндекс)
 - «Жизнь HTML в iOS приложении», Роман Янке (2ГИС)
 - «Event-Sourcing your React-Flux applications», Maurice de Beijer (ABL - The Problem Solver)
+- «Автоматизация визуального тестирования адаптивного дизайна на примере Galen Framework и Applitools Eyes», Дарья Кисель (ISsoft) и Антон Семенченко (DPI.Solutions) *доклад во время квартирника во второй день*
+
+### [Web Development Meetup](https://vk.com/wall-97591821_160)
+
+27 марта, Таганрог
+
+Доклады:
+
+- «Автоматизация тестирования при помощи PhantomJS», Виталий Слободин
+- «Symfony - framework для гибкой разработки», Денис Долгополов
+- «Использование контейнеров в реальной жизни», Даниил Соболь
+- «Типовые ошибки в веб-программировании», Евгений Костенко
+- «Веб сайты всех мастей на Drupal», Николай Шаповалов
+- «Web-scraping: задачи, проблемы, инструменты», Никита Роговой
 
 ### [MoscowJS](https://moscowjs.timepad.ru/event/308175/)
 
@@ -71,9 +81,14 @@
 
 ### [PiterJS #7](http://piter-united.ru/itgm7/itgm.html)
 
-2 апреля, Санкт-Петербург
-
+2 апреля, Санкт-Петербург  
 *Конференция пройдёт в рамках IT Global Meetup*
+
+Доклады:
+
+- «Из прототипа в продакшн. Сервис на node.js», Алексей Борисов
+- «Functional-reactive programming for building better UI», Кирилл Сухомлин
+- «WebGL на практике: 3D шутер на Three.js», Сурков Алексей и Лебедев Кирилл
 
 ### [DUMP 2016 — FrontTalks](http://dump-conf.ru/section/8/)
 
@@ -120,7 +135,7 @@
 
 ### [FDConf](http://fdconf.by/)
 
-16 апреля, Минск, $99 (цена покупки до 20 марта)
+16 апреля, Минск, ~$135 (цена покупки до 14 апреля)
 
 Доклады:
 
@@ -130,6 +145,7 @@
 - «Анализ производительности web-приложений в 2016 году», Илья Климов (WookieeLabs)
 - «Migrate your React.js application from (m)Observable to Redux​», Владимир Барсуков (​Scrivito)
 - «CCSO — инструмент для минификации CSS, который недавно вернулся к активной разработке. Зачем?», Роман Дворнов (Avito)
+- «Будь первым», Константин Кривленя (Taucraft)
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2016)
 
@@ -138,6 +154,7 @@
 Доклады:
 
 - «Minecraft на Javascript: как писать моды», Юлия Пучнина
+- «Интерактивные декларативные графики на React+D3», Алексей Волков (Rumble)
 - «Real-life React», Роман Якобчук (Lifestreet Media)
 - «Angular Components: все уже за, а вы еще нет?, Сергей Больщиков (Wix)
 - «ES6 - Just Do It», Алексей Косинский (Gulsy Inc)
@@ -147,6 +164,10 @@
 ### [Front-End Meetup](http://expertfridays.com/meetups/front-end-meetup-3/)
 
 29 апреля, Одесса
+
+Доклады:
+
+- «Progressive Web Apps», Тимофей Лавренюк
 
 ### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
 
