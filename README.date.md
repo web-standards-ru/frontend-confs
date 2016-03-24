@@ -8,10 +8,6 @@
 
 ## Март
 
-### [WebPurple Meetup #7](https://vk.com/webpurple_meetup7)
-
-24 марта, Рязань
-
 ### [FrontendFellows #3](https://frontendfellows.timepad.ru/event/284979/)
 
 25 марта, Челябинск
