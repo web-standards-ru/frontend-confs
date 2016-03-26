@@ -73,6 +73,8 @@
 - «ES6 - Just Do It», Алексей Косинский (Gulsy Inc)
 - «Ember.js 2 - Future-friendly ambitious apps, that scale!», Michael North (Levanto Financial)
 - «Web rendering performance», Martin Naumann (Archilogic)
+- «Spec driven development in Microservices», Никита Галкин (Ciklum)
+- «JS Frameworks в перспективе проекта и бизнеса», Юрий Дадычин (Levi9)
 
 ## Курск
 
@@ -104,7 +106,8 @@
 
 ### [MoscowJS](https://moscowjs.timepad.ru/event/308175/)
 
-31 марта
+31 марта  
+*Регистрация закрыта*
 
 Доклады:
 
@@ -166,12 +169,14 @@
 
 ### [RND.JS](https://vk.com/rndjs)
 
-9 апреля
+9 апреля  
+*Мест больше нет, но будет онлайн-трансляция*
 
 Доклады:
 
 - «Будущее с Angular 2», Евгений Кубеш (ИТ инкубатор Борщ)
 - «9 кругов ада разработки front-end», Виталий Слободин
+- «Продвинутая оптимизация быстродействия веб-страниц», Александр Храмов
 
 ## Санкт-Петербург
 
