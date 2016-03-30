@@ -101,6 +101,7 @@
 - «Migrate your React.js application from (m)Observable to Redux​», Владимир Барсуков (​Scrivito)
 - «CCSO — инструмент для минификации CSS, который недавно вернулся к активной разработке. Зачем?», Роман Дворнов (Avito)
 - «Будь первым», Константин Кривленя (Taucraft)
+- «В погоне за производительностью», Денис Мишунов
 
 ### [FrontDays Meetup](http://frontdays.ru/)
 
@@ -115,10 +116,11 @@
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2016)
 
-17 апреля, Киев, $65 – $73
+17 апреля, Киев, $73
 
 Доклады:
 
+- «Acceptance Testing in NodeJS: Tools & Approaches», Михаил Боднарчук (Codegyre)
 - «Minecraft на Javascript: как писать моды», Юлия Пучнина
 - «Борьба с асинхронностью в JS», Максим Климишин (GVMachines Inc.)
 - «Интерактивные декларативные графики на React+D3», Алексей Волков (Rumble)
