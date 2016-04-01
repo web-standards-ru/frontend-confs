@@ -165,9 +165,9 @@
 
 27 мая, Пермь
 
-### [Frontend Conf](http://frontendconf.ru/)
+### [FrontendConf](http://frontendconf.ru/)
 
-31 мая и 1 июня, Москва, 14 000 – 27 000 руб.
+31 мая и 1 июня, Москва, 16 000 – 27 000 руб.
 
 ## Июль
 
