@@ -108,9 +108,9 @@
 
 ## Москва
 
-### [Frontend Conf](http://frontendconf.ru/)
+### [FrontendConf](http://frontendconf.ru/)
 
-31 мая и 1 июня, 14 000 – 27 000 руб.
+31 мая и 1 июня, 16 000 – 27 000 руб.
 
 ## Одесса
 
