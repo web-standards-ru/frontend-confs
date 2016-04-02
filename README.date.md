@@ -118,6 +118,7 @@
 - «Web rendering performance», Martin Naumann (Archilogic)
 - «Spec driven development in Microservices», Никита Галкин (Ciklum)
 - «JS Frameworks в перспективе проекта и бизнеса», Юрий Дадычин (Levi9)
+- «Bundling: you are doing it wrong», Алексей Швайка (Hell Yeah LLC)
 
 ### [Стачка](http://nastachku.ru/)
 
@@ -125,6 +126,7 @@
 
 Доклады:
 
+- «Почему нельзя игнорировать GitLab в 2016 году», Немытченко Иван (GitLab)
 - «Что стоит знать о групповой динамике», Савунов Василий (Scrumtrek)
 - «Как мы делаем Банки.ру», Ивлиев Роман (Банки.ру)
 - «Использование File API в Конструкторе Яндекс.Карт», Шмыров Всеволод (Яндекс)
