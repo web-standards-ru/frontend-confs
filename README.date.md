@@ -9,26 +9,6 @@
 
 ## Апрель
 
-### [Kursk Meetup](https://vk.com/kurskmeetup)
-
-2 апреля, Курск  
-*Конференции год, так что будет небольшое празднование на эту тему*
-
-Доклады:
-
-- «Опять скрипит потертое седло», Михаил Семехин
-
-### [PiterJS #7](http://piter-united.ru/itgm7/itgm.html)
-
-2 апреля, Санкт-Петербург  
-*Конференция пройдёт в рамках IT Global Meetup*
-
-Доклады:
-
-- «Из прототипа в продакшн. Сервис на node.js», Алексей Борисов
-- «Functional-reactive programming for building better UI», Кирилл Сухомлин
-- «WebGL на практике: 3D шутер на Three.js», Сурков Алексей и Лебедев Кирилл
-
 ### [DUMP 2016 — FrontTalks](http://dump-conf.ru/section/8/)
 
 8 апреля, Екатеринбург, 5000 руб.  
