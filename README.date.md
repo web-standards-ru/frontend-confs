@@ -17,11 +17,11 @@
 Доклады:
 
 - «БЭМ без bem-tools», Владимир Гриненко и Виталий Харисов (Яндекс)
-- «Баги в браузерах: кто виноват и что делать?», Виталий Зюзин (HTML Academy)
 - «Отладка кода в браузере», Антон Шувалов (Lazada)
+- «Если у вас нет тестов, то..», Сергей Жигалов (Яндекс)
 - «CSSO — сжимаем CSS», Роман Дворнов (Avito)
 - «React-native: одного JS мало», Алексей Андросов (Яндекс)
-- «Если у вас нет тестов, то..», Сергей Жигалов (Яндекс)
+- «Баги в браузерах: кто виноват и что делать?», Виталий Зюзин (HTML Academy)
 - «Можно вообще всё. Раскладка по гриду», Вадим Макеев (Opera Software)
 - «Пишем код, тягаем штангу», Александр Завьялов (Яндекс)
 
@@ -52,9 +52,17 @@
 - «TV in browsers: live cases», Александр Карлович
 - «Web Accessibility», Станислав Зубович
 
+### [SPB Frontend](https://spb-frontend-events.timepad.ru/event/313480/)
+
+13 апреля, Санкт-Петербург
+
 ### [Penza Frontend Meetup #2](https://vk.com/pfm_2)
 
-14 апреля, Пенза, вход свободный
+14 апреля, Пенза
+
+Доклады:
+
+- «Selenium тесты», Александр Павлов (FunCorp)
 
 ### [FDConf](http://fdconf.by/)
 
@@ -70,6 +78,7 @@
 - «CCSO — инструмент для минификации CSS, который недавно вернулся к активной разработке. Зачем?», Роман Дворнов (Avito)
 - «Будь первым», Константин Кривленя (Taucraft)
 - «В погоне за производительностью», Денис Мишунов
+- «Пиринговый веб на JavaScript», Денис Глазков
 
 ### [FrontDays Meetup](http://frontdays.ru/)
 
@@ -89,7 +98,6 @@
 Доклады:
 
 - «Acceptance Testing in NodeJS: Tools & Approaches», Михаил Боднарчук (Codegyre)
-- «Minecraft на Javascript: как писать моды», Юлия Пучнина
 - «Борьба с асинхронностью в JS», Максим Климишин (GVMachines Inc.)
 - «Интерактивные декларативные графики на React+D3», Алексей Волков (Rumble)
 - «Real-life React», Роман Якобчук (Lifestreet Media)
@@ -100,6 +108,7 @@
 - «Spec driven development in Microservices», Никита Галкин (Ciklum)
 - «JS Frameworks в перспективе проекта и бизнеса», Юрий Дадычин (Levi9)
 - «Bundling: you are doing it wrong», Алексей Швайка (Hell Yeah LLC)
+- «Modern JavaScript debugging using DevTools», Umar Hansa (Shazam)
 
 ### [Стачка](http://nastachku.ru/)
 
@@ -124,6 +133,17 @@
 - «Применение продвинутых методик функционального тестирования», Конушин Андрей (RSTQB)
 - «Content based sharding», Кечинов Михаил (REES46)
 
+### [SPA meetup #2](https://moscow-spa.timepad.ru/event/311590/)
+
+23 апреля, Москва
+
+Доклады:
+
+- «Упрощаем «жизнь» в большом проекте», Константин Лебедев (Mail.ru)
+- «МРТ для данных», Анастасия Горячева (Avito)
+- «React Native: одного JS мало (режиссерская версия)», Алексей Андросов (Яндекс)
+- «Чему можно научиться у Dart: переносим подходы из Dart и Angular2 в SPA на JavaScript», Алексей Золотых (Wrike)
+
 ### [Front-End Meetup](http://expertfridays.com/meetups/front-end-meetup-3/)
 
 29 апреля, Одесса
@@ -135,6 +155,10 @@
 ### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
 
 29 апреля, Екатеринбург
+
+Доклады:
+
+- «Тестирование скриншотами», Олег Мохов (Яндекс)
 
 ## Май
 
