@@ -13,6 +13,7 @@
 - [Тольятти](#Тольятти)
 - [Томск](#Томск)
 - [Ульяновск](#Ульяновск)
+- [Харьков](#Харьков)
 
 ## Гомель
 
@@ -78,16 +79,20 @@
 - «ES6 - Just Do It», Алексей Косинский (Gulsy Inc)
 - «Ember.js 2 - Future-friendly ambitious apps, that scale!», Michael North (Levanto Financial)
 - «Life of a pixel: Web rendering performance», Martin Naumann (Archilogic)
+- «Shaders - unlocking the GPU with JavaScript», Martin Naumann (Archilogic)
 - «Spec driven development in Microservices», Никита Галкин (Ciklum)
 - «JS Frameworks в перспективе проекта и бизнеса», Юрий Дадычин (Levi9)
 - «Bundling: you are doing it wrong», Алексей Швайка (Hell Yeah LLC)
 - «Modern JavaScript debugging using DevTools», Umar Hansa (Shazam)
+- «Angular 2. Quickstart», Евгений Сафронов (RIFL Media LLC)
+- «Native JavaScript на мобильных устройствах», Елена Жукова (Upwork/MobiDev)
 
 ## Минск
 
 ### [FDConf](http://fdconf.by/)
 
-16 апреля, ~$135 (цена покупки до 14 апреля)
+16 апреля, ~$135 (цена покупки до 14 апреля)  
+*Промокод для 10-процентной скидки — SayYesFDConf, покупать [здесь](https://bezkassira.by/buy/konferencij_frontend_dev_conf-1120/)*
 
 Доклады:
 
@@ -133,6 +138,9 @@
 Доклады:
 
 - «Progressive Web Apps», Тимофей Лавренюк
+- «Системы сборки для фронтенда», Юрий Федоренко
+- «Mediator & Singleton. Подходы к проектированию и разработке архитектуры», Андрей Лазарев
+- «Используем Jade как HTML препроцессор», Владимир Поздняков
 
 ### [OdessaJS](http://odessajs.org/)
 
@@ -148,6 +156,7 @@
 Доклады:
 
 - «Selenium тесты», Александр Павлов (FunCorp)
+- «API. Средства разработки», Сергей Маковеев, (Веб ё студия)
 
 ## Пермь
 
@@ -169,12 +178,23 @@
 - «Продвинутая оптимизация быстродействия веб-страниц», Александр Храмов
 - «Вставляем как Гугл», Антон Хлыновский (TradingView)
 - «Возможности 3D графики в браузере», Кирилл Петряев
+- «React в продакшене: форма добавления заказа Везёт Всем», Антон Сивогривов (Везёт Всем)
 
 ## Санкт-Петербург
 
 ### [SPB Frontend](https://spb-frontend-events.timepad.ru/event/313480/)
 
 13 апреля
+
+### [Frontend Party](https://events.yandex.ru/events/meetings/29-april-2016/)
+
+29 апреля
+
+Доклады:
+
+- «Как оформить npm-пакет», Вячеслав Олиянчук (Яндекс)
+- «Тестирование фронтенда своими руками», Сергей Бережной (Яндекс)
+- «Модульная сборка БЭМ-проектов. И никаких bem-tools», Владимир Гриненко (Яндекс)
 
 ## Тольятти
 
@@ -200,6 +220,7 @@
 - «Soft skills сотрудников – залог успешного развития IT-компании», Сергей Дорофеев (Rubius)
 - «Junior to Senior и долина смерти», Стас Елисеев (Userstory)
 - «10 ошибок тестирования программных продуктов», Алексей Архипов (Multipass)
+- «Nanos gigantum humeris insidentes», Ronald Stipek (TapTooiT Inc.)
 
 ## Ульяновск
 
@@ -230,3 +251,9 @@
 - «Применение продвинутых методик функционального тестирования», Конушин Андрей (RSTQB)
 - «Увидеть больше», Беликов Николай (SimbirSoft)
 - «Content based sharding», Кечинов Михаил (REES46)
+
+## Харьков
+
+### [KharkivJS #6](http://kharkivjs.org/)
+
+21 мая
