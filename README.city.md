@@ -3,6 +3,7 @@
 - [Гомель](#Гомель)
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
+- [Курск](#Курск)
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
@@ -76,6 +77,7 @@
 - «Интерактивные декларативные графики на React+D3», Алексей Волков (Rumble)
 - «Real-life React», Роман Якобчук (Lifestreet Media)
 - «Angular Components: все уже за, а вы еще нет?, Сергей Больщиков (Wix)
+- «Offline-first приложение на Reflex», Денис Яремов (Lohika)
 - «ES6 - Just Do It», Алексей Косинский (Gulsy Inc)
 - «Ember.js 2 - Future-friendly ambitious apps, that scale!», Michael North (Levanto Financial)
 - «Life of a pixel: Web rendering performance», Martin Naumann (Archilogic)
@@ -86,6 +88,12 @@
 - «Modern JavaScript debugging using DevTools», Umar Hansa (Shazam)
 - «Angular 2. Quickstart», Евгений Сафронов (RIFL Media LLC)
 - «Native JavaScript на мобильных устройствах», Елена Жукова (Upwork/MobiDev)
+
+## Курск
+
+### [Kursk Meetup](https://github.com/kurskmeetup/meetups)
+
+16 апреля
 
 ## Минск
 
@@ -234,9 +242,11 @@
 - «HTTP/2: мифы и факты», Бартенев Валентин (NGINX, Inc.)
 - «Можно вообще всё. Раскладка по гриду», Макеев Вадим (Opera)
 - «Тестирование фронтенда: миф или реальность?», Чернобров Михаил (Rambler & Co)
+- «В поисках идеальной ахритектуры ui-проекта», Бабич Татьяна (Simbirsoft)
 - «Пожалуйста, введите ваш пароль. Дважды!», Гайнуллин Артур (Cryptogramm)
 - «UX и UI - почему важно внедрять тестирование на начальных этапах», Ваказов Рамис (SimbirSoft)
 - «Процесс разработки в МоемСкладе: анархия под контролем», Рахимбердиев Аскар (МойСклад)
+- «Взгляд из космоса», Рязанский Сергей (Роскосмос)
 - «Cбор отчетов об ошибках и мониторинг производительности клиентского Javascript», Иноземцев Александр (Headhunter)
 - «Почему нельзя игнорировать GitLab в 2016 году», Немытченко Иван (GitLab)
 - «Что стоит знать о групповой динамике», Савунов Василий (Scrumtrek)
