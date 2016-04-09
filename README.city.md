@@ -34,22 +34,6 @@
 
 ## Екатеринбург
 
-### [DUMP 2016 — FrontTalks](http://dump-conf.ru/section/8/)
-
-8 апреля, 5000 руб.  
-*Для студентов скидка, 2500 руб.: http://dump-conf.ru/student-discount/*
-
-Доклады:
-
-- «БЭМ без bem-tools», Владимир Гриненко и Виталий Харисов (Яндекс)
-- «Отладка кода в браузере», Антон Шувалов (Lazada)
-- «Если у вас нет тестов, то..», Сергей Жигалов (Яндекс)
-- «CSSO — сжимаем CSS», Роман Дворнов (Avito)
-- «React-native: одного JS мало», Алексей Андросов (Яндекс)
-- «Баги в браузерах: кто виноват и что делать?», Виталий Зюзин (HTML Academy)
-- «Можно вообще всё. Раскладка по гриду», Вадим Макеев (Opera Software)
-- «Пишем код, тягаем штангу», Александр Завьялов (Яндекс)
-
 ### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
 
 29 апреля
@@ -193,6 +177,10 @@
 ### [SPB Frontend](https://spb-frontend-events.timepad.ru/event/313480/)
 
 13 апреля
+
+Доклады:
+
+- «Законы в интерфейсах или зачем они нам?», Сергей Густун (Aviasales)
 
 ### [Frontend Party](https://events.yandex.ru/events/meetings/29-april-2016/)
 
