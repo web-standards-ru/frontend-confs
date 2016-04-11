@@ -45,6 +45,7 @@
 - «В погоне за производительностью», Денис Мишунов
 - «Пиринговый веб на JavaScript», Денис Глазков
 - «Scalable Angular 2 Application Architecture», Minko Gechev
+- «Если у вас нету тестов...», Сергей Жигалов (Яндекс)
 
 ### [FrontDays Meetup](http://frontdays.ru/)
 
@@ -88,7 +89,7 @@
 
 ### [Стачка](http://nastachku.ru/)
 
-22–23 апреля, Ульяновск  
+22–23 апреля, Ульяновск, 2500 руб. (цена до 12 апреля)  
 *Голосуйте за доклады, которые ещё не вошли в [программу](http://nastachku.ru/schedule) в разделе [Доклады 2.0](http://nastachku.ru/user_lectures)*
 
 Доклады:

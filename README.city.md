@@ -80,6 +80,7 @@
 - «В погоне за производительностью», Денис Мишунов
 - «Пиринговый веб на JavaScript», Денис Глазков
 - «Scalable Angular 2 Application Architecture», Minko Gechev
+- «Если у вас нету тестов...», Сергей Жигалов (Яндекс)
 
 ### [Web Not Bombs: Morning Talks #1](https://www.facebook.com/events/787367184698396/)
 
@@ -188,7 +189,7 @@
 
 ### [Стачка](http://nastachku.ru/)
 
-22–23 апреля  
+22–23 апреля, 2500 руб. (цена до 12 апреля)  
 *Голосуйте за доклады, которые ещё не вошли в [программу](http://nastachku.ru/schedule) в разделе [Доклады 2.0](http://nastachku.ru/user_lectures)*
 
 Доклады:
