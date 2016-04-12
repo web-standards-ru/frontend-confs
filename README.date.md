@@ -15,6 +15,8 @@
   <summary>**Доклады**</summary>
 
   - «Законы в интерфейсах или зачем они нам?», Сергей Густун (Aviasales)
+  - «„Утиные истории“ — не все поймут, но многие вспомнят...», Роман Ганин
+  - «Используем веб-шрифты правильно», Дмитрий Рычков (Wrike)
 </details>
 
 ### [Penza Frontend Meetup #2](https://vk.com/pfm_2)
@@ -50,6 +52,9 @@
   - «В погоне за производительностью», Денис Мишунов
   - «Пиринговый веб на JavaScript», Денис Глазков
   - «Scalable Angular 2 Application Architecture», Minko Gechev
+  - «Если у вас нету тестов...», Сергей Жигалов (Яндекс)
+  - «Introduction to Aurelia», Rob Eisenberg (Blue Spire Consulting)
+  - «JavaScript: прошлое, настоящее и будущее», Владимир Дашукевич (XBSoftware)
 </details>
 
 ### [FrontDays Meetup](http://frontdays.ru/)
@@ -86,15 +91,28 @@
   - «Spec driven development in Microservices», Никита Галкин (Ciklum)
   - «JS Frameworks в перспективе проекта и бизнеса», Юрий Дадычин (Levi9)
   - «Bundling: you are doing it wrong», Алексей Швайка (Hell Yeah LLC)
-  - «Modern JavaScript debugging using DevTools», Umar Hansa (Shazam)
+  - «DevTools an Animated Journey», Umar Hansa (Shazam)
   - «Angular 2. Quickstart», Евгений Сафронов (RIFL Media LLC)
   - «Native JavaScript на мобильных устройствах», Елена Жукова (Upwork/MobiDev)
+  - «Behind the terminal», Евгений Обрезков (Onix-Systems)
 </details>
 
 ### [Web Not Bombs: Morning Talks #1](https://www.facebook.com/events/787367184698396/)
 
 17 апреля, Минск  
 *Приносите майки и наклейки Web Not Bombs: за них кафе даёт 10% скидки!*
+
+### [The Rolling Scopes #24](http://rollingscopes.com/)
+
+21 апреля, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Ленивая история про ленивый JavaScript», Денис Влассенко
+  - «Как мы разрабатываем Orange Buildboard 2.0», Константин Кривленя
+  - «Redux в реальной жизни», Иван Акулов
+</details>
 
 ### [Стачка](http://nastachku.ru/)
 
@@ -151,7 +169,8 @@
   - «Soft skills сотрудников – залог успешного развития IT-компании», Сергей Дорофеев (Rubius)
   - «Junior to Senior и долина смерти», Стас Елисеев (Userstory)
   - «10 ошибок тестирования программных продуктов», Алексей Архипов (Multipass)
-  - «Nanos gigantum humeris insidentes», Ronald Stipek (TapTooiT Inc.)
+  - «Как перейти от заказной разработки к собственным продуктам», Роман Малахов (ZOOM, bombsquare)
+  - «Standing on the shoulders of giants», Ronald Stipek (TapTooiT Inc.)
 </details>
 
 ### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
@@ -191,9 +210,33 @@
 
 ## Май
 
+### [FrontDays Meetup](http://frontdays.ru/)
+
+14 мая, Тольятти
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React.js в продакшене», Андрей Захаров (Octoberry)
+  - «Кроссплатформенные приложения на js: 
+от web-based к native», Артём Лисовский (Директ лайн)
+</details>
+
 ### [KharkivJS #6](http://kharkivjs.org/)
 
 21 мая, Харьков
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «High Performance NodeJS», Евгений Обрезков (Onix-Systems)
+  - «The amazing universe of components», Кирилл Яковенко
+  - «Better async code with promises», Алексей Швайка (Hell Yeah LLC)
+  - «ClojureScript, что ты такое?», Роман Лютиков
+  - «Reactive Programming with RxJS», Алексей Богачук
+  - «Immutable vs Mutable», Евгений Нежута
+  - «У нас в Архитектуре все не очень:)», Дима Малеев (Epam / Lviv Code School)
+</details>
 
 ### [FrontendFellows #5](https://frontendfellows.timepad.ru/event/299132/)
 
