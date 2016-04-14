@@ -22,6 +22,13 @@
 
 16 апреля, Курск
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Full-stack Clojure in production», Андрей Бутов
+  - «Clojure для веганов, Tiny-Lisp для мужчин», Сергей Головин
+</details>
+
 ### [FDConf](http://fdconf.by/)
 
 16 апреля, Минск, ~$135 (цена покупки до 14 апреля)  
@@ -170,6 +177,19 @@
   - «Ничего ты не знаешь, Джон Сноу. Фронтенд new.vk.com», Слава Шебанов (ВКонтакте)
 </details>
 
+### [MoscowJS 30](http://moscowjs.ru/)
+
+28 апреля, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Введение в GraphQL и Relay», Слинько Вячеслав (ЦИАН Групп)
+  - «Можно вообще всё. Раскладка по гриду», Макеев Вадим (Opera)
+  - «Быстрее, выше, сильнее в современной архитектуре», Копылов Егор (Яндекс)
+  - «Scala для супергеройского фронтенда», Алексей Фомкин (Флексис)
+</details>
+
 ### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
 
 29 апреля, Екатеринбург
@@ -218,6 +238,10 @@
   - «Кроссплатформенные приложения на js: от web-based к native», Артём Лисовский (Директ лайн)
 </details>
 
+### [VLDC lite 2.547(2)](https://vldc.timepad.ru/event/318569/)
+
+21 мая, Владивосток
+
 ### [KharkivJS #6](http://kharkivjs.org/)
 
 21 мая, Харьков
@@ -237,6 +261,19 @@
 ### [FrontendFellows #5](https://frontendfellows.timepad.ru/event/299132/)
 
 27 мая, Пермь
+
+### [KirovohradJS](http://kirovohradjs.com/)
+
+28 мая, Кировоград
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Функциональная парадигма в JavaScript», Евгений Обрезков
+  - «Meteor», Андрей Орел
+  - «Шаблоны проектирования в JavaScript», Анастасия Смирнова
+  - «Освоение Phaser после Action Script 3», Алексей Извалов
+</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
