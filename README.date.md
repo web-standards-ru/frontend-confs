@@ -7,17 +7,6 @@
 
 ## Апрель
 
-### [Penza Frontend Meetup #2](https://vk.com/pfm_2)
-
-14 апреля, Пенза
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Selenium тесты», Александр Павлов (FunCorp)
-  - «API. Средства разработки», Сергей Маковеев, (Веб ё студия)
-</details>
-
 ### [Kursk Meetup](https://github.com/kurskmeetup/meetups)
 
 16 апреля, Курск
