@@ -7,52 +7,6 @@
 
 ## Апрель
 
-### [Kursk Meetup](https://github.com/kurskmeetup/meetups)
-
-16 апреля, Курск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Full-stack Clojure in production», Андрей Бутов
-  - «Clojure для веганов, Tiny-Lisp для мужчин», Сергей Головин
-</details>
-
-### [FDConf](http://fdconf.by/)
-
-16 апреля, Минск, ~$150
-*Промокод для 10-процентной скидки — SayYesFDConf, покупать [здесь](https://bezkassira.by/buy/konferencij_frontend_dev_conf-1120/)*
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Service Worker: Let Your Web App Feel Like a Native», Viktor Zozuliak (DataXu/RailsReactor)
-  - «Dart: питание и сила для вашего проекта», Евгений Гусев (Wrike)
-  - «Redux. From twitter hype to production», Вячеслав Пытель и Евгений Терпиль
-  - «Анализ производительности web-приложений в 2016 году», Илья Климов (WookieeLabs)
-  - «Migrate your React.js application from (m)Observable to Redux​», Владимир Барсуков (​Scrivito)
-  - «CCSO — инструмент для минификации CSS, который недавно вернулся к активной разработке. Зачем?», Роман Дворнов (Avito)
-  - «Будь первым», Константин Кривленя (Taucraft)
-  - «В погоне за производительностью», Денис Мишунов
-  - «Пиринговый веб на JavaScript», Денис Глазков
-  - «Scalable Angular 2 Application Architecture», Minko Gechev
-  - «Если у вас нету тестов...», Сергей Жигалов (Яндекс)
-  - «Introduction to Aurelia», Rob Eisenberg (Blue Spire Consulting)
-  - «JavaScript: прошлое, настоящее и будущее», Владимир Дашукевич (XBSoftware)
-</details>
-
-### [FrontDays Meetup](http://frontdays.ru/)
-
-16 апреля, Тольятти
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «React.js и методологии разработки на нём», Алексей Ульянов (Веблайм)
-  - «Знакомьтесь, JWT. Что это такое и зачем он нужен?», Михаил Леванов (EPAM)
-  - «Оптимизация загрузки тяжелых страниц», Илья Кучмин (Лаборатория свободных решений)
-</details>
-
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2016)
 
 17 апреля, Киев, $73
