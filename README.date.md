@@ -32,6 +32,7 @@
   - «Angular 2. Quickstart», Евгений Сафронов (RIFL Media LLC)
   - «Native JavaScript на мобильных устройствах», Елена Жукова (Upwork/MobiDev)
   - «Behind the terminal», Евгений Обрезков (Onix-Systems)
+  - «Будущее асинхронного программирования в ECMAScript», Алексей Распопов (DataRobot)
 </details>
 
 ### [Web Not Bombs: Morning Talks #1](https://www.facebook.com/events/787367184698396/)
@@ -208,7 +209,7 @@
   <summary>**Доклады**</summary>
 
   - «High Performance NodeJS», Евгений Обрезков (Onix-Systems)
-  - «The amazing universe of components», Кирилл Яковенко
+  - «Что же с нами стало», Кирилл Яковенко
   - «Better async code with promises», Алексей Швайка (Hell Yeah LLC)
   - «ClojureScript, что ты такое?», Роман Лютиков
   - «Reactive Programming with RxJS», Алексей Богачук
