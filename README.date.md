@@ -9,7 +9,8 @@
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2016)
 
-17 апреля, Киев, $73
+17 апреля, Киев, $73  
+*[Онлайн-трансляция](http://frameworksdays.com/event/js-frameworks-day-2016)*
 
 <details>
   <summary>**Доклады**</summary>
@@ -146,6 +147,17 @@
   <summary>**Доклады**</summary>
 
   - «TypeScript», Дмитрий Пикулин
+</details>
+
+### [SaratovJS](https://vk.com/event119254550)
+
+28 апреля, Саратов
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Архитектура и процесс c сборки с использованием Gulp, крупного AngularJS проекта»
+  - «ECMAScript 6»
 </details>
 
 ### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
