@@ -7,40 +7,6 @@
 
 ## Апрель
 
-### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2016)
-
-17 апреля, Киев, $73  
-*[Онлайн-трансляция](http://frameworksdays.com/event/js-frameworks-day-2016)*
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Боты: возможно, вам не нужен UI», Андрей Листочкин (MustardLabs)
-  - «Acceptance Testing in NodeJS: Tools & Approaches», Михаил Боднарчук (Codegyre)
-  - «Борьба с асинхронностью в JS», Максим Климишин (GVMachines Inc.)
-  - «Интерактивные декларативные графики на React+D3», Алексей Волков (Rumble)
-  - «Real-life React», Роман Якобчук (Lifestreet Media)
-  - «Angular Components: все уже за, а вы еще нет?, Сергей Больщиков (Wix)
-  - «Offline-first приложение на Reflex», Денис Яремов (Lohika)
-  - «ES6 - Just Do It», Алексей Косинский (Gulsy Inc)
-  - «Ember.js 2 - Future-friendly ambitious apps, that scale!», Michael North (Levanto Financial)
-  - «Life of a pixel: Web rendering performance», Martin Naumann (Archilogic)
-  - «Shaders - unlocking the GPU with JavaScript», Martin Naumann (Archilogic)
-  - «Spec driven development in Microservices», Никита Галкин (Ciklum)
-  - «JS Frameworks в перспективе проекта и бизнеса», Юрий Дадычин (Levi9)
-  - «Bundling: you are doing it wrong», Алексей Швайка (Hell Yeah LLC)
-  - «DevTools an Animated Journey», Umar Hansa (Shazam)
-  - «Angular 2. Quickstart», Евгений Сафронов (RIFL Media LLC)
-  - «Native JavaScript на мобильных устройствах», Елена Жукова (Upwork/MobiDev)
-  - «Behind the terminal», Евгений Обрезков (Onix-Systems)
-  - «Будущее асинхронного программирования в ECMAScript», Алексей Распопов (DataRobot)
-</details>
-
-### [Web Not Bombs: Morning Talks #1](https://www.facebook.com/events/787367184698396/)
-
-17 апреля, Минск  
-*Приносите майки и наклейки Web Not Bombs: за них кафе даёт 10% скидки!*
-
 ### [The Rolling Scopes #24](http://rollingscopes.com/)
 
 21 апреля, Минск
