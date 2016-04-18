@@ -150,6 +150,22 @@
   - «Ничего ты не знаешь, Джон Сноу. Фронтенд new.vk.com», Слава Шебанов (ВКонтакте)
 </details>
 
+### [HolyJS](http://holyjs.ru/)
+
+5 июня, 2 000 – 5 000 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «CSSO - оптимизируем CSS», Роман Дворнов (Avito)
+  - «JavaScript Device Detection», Dino Esposito
+  - «Swarm: синхронизируем рой устройств», Виктор Грищенко
+  - «В погоне за производительностью. Психология пользователя», Денис Мишунов (Digital Garden AS)
+  - «Данные на фронтенде», Никита Прокопов (Cognician)
+  - «Как я перестал верить технологиям», Алексей Симоненко
+  - «Event-Sourcing your React-Redux applications», Maurice de Beijer
+</details>
+
 ### [Frontend Party](https://events.yandex.ru/events/meetings/29-april-2016/)
 
 29 апреля
