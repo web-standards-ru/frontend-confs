@@ -20,6 +20,17 @@
   - «Redux в реальной жизни», Иван Акулов
 </details>
 
+### [ChernihivJS #3](http://www.meetup.com/chernihivjs/events/230486442/)
+
+21 апреля, Чернигов
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Пишем frontend на AngularJS, когда backend еще не готов», Олег Романовский
+  - «Как изучить JavaScript за 24 часа», Максим Сластьон
+</details>
+
 ### [Стачка](http://nastachku.ru/)
 
 22–23 апреля, Ульяновск, 3000 руб. (билет на афтепати покупается отдельно)  

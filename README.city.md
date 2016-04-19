@@ -14,6 +14,7 @@
 - [Томск](#Томск)
 - [Ульяновск](#Ульяновск)
 - [Харьков](#Харьков)
+- [Чернигов](#Чернигов)
 
 ## Владивосток
 
@@ -274,4 +275,17 @@
   - «Reactive Programming with RxJS», Алексей Богачук
   - «Immutable vs Mutable», Евгений Нежута
   - «У нас в Архитектуре все не очень:)», Дима Малеев (Epam / Lviv Code School)
+</details>
+
+## Чернигов
+
+### [ChernihivJS #3](http://www.meetup.com/chernihivjs/events/230486442/)
+
+21 апреля
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Пишем frontend на AngularJS, когда backend еще не готов», Олег Романовский
+  - «Как изучить JavaScript за 24 часа», Максим Сластьон
 </details>
