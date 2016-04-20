@@ -220,6 +220,7 @@
   - «10 ошибок тестирования программных продуктов», Алексей Архипов (Multipass)
   - «Как перейти от заказной разработки к собственным продуктам», Роман Малахов (ZOOM, bombsquare)
   - «Standing on the shoulders of giants», Ronald Stipek (TapTooiT Inc.)
+  - «Квартирник: Автоматизированное тестирование Frontend», Сергей Андреев (Userstory)
 </details>
 
 ## Ульяновск
