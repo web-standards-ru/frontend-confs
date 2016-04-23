@@ -160,7 +160,7 @@
 
 ## Май
 
-### [FrontDays Meetup](http://frontdays.ru/)
+### [FrontDays Meetup#2](http://frontdays.ru/)
 
 14 мая, Тольятти
 
