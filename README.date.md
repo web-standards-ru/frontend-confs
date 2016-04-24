@@ -148,6 +148,17 @@
 
 ## Июнь
 
+### [The Rolling Scopes #25](https://rollingscopes.com/)
+
+4 июня, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Code review», Виктор Хомяков
+  - «Безусловное программирование», Александр Оргиш
+</details>
+
 ### [HolyJS](http://holyjs.ru/)
 
 5 июня, Санкт-Петербург, 2 000 – 5 000 руб.
