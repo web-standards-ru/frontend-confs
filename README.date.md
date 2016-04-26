@@ -171,6 +171,7 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «Выжимаем максимум из React.js», Виталий Фокин
   - «Code review», Виктор Хомяков
   - «Безусловное программирование», Александр Оргиш
 </details>
@@ -195,8 +196,29 @@
 
 ### [OdessaJS](http://odessajs.org/)
 
-2 и 3 июля, Одесса  
-*На данный момент был только [анонс конференции в Твиттере](https://twitter.com/OdessaJS/status/706957901395415040)*
+2 и 3 июля, Одесса
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Секретная тема», Александр Лябах
+  - «Evolution of Components: The New Frontier», Андрей Листочкин
+  - «Grid Layout», Вадим Макеев
+  - «Rx - Взгляд изнутри», Денис Стоянов
+  - «Cистемне програмування на JS», Ингвар Степанян
+  - «ES2015», Ксения Редунова
+  - «Моды для Майнкрафта на Javascript», Юля Пучнина
+  - «Async/await and why it's good to have this in JS», Алексей Распопов
+  - «Smart Home and IoT», Андрей Кучеренко
+  - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
+  - «CSS in JS», Кирилл Яковенко
+  - «WebGL, basic computer graphics for frontend devs», Martin Naumann
+  - «Карты и картографические сервисы», Николай Беличук
+  - «Что не так с web и как с этим жить», Сергей Рубанов
+  - «Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates», Вячеслав Слинко
+  - «Основы Rx.js», Дима Билдин
+  - «Node.js пожоще», Дмитрий Гусев
+</details>
 
 ## Сентябрь
 
