@@ -206,6 +206,9 @@
   - «Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates», Вячеслав Слинко
   - «Основы Rx.js», Дима Билдин
   - «Node.js пожоще», Дмитрий Гусев
+  - «Angular 2 Universe», Денис Зайченко
+  - «Node.js Macht Frei», Тимур Шемсединов
+  - «Elm», Алекс Труш
 </details>
 
 ## Сентябрь
