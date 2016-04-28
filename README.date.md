@@ -196,6 +196,7 @@
   - «Cистемне програмування на JS», Ингвар Степанян
   - «ECMAScript: past, present and future», Ксения Редунова
   - «Моды для Майнкрафта на Javascript», Юля Пучнина
+  - «Why functional programming makes life easier?», Юля Пшинко
   - «Async/await and why it's good to have this in JS», Алексей Распопов
   - «Smart Home and IoT», Андрей Кучеренко
   - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
@@ -208,7 +209,7 @@
   - «Node.js пожоще», Дмитрий Гусев
   - «Angular 2 Universe», Денис Зайченко
   - «Node.js Macht Frei», Тимур Шемсединов
-  - «Elm», Алекс Труш
+  - «Elm: functional programming in your browser», Алекс Труш
 </details>
 
 ## Сентябрь
