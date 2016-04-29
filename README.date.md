@@ -8,40 +8,6 @@
 
 ## Апрель
 
-### [MoscowJS 30](http://moscowjs.ru/)
-
-28 апреля, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Введение в GraphQL и Relay», Слинько Вячеслав (ЦИАН Групп)
-  - «Можно вообще всё. Раскладка по гриду», Макеев Вадим (Opera)
-  - «Быстрее, выше, сильнее в современной архитектуре», Копылов Егор (Яндекс)
-  - «Scala для супергеройского фронтенда», Алексей Фомкин (Флексис)
-</details>
-
-### [WebPurple meetup #8](https://vk.com/webpurple_meetup8)
-
-28 апреля, Рязань
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «TypeScript», Дмитрий Пикулин
-</details>
-
-### [SaratovJS](https://vk.com/event119254550)
-
-28 апреля, Саратов
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Архитектура и процесс c сборки с использованием Gulp, крупного AngularJS проекта»
-  - «ECMAScript 6»
-</details>
-
 ### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
 
 29 апреля, Екатеринбург
