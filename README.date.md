@@ -105,11 +105,12 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Функциональная парадигма в JavaScript», Евгений Обрезков
-  - «Meteor», Андрей Орел
   - «Шаблоны проектирования в JavaScript», Анастасия Смирнова
-  - «Освоение Phaser после Action Script 3», Алексей Извалов
+  - «Функциональная парадигма в JavaScript», Евгений Обрезков
   - «Bot Driven Development», Марк Орел
+  - «Competitive advantage of Angular 2.0», Евгений Сафронов
+  - «Meteor», Андрей Орел
+  - «Освоение Phaser после Action Script 3», Алексей Извалов
 </details>
 
 ### [FrontendConf](http://frontendconf.ru/)
@@ -118,7 +119,7 @@
 
 ## Июнь
 
-### [The Rolling Scopes #25](https://rollingscopes.com/)
+### [The Rolling Scopes Summer Summit](https://rollingscopes.com/)
 
 4 июня, Минск
 
@@ -126,6 +127,10 @@
   <summary>**Доклады**</summary>
 
   - «Выжимаем максимум из React.js», Виталий Фокин
+  - «Best UI Design Practices. UI Patterns», Анастасия Шпакова
+  - «Контекст! Контекст! Контекст!», Ксения Колтун
+  - «„Не иди за мной, я сам потерялся” или что такое UX исследования, и зачем они нужны», Виктория Рылькова
+  - «Welcome to V/A/M R.», Paul Yuhnovich
   - «Code review», Виктор Хомяков
   - «Безусловное программирование», Александр Оргиш
 </details>
@@ -142,6 +147,7 @@
   - «Swarm: синхронизируем рой устройств», Виктор Грищенко
   - «В погоне за производительностью. Психология пользователя», Денис Мишунов (Digital Garden AS)
   - «Данные на фронтенде», Никита Прокопов (Cognician)
+  - «Реактивное программирование - управляем потоками данных», Виктор Русакович (GP Software.travel)
   - «Как я перестал верить технологиям», Алексей Симоненко
   - «Event-Sourcing your React-Redux applications», Maurice de Beijer
 </details>
