@@ -20,18 +20,6 @@
 
 ## Екатеринбург
 
-### [FrontendFellows #4](https://frontendfellows.timepad.ru/event/299129/)
-
-29 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Тестирование скриншотами», Олег Мохов (Яндекс)
-  - «CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Когда всё вокруг JavaScript жить становится гораздо проще», Алексей Иванов (Злые Марсиане)
-  - «Великолепные визуализации», Игорь Луканин (СКБ Контур)
-</details>
-
 ### [FrontTalks](http://lanyrd.com/2016/fronttalks2016/)
 
 17 и 18 сентября  
@@ -96,20 +84,6 @@
 
 ## Одесса
 
-### [Front-End Meetup](http://expertfridays.com/meetups/front-end-meetup-3/)
-
-29 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Progressive Web Apps», Тимофей Лавренюк
-  - «Системы сборки для фронтенда», Юрий Федоренко
-  - «Реализация модульного подхода и MVC в BackboneJS», Андрей Лазарев
-  - «Используем Jade как HTML препроцессор», Владимир Поздняков
-  - «Angular 1.x and ES2015», Андрей Михалюк
-</details>
-
 ### [OdessaJS](http://odessajs.org/)
 
 2 и 3 июля
@@ -163,18 +137,6 @@
   - «Реактивное программирование - управляем потоками данных», Виктор Русакович (GP Software.travel)
   - «Как я перестал верить технологиям», Алексей Симоненко
   - «Event-Sourcing your React-Redux applications», Maurice de Beijer
-</details>
-
-### [Frontend Party](https://events.yandex.ru/events/meetings/29-april-2016/)
-
-29 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Как оформить npm-пакет», Вячеслав Олиянчук (Яндекс)
-  - «Тестирование фронтенда своими руками», Сергей Бережной (Яндекс)
-  - «Модульная сборка БЭМ-проектов. И никаких bem-tools», Владимир Гриненко (Яндекс)
 </details>
 
 ## Тольятти
