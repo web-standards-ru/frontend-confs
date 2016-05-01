@@ -65,6 +65,7 @@
   - «„Не иди за мной, я сам потерялся” или что такое UX исследования, и зачем они нужны», Виктория Рылькова
   - «Welcome to V/A/M R.», Paul Yuhnovich
   - «Code review», Виктор Хомяков
+  - «TV in browsers: live cases», Александр Карлович
   - «Безусловное программирование», Александр Оргиш
 </details>
 
@@ -73,6 +74,37 @@
 ### [FrontendConf](http://frontendconf.ru/)
 
 30 мая — 1 июня, 16 000 – 27 000 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как мы адаптировали более 150 сайтов по технологии Dynamically-served JavaScript», Артём Цымпов, Евгений Кольцов
+  - «Правильная адаптивность сайта», Даниил Литвак 
+  - «Стабильность WebGL приложений», Кирилл Дмитренко 
+  - «Как мы разрабатываем новый фронтенд Tinkoff.ru», Филипп Нехаев 
+  - «Amazing threesome, rrr... React. Redux. Real world», Галкин Ростислав 
+  - «CSS-методологии от О до Б», Алексей Юрьевич Охрименко 
+  - «Жизнь HTML в 2ГИС под iOS», Роман Янке 
+  - «В погоне за производительностью. Психология пользователя», Денис Мишунов 
+  - «UX-дизайнер, ты ли это? Навыки проектировщика в стилизации интерфейсов», Илья Бовкунов 
+  - «Радости и гадости регрессионного тестирования вёрстки», Алексей Малеков 
+  - «Как адаптировать социологическую методику для UX-исследований: интервью с пользователями», Алексей Зиновьев 
+  - «Как мы ускоряли WebGL», Мстислав Живодков 
+  - «Vue.js и его брат-близнец Vue-server.js», Андрей Солодовников 
+  - «Tacit, CSS Framework Without Classes», Yegor Bugayenko 
+  - «Что делать, когда костыли уже не помогают? Опыт tutu.ru», Роман Грунтович 
+  - «base.network - децентрализованный веб на JavaScript», Денис Глазков 
+  - «Пользовательские свойства, как основа архитектуры CSS», Павел Ловцевич 
+  - «React: новая эра фронтенд разработки», Роберт Харитонов 
+  - «Angular 2 не так уж и плох... А если задуматься, то и просто хорош», Алексей Юрьевич Охрименко 
+  - «Как мы Backbone защищали», Нарек Мкртчян 
+  - «Как мы решили проблему с говнокодом», Сергей Карасёв, Сергей Соло
+  - «Библиотека UI компонентов, о которой вы всегда мечтали», Роберт Харитонов 
+  - «CSS Modules», Павел Ловцевич 
+  - «Классические архитектуры во фронтенде», Александра Шинкевич 
+  - «Конструктор», Денис Паясь 
+  - «МРТ для данных», Анастасия Горячева 
+</details>
 
 ## Одесса
 
@@ -83,26 +115,27 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Секретная тема», Александр Лябах
+  - «WebGL, basic computer graphics for frontend devs», Martin Naumann
   - «Evolution of Components: The New Frontier», Андрей Листочкин
   - «Grid Layout», Вадим Макеев
-  - «Rx - Взгляд изнутри», Денис Стоянов
+  - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
+  - «Rx.js пожоще», Денис Стоянов
   - «Cистемне програмування на JS», Ингвар Степанян
-  - «ECMAScript: past, present and future», Ксения Редунова
+  - «Angular 2 Universe», Денис Зайченко
   - «Моды для Майнкрафта на Javascript», Юля Пучнина
-  - «Why functional programming makes life easier?», Юля Пшинко
   - «Async/await and why it's good to have this in JS», Алексей Распопов
   - «Smart Home and IoT», Андрей Кучеренко
-  - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
-  - «CSS in JS», Кирилл Яковенко
-  - «WebGL, basic computer graphics for frontend devs», Martin Naumann
-  - «Карты и картографические сервисы», Николай Беличук
+  - «React.js в мифрильной броне», Артем Тритяк
+  - «Секретная тема», Александр Лябах
   - «Что не так с web и как с этим жить», Сергей Рубанов
   - «Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates», Вячеслав Слинко
+  - «CSS in JS», Кирилл Яковенко
+  - «Карты и картографические сервисы», Николай Беличук
+  - «Why functional programming makes life easier?», Юля Пшинко
   - «Основы Rx.js», Дима Билдин
-  - «Node.js пожоще», Дмитрий Гусев
-  - «Angular 2 Universe», Денис Зайченко
+  - «Node.js вширь и вглубь», Дмитрий Гусев
   - «Node.js Macht Frei», Тимур Шемсединов
+  - «ECMAScript: past, present and future», Ксения Редунова
   - «Elm: functional programming in your browser», Алекс Труш
 </details>
 
