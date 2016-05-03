@@ -7,7 +7,7 @@
 
 ## Май
 
-### [BeerJS.next](http://www.meetup.com/BeerJS-Moscow/events/230787172/)
+### [BeerJS Moscow](http://www.meetup.com/BeerJS-Moscow/events/230787172/)
 
 5 мая, Москва
 
