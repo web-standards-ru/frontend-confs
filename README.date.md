@@ -7,10 +7,6 @@
 
 ## Май
 
-### [BeerJS Moscow](http://www.meetup.com/BeerJS-Moscow/events/230787172/)
-
-5 мая, Москва
-
 ### [WebDev TALKS&WORKS](https://artw.timepad.ru/event/322786/)
 
 14 мая, Санкт-Петербург
