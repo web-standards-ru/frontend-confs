@@ -15,6 +15,7 @@
   <summary>**Доклады**</summary>
 
   - «Радости и гадости регрессионного тестирования вёрстки», Алексей Малеков (HTML Academy)
+  - «Как мы сделали Киберпонедельник», Алекс фон Розен
 </details>
 
 ### [FrontDays Meetup#2](http://frontdays.ru/)
@@ -153,6 +154,7 @@
   - «Производительность JavaScript через подзорную трубу», Вячеслав Егоров (Google)
   - «JavaScript Device Detection», Dino Esposito
   - «Down the Rabbit Hole: JavaScript in Wonderland», Claudia Hernández (AF83)
+  - «Gradual typing in JavaScript», Дмитрий Локтев (Indie)
   - «CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Всё гораздо проще, когда вокруг всё JavaScript», Алексей Иванов (Evil Martians)
   - «Swarm: синхронизируем рой устройств», Виктор Грищенко
   - «Event-Sourcing your React-Redux applications», Maurice de Beijer
