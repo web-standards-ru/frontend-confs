@@ -7,7 +7,7 @@
 
 ## Май
 
-### [WebDev TALKS&WORKS](https://artw.timepad.ru/event/322786/)
+### [WebDev Talks & Works](https://artw.timepad.ru/event/322786/)
 
 14 мая, Санкт-Петербург
 
@@ -131,6 +131,7 @@
   <summary>**Доклады**</summary>
 
   - «Выжимаем максимум из React.js», Виталий Фокин
+  - «Blend4Web: нативные врата в мир WebGL», Денис Шеко
   - «Постигаем CSS Grid Layout», Наталия Короткова
   - «How to FAIL Web Accessibility», Станислав Зубович
   - «Best UI Design Practices. UI Patterns», Анастасия Шпакова
