@@ -88,17 +88,22 @@
   <summary>**Доклады**</summary>
 
   - «High Performance NodeJS», Евгений Обрезков (Onix-Systems)
-  - «Что же с нами стало», Кирилл Яковенко
   - «Better async code with promises», Алексей Швайка (Hell Yeah LLC)
-  - «ClojureScript, что ты такое?», Роман Лютиков
-  - «Reactive Programming with RxJS», Алексей Богачук
   - «Immutable vs Mutable», Евгений Нежута
+  - «Reactive Programming with RxJS», Алексей Богачук
+  - «ClojureScript, что ты такое?», Роман Лютиков
   - «У нас в Архитектуре все не очень:)», Дима Малеев (Epam / Lviv Code School)
 </details>
 
 ### [FrontendFellows #5](https://frontendfellows.timepad.ru/event/299132/)
 
 27 мая, Пермь
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Кто такой разработчик интерфейсов?», Олег Мохов (Яндек)
+</details>
 
 ### [KirovohradJS](http://kirovohradjs.com/)
 
@@ -115,6 +120,10 @@
   - «Освоение Phaser после Action Script 3», Алексей Извалов
 </details>
 
+### [ChernihivJS #4](http://www.meetup.com/chernihivjs/events/231018361/)
+
+28 мая, Чернигов
+
 ### [FrontendConf](http://frontendconf.ru/)
 
 30 мая — 1 июня, Москва, 18 000 – 27 000 руб.
@@ -125,6 +134,7 @@
   - «Как мы адаптировали более 150 сайтов по технологии Dynamically-served JavaScript», Артём Цымпов, Евгений Кольцов (eski.mobi)
   - «Жизнь HTML в 2ГИС под iOS», Роман Янке (2ГИС)
   - «Стабильность WebGL приложений», Кирилл Дмитренко (Яндекс)
+  - «Как отвечать за продакшен», Сумин Андрей (Mail.Ru)
   - «В погоне за производительностью. Психология пользователя», Денис Мишунов (Digital Garden AS)
   - «UX-дизайнер, ты ли это? Навыки проектировщика в стилизации интерфейсов», Илья Бовкунов (КБ «Собака Павлова»)
   - «Радости и гадости регрессионного тестирования вёрстки», Алексей Малеков (HTML Academy)
