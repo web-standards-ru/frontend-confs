@@ -122,7 +122,14 @@
 
 ### [ChernihivJS #4](http://www.meetup.com/chernihivjs/events/231018361/)
 
-28 мая, Чернигов
+24 мая, Чернигов
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React DnD — Drag and Drop for React», Богдан Сурай
+  - «Карты, панорамы и геокодирование», Денис Дударев
+</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
@@ -175,7 +182,7 @@
 
 ### [HolyJS](http://holyjs.ru/)
 
-5 июня, Санкт-Петербург, 2 000 – 5 000 руб.
+5 июня, Санкт-Петербург, 3 000 – 5 000 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -184,17 +191,23 @@
   - «В погоне за производительностью. Психология пользователя», Денис Мишунов (Digital Garden AS)
   - «Производительность JavaScript через подзорную трубу», Вячеслав Егоров (Google)
   - «JavaScript Device Detection», Dino Esposito
-  - «Down the Rabbit Hole: JavaScript in Wonderland», Claudia Hernández (AF83)
+  - «МРТ для данных», Анастасия Горячева
   - «Gradual typing in JavaScript», Дмитрий Локтев (Indie)
+  - «Angular 2: знакомый герой, новые надежды», Евгений Гусев (Wrike)
   - «CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Всё гораздо проще, когда вокруг всё JavaScript», Алексей Иванов (Evil Martians)
-  - «Swarm: синхронизируем рой устройств», Виктор Грищенко
   - «Event-Sourcing your React-Redux applications», Maurice de Beijer
+  - «Swarm: синхронизируем рой устройств», Виктор Грищенко
   - «Удобные API с GraphQL», Михаил Новиков (Reindex)
   - «Данные на фронтенде», Никита Прокопов (Cognician)
   - «Реактивное программирование - управляем потоками данных», Виктор Русакович (GP Software.travel)
   - «Как я перестал верить технологиям», Алексей Симоненко
+  - «Практическое применение WebGL», Василика Климова (Artec Group)
   - «Iskra JS: JavaScript в микроконтроллере», Игорь Зотов (Амперка)
 </details>
+
+### [Web Standards Days](https://wsd.events/2016/06/25/)
+
+25 июня, Екатеринбург
 
 ## Июль
 
@@ -228,6 +241,16 @@
   - «Node.js Macht Frei», Тимур Шемсединов
   - «ECMAScript: past, present and future», Ксения Редунова
   - «Elm: functional programming in your browser», Алекс Труш
+</details>
+
+### [FrontendFellows #6](https://frontendfellows.timepad.ru/event/328848/)
+
+29 июля, Астана
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Обучение фронтенд разработке», Олег Мохов (Яндекс)
 </details>
 
 ## Сентябрь
