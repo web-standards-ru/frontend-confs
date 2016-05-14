@@ -37,6 +37,19 @@
 
 21 мая, Новосибирск
 
+### [FrontDays Meetup#2](http://frontdays.ru/)
+
+21 мая, Тольятти
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Миграция Backbone (Marionette) -> React + Redux», Игорь Лобанов (Kaiten.io)
+  - «Кроссплатформенные приложения на js: от web-based к native», Артём Лисовский (Директ лайн)
+  - «React.js в продакшене», Андрей Захаров (Octoberry)
+  - «Эволюция браузерных тестов в FunCorp», Александр Павлов (FunCorp)
+</details>
+
 ### [KharkivJS #6](http://kharkivjs.org/)
 
 21 мая, Харьков
