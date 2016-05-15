@@ -143,7 +143,7 @@
 
 ### [OdessaJS](http://odessajs.org/)
 
-2 и 3 июля
+2 и 3 июля, $140
 
 <details>
   <summary>**Доклады**</summary>
