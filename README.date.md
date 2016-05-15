@@ -183,7 +183,7 @@
 
 ### [OdessaJS](http://odessajs.org/)
 
-2 и 3 июля, Одесса
+2 и 3 июля, Одесса, $140
 
 <details>
   <summary>**Доклады**</summary>
