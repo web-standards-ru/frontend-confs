@@ -21,6 +21,16 @@
   - «Как от идеи прийти к стартапу и найти венчурного инвестора», Андрей Косолапов (Инновационный реактор, Лаборатория инвестиций)
 </details>
 
+### [Kursk Meetup](https://github.com/kurskmeetup/meetups)
+
+21 мая, Курск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как впихнуть 700 изображений на одной странице в старенький Айпад», Василий Половнёв
+</details>
+
 ### [JSib](https://vk.com/jsibnsk)
 
 21 мая, Новосибирск
@@ -53,6 +63,18 @@
   - «У нас в Архитектуре все не очень:)», Дима Малеев (Epam / Lviv Code School)
 </details>
 
+### [ChernihivJS #4](http://www.meetup.com/chernihivjs/events/231018361/)
+
+24 мая, Чернигов
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React DnD — Drag and Drop for React», Богдан Сурай
+  - «Карты, панорамы и геокодирование», Денис Дударев
+  - «Мобильный веб: советы разработчику», Владимир Лут 
+</details>
+
 ### [FrontendFellows #5](https://frontendfellows.timepad.ru/event/299132/)
 
 27 мая, Пермь
@@ -78,16 +100,15 @@
   - «Освоение Phaser после Action Script 3», Алексей Извалов
 </details>
 
-### [ChernihivJS #4](http://www.meetup.com/chernihivjs/events/231018361/)
+### [#ITsubbotnik](https://events.epam.com/events/it-subbotnik-saratov)
 
-24 мая, Чернигов
+28 мая, Саратов
 
 <details>
   <summary>**Доклады**</summary>
 
-  - «React DnD — Drag and Drop for React», Богдан Сурай
-  - «Карты, панорамы и геокодирование», Денис Дударев
-  - «Мобильный веб: советы разработчику», Владимир Лут 
+  - «Google Developer Tools. Профилирование производительности веб-приложений», Михаил Семичев (EPAM Systems)
+  - «TypeScript: обзор и перспективы», Дмитрий Турлычкин (EPAM Systems)
 </details>
 
 ### [FrontendConf](http://frontendconf.ru/)
@@ -98,6 +119,8 @@
   <summary>**Доклады**</summary>
 
   - «Как мы адаптировали более 150 сайтов по технологии Dynamically-served JavaScript», Артём Цымпов, Евгений Кольцов (eski.mobi)
+  - «Как мы разрабатываем новый фронтенд Tinkoff.ru», Филипп Нехаев 
+  - «Amazing threesome, rrr... React. Redux. Real world», Ростислав Галкин 
   - «Жизнь HTML в 2ГИС под iOS», Роман Янке (2ГИС)
   - «Стабильность WebGL приложений», Кирилл Дмитренко (Яндекс)
   - «Как отвечать за продакшен», Сумин Андрей (Mail.Ru)
@@ -113,6 +136,7 @@
   - «Angular 2 не так уж и плох... А если задуматься, то и просто хорош», Алексей Юрьевич Охрименко (IPONWEB)
   - «Библиотека UI компонентов, о которой вы всегда мечтали», Роберт Харитонов (Liberty Global)
   - «Классические архитектуры во фронтенде», Александра Шинкевич (LOVATA)
+  - «55+1 прием для улучшения JavaScript-кода», Татьяна Бабич 
   - «МРТ для данных», Анастасия Горячева (Avito) 
   - «Конструктор», Денис Паясь (Яндекс)
 </details>
