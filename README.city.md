@@ -72,19 +72,6 @@
 
 ## Минск
 
-### [4front meetup #12](https://www.facebook.com/4frontby/posts/550054215176969)
-
-17 мая
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Sockets, P2P, альтернативы. Как синхронизировать все приложения в экосистеме?», Егор Малькевич
-  - «Готов ли Ваш проект к лету?», Ирина Левина и Елизавета Селиванова
-  - «Functional programming tools with little to no religion», Mister X из Канады
-  - «AMP, или как разогнать ваше приложение до сверхзвуковой скорости», Владимир Дашукевич
-</details>
-
 ### [The Rolling Scopes Summer Summit](https://rollingscopes.com/)
 
 3-4 июня

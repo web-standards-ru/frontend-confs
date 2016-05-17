@@ -7,19 +7,6 @@
 
 ## Май
 
-### [4front meetup #12](https://www.facebook.com/4frontby/posts/550054215176969)
-
-17 мая, Минск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Sockets, P2P, альтернативы. Как синхронизировать все приложения в экосистеме?», Егор Малькевич
-  - «Готов ли Ваш проект к лету?», Ирина Левина и Елизавета Селиванова
-  - «Functional programming tools with little to no religion», Mister X из Канады
-  - «AMP, или как разогнать ваше приложение до сверхзвуковой скорости», Владимир Дашукевич
-</details>
-
 ### [VLDC lite 2.547(2)](https://vldc.timepad.ru/event/318569/)
 
 21 мая, Владивосток
