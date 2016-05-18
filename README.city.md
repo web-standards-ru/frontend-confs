@@ -68,7 +68,7 @@
   - «Функциональная парадигма в JavaScript», Евгений Обрезков
   - «Bot Driven Development», Марк Орел
   - «Competitive advantage of Angular 2.0», Евгений Сафронов
-  - «Meteor», Андрей Орел
+  - «Реактивный Meteor», Андрей Орел
   - «Освоение Phaser после Action Script 3», Алексей Извалов
 </details>
 
@@ -82,6 +82,7 @@
   <summary>**Доклады**</summary>
 
   - «Как впихнуть 700 изображений на одной странице в старенький Айпад», Василий Половнёв
+  - «Тренируемся на кошках: pet projects, open source, code kata, делимся знаниями», Андрей Бутов
 </details>
 
 ## Минск
@@ -162,7 +163,6 @@
   - «Cистемне програмування на JS», Ингвар Степанян
   - «Angular 2 Universe», Денис Зайченко
   - «Моды для Майнкрафта на Javascript», Юля Пучнина
-  - «Async/await and why it's good to have this in JS», Алексей Распопов
   - «Smart Home and IoT», Андрей Кучеренко
   - «React.js в мифрильной броне», Артем Тритяк
   - «What professionals can learn from coding games?», Александр Лябах
@@ -193,7 +193,16 @@
 
 ## Санкт-Петербург
 
-### [WebDev Talks & Works](https://artw.timepad.ru/event/322786/)
+### [PiterCSS #4](https://pitercss.timepad.ru/event/331983/)
+
+24 мая
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Переходим на SVG», Дмитрий Рычков
+  - «Google AMP — придаем ускорение мобильному вебу мощным пинком», Александр Приходько
+</details>
 
 ### [HolyJS](http://holyjs.ru/)
 
