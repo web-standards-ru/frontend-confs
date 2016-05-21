@@ -7,63 +7,6 @@
 
 ## Май
 
-### [VLDC lite 2.547(2)](https://vldc.timepad.ru/event/318569/)
-
-21 мая, Владивосток
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Почему IT-проекты не взлетают», Илья Мирин (Фонд Сколково)
-  - «Scrum, Agile, Kanban и их друзья», Михаил Кирин и Александр Золотов
-  - «Монады в программировании», Дмитрий Паренский
-  - «Google I/O 2016», Сергей Мелехин
-  - «Как от идеи прийти к стартапу и найти венчурного инвестора», Андрей Косолапов (Инновационный реактор, Лаборатория инвестиций)
-</details>
-
-### [Kursk Meetup](https://github.com/kurskmeetup/meetups)
-
-21 мая, Курск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Как впихнуть 700 изображений на одной странице в старенький Айпад», Василий Половнёв
-  - «Тренируемся на кошках: pet projects, open source, code kata, делимся знаниями», Андрей Бутов
-</details>
-
-### [JSib](https://vk.com/jsibnsk)
-
-21 мая, Новосибирск
-
-### [FrontDays Meetup#2](http://frontdays.ru/)
-
-21 мая, Тольятти
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Миграция Backbone (Marionette) -> React + Redux», Игорь Лобанов (Kaiten.io)
-  - «Кроссплатформенные приложения на js: от web-based к native», Артём Лисовский (Директ лайн)
-  - «React.js в продакшене», Андрей Захаров (Octoberry)
-  - «Эволюция браузерных тестов в FunCorp», Александр Павлов (FunCorp)
-</details>
-
-### [KharkivJS #6](http://kharkivjs.org/)
-
-21 мая, Харьков
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «High Performance NodeJS», Евгений Обрезков (Onix-Systems)
-  - «Better async code with promises», Алексей Швайка (Hell Yeah LLC)
-  - «Immutable vs Mutable», Евгений Нежута
-  - «Reactive Programming with RxJS», Алексей Богачук
-  - «ClojureScript, что ты такое?», Роман Лютиков
-  - «У нас в Архитектуре все не очень:)», Дима Малеев (Epam / Lviv Code School)
-</details>
-
 ### [PiterCSS #4](https://pitercss.timepad.ru/event/331983/)
 
 24 мая, Санкт-Петербург
