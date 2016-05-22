@@ -151,7 +151,7 @@
   - «React.js в мифрильной броне», Артем Тритяк
   - «What professionals can learn from coding games?», Александр Лябах
   - «Что не так с web и как с этим жить», Сергей Рубанов
-  - «Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates», Вячеслав Слинко
+  - «Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates», Вячеслав Слинько
   - «Архитектура, или как мы куда-то не туда пошли», Дима Малеев
   - «CSS in JS», Кирилл Яковенко
   - «Карты и картографические сервисы», Николай Беличук
