@@ -31,6 +31,10 @@
   - «Мобильный веб: советы разработчику», Владимир Лут 
 </details>
 
+### [BeerJS](http://www.meetup.com/BeerJS-Moscow/events/231310923/)
+
+26 мая, Москва
+
 ### [FrontendFellows #5](https://frontendfellows.timepad.ru/event/299132/)
 
 3 июня, Пермь
@@ -133,6 +137,16 @@
   <summary>**Доклады**</summary>
 
   - «Фронтенд разработка — взгляд со стороны», Таир Сабыргалиев (Bee Software)
+</details>
+
+### [JSib](https://vk.com/jsibnsk)
+
+4 июня, Новосибирск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Обзор Meteor»
 </details>
 
 ### [HolyJS](http://holyjs.ru/)
