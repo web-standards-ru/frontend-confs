@@ -118,10 +118,6 @@
 
 ## Москва
 
-### [BeerJS](http://www.meetup.com/BeerJS-Moscow/events/231310923/)
-
-26 мая, Москва
-
 ### [FrontendConf](http://frontendconf.ru/)
 
 30 мая — 1 июня, 20 000 – 27 000 руб.

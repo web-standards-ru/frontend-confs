@@ -7,10 +7,6 @@
 
 ## Май
 
-### [BeerJS](http://www.meetup.com/BeerJS-Moscow/events/231310923/)
-
-26 мая, Москва
-
 ### [KirovohradJS](http://kirovohradjs.com/)
 
 28 мая, Кировоград
