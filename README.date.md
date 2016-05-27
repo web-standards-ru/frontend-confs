@@ -14,12 +14,12 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Шаблоны проектирования в JavaScript», Анастасия Смирнова
   - «Функциональная парадигма в JavaScript», Евгений Обрезков
+  - «Реактивный Meteor», Андрей Орел
+  - «Шаблоны проектирования в JavaScript», Анастасия Смирнова
+  - «Освоение Phaser после Action Script 3», Алексей Извалов
   - «Bot Driven Development», Марк Орел
   - «Competitive advantage of Angular 2.0», Евгений Сафронов
-  - «Реактивный Meteor», Андрей Орел
-  - «Освоение Phaser после Action Script 3», Алексей Извалов
 </details>
 
 ### [#ITsubbotnik](https://events.epam.com/events/it-subbotnik-saratov)
@@ -36,6 +36,14 @@
 ### [SPB Frontend](https://spb-frontend-events.timepad.ru/event/334815/)
 
 30 мая, Санкт-Петербург
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «REPL Driven Development и Clojure (Script)», Николай Рыжиков (HealthSamurai)
+  - «Как писать unit-тесты для Rx.js», Кирилл Сухомлин (EPAM)
+  - «Сложно ли написать приложение на React Native, и как это отличается от написания приложения под веб», Дмитрий Локтев
+</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
@@ -92,22 +100,24 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Кто-то читает тексты в мобильной игре? Опыт World of Tanks Blitz и при чём здесь UX», Анна Ширяева
-  - «Best UI Design Practices. UI Patterns», Анастасия Шпакова
-  - «Контекст! Контекст! Контекст!», Ксения Колтун
-  - «„Не иди за мной, я сам потерялся” или что такое UX исследования, и зачем они нужны», Виктория Рылькова
   - «Постигаем CSS Grid Layout», Наталия Короткова
-  - «Выжимаем максимум из React.js», Виталий Фокин
+  - «Кто-то читает тексты в мобильной игре? Опыт World of Tanks Blitz и при чём здесь UX», Анна Ширяева
   - «How to FAIL Web Accessibility», Станислав Зубович
-  - «Living the GNU/Linux Dream», Петар Додев
+  - «Контекст! Контекст! Контекст!», Ксения Колтун
+  - «Best UI Design Practices. UI Patterns», Анастасия Шпакова
+  - «„Не иди за мной, я сам потерялся” или что такое UX исследования, и зачем они нужны», Виктория Рылькова
+  - «Голая правда про браузер, загрузку файлов. UX при работе с ненормальным количеством файликов в браузере», Егор Малкевич
+  - «Выжимаем максимум из React.js», Виталий Фокин
   - «Безусловное программирование», Александр Оргиш
+  - «Living the GNU/Linux Dream», Петар Додев
   - «Гонки дронов: спорт для гиков», Андрей Ворошков
-  - «TV in browsers: live cases», Александр Карлович
-  - «API Панорам», Всеволод Шмыров
   - «Welcome to V/A/M R.», Paul Yuhnovich
   - «Code review», Виктор Хомяков
   - «Blend4Web: нативные врата в мир WebGL», Денис Шеко
+  - «API Панорам», Всеволод Шмыров
+  - «Кроссбраузерность в Blend4Web», Константин Хомяков, Роман Семенцов
   - «CSS Quickdraw 2.0», Кирилл Кныш, Андрей Волченко
+  - «TV in browsers: live cases», Александр Карлович
 </details>
 
 ### [AST Frontend meetup #1](https://astfrontend.timepad.ru/event/332558/)
@@ -162,6 +172,18 @@
   - «Практическое применение WebGL», Василика Климова (Artec Group)
   - «Iskra JS: JavaScript в микроконтроллере», Игорь Зотов (Амперка)
   - «Опыт тестирования JavaScript: юнит-тесты, велосипеды, моки, боль и сравнение скриншотов», Татьяна Рыженкова и Сергей Звягин (DevExpress)
+</details>
+
+### [FRONTday](http://frontday.ru/)
+
+8 июня, Челябинск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Fiddler: как обмануть всех», Владимир Смирнов (UNIT6)
+  - «Жизнь frontend-разработчика», Владимир Кузнецов (graph)
+  - «Будущее фронтеда и велосипеды», Плесских Иван
 </details>
 
 ### [Penza Frontend Meetup #3](https://vk.com/pfm_3)
