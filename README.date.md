@@ -7,32 +7,6 @@
 
 ## Май
 
-### [KirovohradJS](http://kirovohradjs.com/)
-
-28 мая, Кировоград
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Функциональная парадигма в JavaScript», Евгений Обрезков
-  - «Реактивный Meteor», Андрей Орел
-  - «Шаблоны проектирования в JavaScript», Анастасия Смирнова
-  - «Освоение Phaser после Action Script 3», Алексей Извалов
-  - «Bot Driven Development», Марк Орел
-  - «Competitive advantage of Angular 2.0», Евгений Сафронов
-</details>
-
-### [#ITsubbotnik](https://events.epam.com/events/it-subbotnik-saratov)
-
-28 мая, Саратов
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Google Developer Tools. Профилирование производительности веб-приложений», Михаил Семичев (EPAM Systems)
-  - «TypeScript: обзор и перспективы», Дмитрий Турлычкин (EPAM Systems)
-</details>
-
 ### [SPB Frontend](https://spb-frontend-events.timepad.ru/event/334815/)
 
 30 мая, Санкт-Петербург
