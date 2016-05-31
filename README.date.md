@@ -106,7 +106,7 @@
 
 ### [HolyJS](http://holyjs.ru/)
 
-5 июня, Санкт-Петербург, 4 000 – 5 000 руб.
+5 июня, Санкт-Петербург, 5 000 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -146,6 +146,7 @@
   - «Fiddler: как обмануть всех», Владимир Смирнов (UNIT6)
   - «Жизнь frontend-разработчика», Владимир Кузнецов (graph)
   - «Будущее фронтеда и велосипеды», Плесских Иван
+  - «Как я работаю с SVG», Лаптев Петр (moscowfresh.ru)
 </details>
 
 ### [Penza Frontend Meetup #3](https://vk.com/pfm_3)
@@ -157,6 +158,17 @@
 
   - «Новый мир с PostCSS», Андрей Лебедев (Моё дело)
   - «Почему реакт — лучшее, что случилось с фронтэндом», Денис Соколов (Corkly)
+</details>
+
+### [FrontDays Meetup #3](http://frontdays.ru/)
+
+11 июня, Самара
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Эволюция JavaScript. Обзор нововведений ECMAScript 6», Иван Федяев (EPAM)
+  - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
 </details>
 
 ### [The Rolling Scopes #26](https://krakow.rollingscopes.com/)
