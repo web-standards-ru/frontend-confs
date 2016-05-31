@@ -7,21 +7,6 @@
 
 ## Май
 
-### [SPB Frontend](https://spb-frontend-events.timepad.ru/event/334815/)
-
-30 мая, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «REPL Driven Development и Clojure (Script)», Николай Рыжиков (HealthSamurai)
-  - «Как писать unit-тесты для Rx.js», Кирилл Сухомлин (EPAM)
-  - «Сложно ли написать приложение на React Native, и как это отличается от написания приложения под веб», Дмитрий Локтев
-  - «Где лучше работать в стартапе или в большой компании», Евгений Гусев (Wrike)
-  - «WebAssembly, что это такое и зачем оно нужно?», Вячеслав Лапин (EPAM)
-  - «Как упаковать node.js приложение в Docker, и зачем бы вам это могло понадобиться», Станислав Гуменюк
-</details>
-
 ### [FrontendConf](http://frontendconf.ru/)
 
 30 мая — 1 июня, Москва, 20 000 – 27 000 руб.
