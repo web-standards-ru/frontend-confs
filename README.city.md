@@ -51,6 +51,8 @@
   - «Жизнь HTML в 2ГИС под iOS», Роман Янке (2ГИС)
   - «Дружим с контентом пользователя», Владимир Кузнецов (Graph)
   - «Жми сюда!», Вадим Макеев (Opera)
+  - «Меняем JavaScript с помощью JavaScript», Павел Волокитин (СКБ Контур)
+  - «Готовим бизнес-лапшу на React и Redux», Евгений Тихонов (Контур.Ритейл)
 </details>
 
 ### [FrontTalks](http://lanyrd.com/2016/fronttalks2016/)
@@ -137,6 +139,10 @@
   - «Реализация бессерверного бэкенда на AWS», Кирилл Потехин
 </details>
 
+### [BeerJS](http://www.meetup.com/BeerJS-Moscow/events/231544285/)
+
+6 июня
+
 ## Новосибирск
 
 ### [JSib](https://vk.com/event121883690)
@@ -153,7 +159,7 @@
 
 ### [OdessaJS](http://odessajs.org/)
 
-2 и 3 июля, $140
+2 и 3 июля, $140 (студентам и инвалидам скидка — 50%)
 
 <details>
   <summary>**Доклады**</summary>
@@ -181,6 +187,7 @@
   - «ECMAScript: past, present and future», Ксения Редунова
   - «Elm: functional programming in your browser», Алекс Труш
   - «Ребрендинг в продакшене», Алексей Мигуцкий
+  - «Sync: rocket science explained», Виктор Гришенко
 </details>
 
 ## Пенза
@@ -228,7 +235,7 @@
 
 ### [HolyJS](http://holyjs.ru/)
 
-5 июня, 5 000 руб.
+5 июня, 5 000 руб. (промокоды на скидку: [тут](https://vk.com/wall-66170841_40998) [там](https://vk.com/wall-76088560_819) [здесь](https://twitter.com/moscowjs/status/737638597126422528))
 
 <details>
   <summary>**Доклады**</summary>
