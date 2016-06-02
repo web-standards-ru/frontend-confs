@@ -2,7 +2,10 @@
 
 - **[Астана](#Астана)**
 - [Екатеринбург](#Екатеринбург)
+- [Киев](#Киев)
 - [Краков](#Краков)
+- [Курск](#Курск)
+- [Львов](#Львов)
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Новосибирск](#Новосибирск)
@@ -11,6 +14,7 @@
 - [Пермь](#Пермь)
 - [Самара](#Самара)
 - **[Санкт-Петербург](#Санкт-Петербург)**
+- [Харьков](#Харьков)
 - [Челябинск](#Челябинск)
 
 ## Астана
@@ -60,6 +64,12 @@
 17 и 18 сентября  
 *Олег Мохов (один из организаторов) говорил, что первый день будет на английском, второй — на русском*
 
+## Киев
+
+### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
+
+17 сентября, $139
+
 ## Краков
 
 ### [The Rolling Scopes #26](https://krakow.rollingscopes.com/)
@@ -74,6 +84,12 @@
   - «3D visualization of datasets in browsers», Oleksandr Pastukhov
   - «CSS QuickDraw», Alexander Gerasimov
 </details>
+
+## Курск
+
+### [Kursk Meetup](https://vk.com/kurskmeetup)
+
+4 июня
 
 ## Минск
 
@@ -102,6 +118,20 @@
   - «Кроссбраузерность в Blend4Web», Константин Хомяков, Роман Семенцов
   - «CSS Quickdraw 2.0», Кирилл Кныш, Андрей Волченко
   - «TV in browsers: live cases», Александр Карлович
+</details>
+
+## Львов
+
+### [IT Weekend Lviv — Web UI](https://itweekend.ua/ua/announcements/itw-lv-16j/)
+
+12 июня, $18
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Responsive Web Forms and Wizards in modern websites», Микола Воронин (Voronin Design Studio)
+  - «Intorduction to ReactJS and the Flux pattern», Теодор Тодоров (SoftServe)
+  - «Opensourceman», Андрей Вандакуров (Eleks)
 </details>
 
 ## Москва
@@ -230,6 +260,23 @@
   - «Практическое применение WebGL», Василика Климова (Artec Group)
   - «Iskra JS: JavaScript в микроконтроллере», Игорь Зотов (Амперка)
   - «Опыт тестирования JavaScript: юнит-тесты, велосипеды, моки, боль и сравнение скриншотов», Татьяна Рыженкова и Сергей Звягин (DevExpress)
+</details>
+
+## Харьков
+
+### [IT Weekend Kharkiv](https://itweekend.ua/ua/announcements/itw-kh-16j/)
+
+5 июня, $14
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Цугцванг-2016: преимущества «современной» JS-экосистемы и что с этим делать», Илья Климов (JavaScript.Ninja)
+  - «Taxonomy-driven search and navigation on web sites (EN)», Борис Омельяненко (SoftServe)
+  - «Live Streaming & JS», Александр Долгарев (Mediasapiens)
+  - «Building A Component-Based Web UI With Modern JavaScript Frameworks», Сергей Розсоха (Waverley Software)
+  - «V8 - what's that», Максим Штыря (SoftServe)
+  - «Must-have в современной верстке», Юрий Артюх (Codriver)
 </details>
 
 ## Челябинск

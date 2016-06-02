@@ -58,6 +58,10 @@
   - «Фронтенд разработка — взгляд со стороны», Таир Сабыргалиев (Bee Software)
 </details>
 
+### [Kursk Meetup](https://vk.com/kurskmeetup)
+
+4 июня, Курск
+
 ### [JSib](https://vk.com/jsibnsk)
 
 4 июня, Новосибирск
@@ -100,6 +104,21 @@
   - «Опыт тестирования JavaScript: юнит-тесты, велосипеды, моки, боль и сравнение скриншотов», Татьяна Рыженкова и Сергей Звягин (DevExpress)
 </details>
 
+### [IT Weekend Kharkiv](https://itweekend.ua/ua/announcements/itw-kh-16j/)
+
+5 июня, Харьков, $14
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Цугцванг-2016: преимущества «современной» JS-экосистемы и что с этим делать», Илья Климов (JavaScript.Ninja)
+  - «Taxonomy-driven search and navigation on web sites (EN)», Борис Омельяненко (SoftServe)
+  - «Live Streaming & JS», Александр Долгарев (Mediasapiens)
+  - «Building A Component-Based Web UI With Modern JavaScript Frameworks», Сергей Розсоха (Waverley Software)
+  - «V8 - what's that», Максим Штыря (SoftServe)
+  - «Must-have в современной верстке», Юрий Артюх (Codriver)
+</details>
+
 ### [BeerJS](http://www.meetup.com/BeerJS-Moscow/events/231544285/)
 
 6 июня, Москва
@@ -137,6 +156,18 @@
 
   - «Эволюция JavaScript. Обзор нововведений ECMAScript 6», Иван Федяев (EPAM)
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
+</details>
+
+### [IT Weekend Lviv — Web UI](https://itweekend.ua/ua/announcements/itw-lv-16j/)
+
+12 июня, Львов, $18
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Responsive Web Forms and Wizards in modern websites», Микола Воронин (Voronin Design Studio)
+  - «Intorduction to ReactJS and the Flux pattern», Теодор Тодоров (SoftServe)
+  - «Opensourceman», Андрей Вандакуров (Eleks)
 </details>
 
 ### [The Rolling Scopes #26](https://krakow.rollingscopes.com/)
@@ -219,3 +250,7 @@
 
 17 и 18 сентября, Екатеринбург  
 *Олег Мохов (один из организаторов) говорил, что первый день будет на английском, второй — на русском*
+
+### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
+
+17 сентября, Киев, $139
