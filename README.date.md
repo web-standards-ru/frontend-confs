@@ -6,19 +6,6 @@
 
 ## Июнь
 
-### [FrontendFellows #5](https://frontendfellows.timepad.ru/event/299132/)
-
-3 июня, Пермь
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Кто такой разработчик интерфейсов?», Олег Мохов (Яндек)
-  - «Компонентный подход в построении интерфейсов», Олег Плотников (RealtimeBoard)
-  - «Разработка на Angular. Наши грабли», Алексей Пихтовников (Xsolla)
-  - «Осторожно, закэшировано!», Сергей Жигалов (Яндекс)
-</details>
-
 ### [The Rolling Scopes Summer Summit](https://rollingscopes.com/)
 
 3-4 июня, Минск
