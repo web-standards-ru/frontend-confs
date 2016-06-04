@@ -6,59 +6,6 @@
 
 ## Июнь
 
-### [The Rolling Scopes Summer Summit](https://rollingscopes.com/)
-
-3-4 июня, Минск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Постигаем CSS Grid Layout», Наталия Короткова
-  - «Кто-то читает тексты в мобильной игре? Опыт World of Tanks Blitz и при чём здесь UX», Анна Ширяева
-  - «How to FAIL Web Accessibility», Станислав Зубович
-  - «Контекст! Контекст! Контекст!», Ксения Колтун
-  - «Best UI Design Practices. UI Patterns», Анастасия Шпакова
-  - «„Не иди за мной, я сам потерялся” или что такое UX исследования, и зачем они нужны», Виктория Рылькова
-  - «Голая правда про браузер, загрузку файлов. UX при работе с ненормальным количеством файликов в браузере», Егор Малкевич
-  - «Выжимаем максимум из React.js», Виталий Фокин
-  - «Безусловное программирование», Александр Оргиш
-  - «Living the GNU/Linux Dream», Петар Додев
-  - «Гонки дронов: спорт для гиков», Андрей Ворошков
-  - «Welcome to V/A/M R.», Paul Yuhnovich
-  - «Code review», Виктор Хомяков
-  - «Blend4Web: нативные врата в мир WebGL», Денис Шеко
-  - «API Панорам», Всеволод Шмыров
-  - «Кроссбраузерность в Blend4Web», Константин Хомяков, Роман Семенцов
-  - «CSS Quickdraw 2.0», Кирилл Кныш, Андрей Волченко
-  - «TV in browsers: live cases», Александр Карлович
-</details>
-
-### [AST Frontend meetup #1](https://astfrontend.timepad.ru/event/332558/)
-
-4 июня, Астана
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Вёрстка: правила хорошего тона», Талгат Успанов (Bee Software)
-  - «Знакомство с Angular 2», Жандос Бермухамбетов
-  - «Фронтенд разработка — взгляд со стороны», Таир Сабыргалиев (Bee Software)
-</details>
-
-### [Kursk Meetup](https://vk.com/kurskmeetup)
-
-4 июня, Курск
-
-### [JSib](https://vk.com/jsibnsk)
-
-4 июня, Новосибирск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Обзор Meteor»
-</details>
-
 ### [HolyJS](http://holyjs.ru/)
 
 5 июня, Санкт-Петербург, 5 000 руб. (промокоды на скидку: [тут](https://vk.com/wall-66170841_40998) [там](https://vk.com/wall-76088560_819) [здесь](https://twitter.com/moscowjs/status/737638597126422528))
