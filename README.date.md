@@ -57,6 +57,10 @@
 
 6 июня, Москва
 
+### [WebJam BeerJS](https://www.facebook.com/events/570224883141057/)
+
+8 июня, Симферополь
+
 ### [FRONTday](http://frontday.ru/)
 
 8 июня, Челябинск
@@ -115,6 +119,26 @@
   - «Virtual Augmented Mixed Reality: Day 0», Paul Yuhnovich
   - «3D visualization of datasets in browsers», Oleksandr Pastukhov
   - «CSS QuickDraw», Alexander Gerasimov
+</details>
+
+### [DevConf 2016](http://devconf.ru/ru/schedule#js)
+
+17 июня, Москва, от 5900 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React Native, Relay и GraphQL - опыт в production», Денис Измайлов (Startup Makers)
+  - «Что делать с неповоротливым JQuery», Тимофей Ковалев
+  - «Парсеры - это спарта», Алексей Охрименко (IPONWEB)
+  - «МРТ для данных», Анастасия Горячева (Avito)
+  - «Инфраструктура распределенных приложений на nodejs», Станислав Гуменюк (SEMrush)
+  - «Декларативное программирование на CSS», Кирилл Ковалев
+  - «Как мы адаптировали более 150 сайтов по технологии Dynamically-served JavaScript», Артём Цымпов, Евгений Кольцов (eski.mobi)
+  - «Язык описания шаблонов Snakeskin», Андрей Кобец
+  - «Как tutu.ru делает реинжиниринг работающего продукта на ходу», Роман Грунтович (tutu.ru)
+  - «HTTP/2: мифы и факты», Валентин Бартенев (NGINX, Inc.)
+  - «Страницы AMP. Будь для Google VIP», Владислав Коротун (Цифровая лаборатория)
 </details>
 
 ### [Web Standards Days](https://wsd.events/2016/06/25/)
