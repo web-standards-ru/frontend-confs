@@ -9,9 +9,7 @@
 - [Одесса](#Одесса)
 - [Пенза](#Пенза)
 - [Самара](#Самара)
-- **[Санкт-Петербург](#Санкт-Петербург)**
 - [Симферополь](#Симферополь)
-- [Харьков](#Харьков)
 - [Челябинск](#Челябинск)
 
 ## Астана
@@ -171,62 +169,11 @@
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
 </details>
 
-## Санкт-Петербург
-
-### [HolyJS](http://holyjs.ru/)
-
-5 июня, 5 000 руб. (промокоды на скидку: [тут](https://vk.com/wall-66170841_40998) [там](https://vk.com/wall-76088560_819) [здесь](https://twitter.com/moscowjs/status/737638597126422528))
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «CSSO - оптимизируем CSS», Роман Дворнов (Avito)
-  - «В погоне за производительностью. Психология пользователя», Денис Мишунов (Digital Garden AS)
-  - «Производительность JavaScript через подзорную трубу», Вячеслав Егоров (Google)
-  - «JavaScript Device Detection», Dino Esposito
-  - «МРТ для данных», Анастасия Горячева
-  - «Gradual typing in JavaScript», Дмитрий Локтев (Indie)
-  - «Swarm: синхронизируем рой устройств», Виктор Грищенко
-  - «Инфраструктура распределённых приложений на Node.js», Станислав Гуменюк (SEMrush)
-  - «Angular 2: знакомый герой, новые надежды», Евгений Гусев (Wrike)
-  - «CSS-в-JS, HTML-в-JS, ВСЁ-в-JS. Всё гораздо проще, когда вокруг всё JavaScript», Алексей Иванов (Evil Martians)
-  - «Низкоуровневое программирование в браузере — готовимся использовать WebAssembly», Вячеслав Лапин (EPAM Systems)
-  - «Порталы на JavaScript: зачем, как, и надо ли оно?», Михаил Дружинин (Luxoft)
-  - «Event-Sourcing your React-Redux applications», Maurice de Beijer
-  - «Удобные API с GraphQL», Михаил Новиков (Reindex)
-  - «Парсеры — это Спарта», Алексей Охрименко (IPONWEB)
-  - «Данные на фронтенде», Никита Прокопов (Cognician)
-  - «Реактивное программирование - управляем потоками данных», Виктор Русакович (GP Software.travel)
-  - «JS внутри PostgreSQL», Николай Рыжиков (HealthSamurai)
-  - «Как я перестал верить технологиям», Алексей Симоненко
-  - «Откуда берутся js-фичи», Кирилл Сухомлин (EPAM Systems)
-  - «Практическое применение WebGL», Василика Климова (Artec Group)
-  - «Iskra JS: JavaScript в микроконтроллере», Игорь Зотов (Амперка)
-  - «Опыт тестирования JavaScript: юнит-тесты, велосипеды, моки, боль и сравнение скриншотов», Татьяна Рыженкова и Сергей Звягин (DevExpress)
-</details>
-
 ## Симферополь
 
 ### [WebJam BeerJS](https://www.facebook.com/events/570224883141057/)
 
 8 июня
-
-## Харьков
-
-### [IT Weekend Kharkiv](https://itweekend.ua/ua/announcements/itw-kh-16j/)
-
-5 июня, $14
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Цугцванг-2016: преимущества «современной» JS-экосистемы и что с этим делать», Илья Климов (JavaScript.Ninja)
-  - «Taxonomy-driven search and navigation on web sites (EN)», Борис Омельяненко (SoftServe)
-  - «Live Streaming & JS», Александр Долгарев (Mediasapiens)
-  - «Building A Component-Based Web UI With Modern JavaScript Frameworks», Сергей Розсоха (Waverley Software)
-  - «V8 - what's that», Максим Штыря (SoftServe)
-  - «Must-have в современной верстке», Юрий Артюх (Codriver)
-</details>
 
 ## Челябинск
 
