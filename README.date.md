@@ -141,6 +141,14 @@
   - «Sync: rocket science explained», Виктор Гришенко
 </details>
 
+### [The Rolling Scopes #27](https://brest.rollingscopes.com/)
+
+16 июля, Брест
+
+### [The Rolling Scopes #28](https://gomel.rollingscopes.com/)
+
+23 июля, Гомель
+
 ### [FrontendFellows #6](https://frontendfellows.timepad.ru/event/328848/)
 
 29 июля, Астана
