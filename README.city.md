@@ -84,10 +84,6 @@
 
 ## Москва
 
-### [BeerJS](http://www.meetup.com/BeerJS-Moscow/events/231544285/)
-
-6 июня
-
 ### [DevConf 2016](http://devconf.ru/ru/schedule#js)
 
 17 июня, от 5900 руб.

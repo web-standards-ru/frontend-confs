@@ -6,10 +6,6 @@
 
 ## Июнь
 
-### [BeerJS](http://www.meetup.com/BeerJS-Moscow/events/231544285/)
-
-6 июня, Москва
-
 ### [WebJam BeerJS](https://www.facebook.com/events/570224883141057/)
 
 8 июня, Симферополь
