@@ -9,6 +9,7 @@
 - [Львов](#Львов)
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
+- [Омск](#Омск)
 - [Пенза](#Пенза)
 - [Самара](#Самара)
 - [Симферополь](#Симферополь)
@@ -128,7 +129,6 @@
   <summary>**Доклады**</summary>
 
   - «WebGL, basic computer graphics for frontend devs», Martin Naumann
-  - «Evolution of Components: The New Frontier», Андрей Листочкин
   - «Grid Layout», Вадим Макеев
   - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
   - «Rx.js пожоще», Денис Стоянов
@@ -152,6 +152,12 @@
   - «Ребрендинг в продакшене», Алексей Мигуцкий
   - «Sync: rocket science explained», Виктор Гришенко
 </details>
+
+## Омск
+
+### [Frontend Meetup Omsk 4](https://vk.com/frontendmeetupomsk4)
+
+18 июня
 
 ## Пенза
 
