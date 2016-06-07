@@ -90,6 +90,10 @@
   - «Страницы AMP. Будь для Google VIP», Владислав Коротун (Цифровая лаборатория)
 </details>
 
+### [Frontend Meetup Omsk 4](https://vk.com/frontendmeetupomsk4)
+
+18 июня, Омск
+
 ### [Web Standards Days](https://wsd.events/2016/06/25/)
 
 25 июня, Екатеринбург
@@ -116,7 +120,6 @@
   <summary>**Доклады**</summary>
 
   - «WebGL, basic computer graphics for frontend devs», Martin Naumann
-  - «Evolution of Components: The New Frontier», Андрей Листочкин
   - «Grid Layout», Вадим Макеев
   - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
   - «Rx.js пожоще», Денис Стоянов
