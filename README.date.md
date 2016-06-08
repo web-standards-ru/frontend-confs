@@ -6,23 +6,6 @@
 
 ## Июнь
 
-### [WebJam BeerJS](https://www.facebook.com/events/570224883141057/)
-
-8 июня, Симферополь
-
-### [FRONTday](http://frontday.ru/)
-
-8 июня, Челябинск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Fiddler: как обмануть всех», Владимир Смирнов (UNIT6)
-  - «Жизнь frontend-разработчика», Владимир Кузнецов (graph)
-  - «Будущее фронтеда и велосипеды», Плесских Иван
-  - «Как я работаю с SVG», Лаптев Петр (moscowfresh.ru)
-</details>
-
 ### [Penza Frontend Meetup #3](https://vk.com/pfm_3)
 
 10 июня, Пенза
