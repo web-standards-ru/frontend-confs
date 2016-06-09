@@ -27,13 +27,13 @@
 
 ## Брест
 
-### [The Rolling Scopes #27](https://brest.rollingscopes.com/)
+### [The Rolling Scopes #28](https://brest.rollingscopes.com/)
 
 16 июля
 
 ## Гомель
 
-### [The Rolling Scopes #28](https://gomel.rollingscopes.com/)
+### [The Rolling Scopes #29](https://gomel.rollingscopes.com/)
 
 23 июля
 
@@ -80,6 +80,10 @@
   - «3D visualization of datasets in browsers», Oleksandr Pastukhov
   - «CSS QuickDraw», Alexander Gerasimov
 </details>
+
+### The Rolling Scopes *#*27
+
+12 июля, Краков
 
 ## Львов
 
@@ -149,6 +153,7 @@
   - «Elm: functional programming in your browser», Алекс Труш
   - «Ребрендинг в продакшене», Алексей Мигуцкий
   - «Sync: rocket science explained», Виктор Гришенко
+  - «Koa.js as an alternative to Express», Николай Кожухаренко
 </details>
 
 ## Омск
@@ -156,6 +161,13 @@
 ### [Frontend Meetup Omsk 4](https://vk.com/frontendmeetupomsk4)
 
 18 июня
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Архитектура Angular 2 и зачем он нужен», Семён Светлый (SmartPeople)
+  - «React Native. Первая попытка фронтендера написать мобильное приложение», Михаил Данилов (Live Typing)
+</details>
 
 ## Пенза
 
