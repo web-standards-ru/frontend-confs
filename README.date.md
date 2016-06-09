@@ -77,6 +77,13 @@
 
 18 июня, Омск
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Архитектура Angular 2 и зачем он нужен», Семён Светлый (SmartPeople)
+  - «React Native. Первая попытка фронтендера написать мобильное приложение», Михаил Данилов (Live Typing)
+</details>
+
 ### [Web Standards Days](https://wsd.events/2016/06/25/)
 
 25 июня, Екатеринбург
@@ -125,13 +132,18 @@
   - «Elm: functional programming in your browser», Алекс Труш
   - «Ребрендинг в продакшене», Алексей Мигуцкий
   - «Sync: rocket science explained», Виктор Гришенко
+  - «Koa.js as an alternative to Express», Николай Кожухаренко
 </details>
 
-### [The Rolling Scopes #27](https://brest.rollingscopes.com/)
+### The Rolling Scopes #27
+
+12 июля, Краков
+
+### [The Rolling Scopes #28](https://brest.rollingscopes.com/)
 
 16 июля, Брест
 
-### [The Rolling Scopes #28](https://gomel.rollingscopes.com/)
+### [The Rolling Scopes #29](https://gomel.rollingscopes.com/)
 
 23 июля, Гомель
 
