@@ -6,17 +6,6 @@
 
 ## Июнь
 
-### [Penza Frontend Meetup #3](https://vk.com/pfm_3)
-
-10 июня, Пенза
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Новый мир с PostCSS», Андрей Лебедев (Моё дело)
-  - «Почему реакт — лучшее, что случилось с фронтэндом», Денис Соколов (Corkly)
-</details>
-
 ### [FrontDays Meetup #3](http://frontdays.ru/)
 
 11 июня, Самара
