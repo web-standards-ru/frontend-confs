@@ -6,17 +6,6 @@
 
 ## Июнь
 
-### [FrontDays Meetup #3](http://frontdays.ru/)
-
-11 июня, Самара
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Эволюция JavaScript. Обзор нововведений ECMAScript 6», Иван Федяев (EPAM)
-  - «Оптимизация загрузки тяжелых страниц», Илья Кучмин (EPAM)
-</details>
-
 ### [IT Weekend Lviv — Web UI](https://itweekend.ua/ua/announcements/itw-lv-16j/)
 
 12 июня, Львов, $18
