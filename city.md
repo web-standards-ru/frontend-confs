@@ -6,7 +6,6 @@
 - [Екатеринбург](#Екатеринбург)
 - [Киев](#Киев)
 - [Краков](#Краков)
-- [Львов](#Львов)
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
 - [Омск](#Омск)
@@ -86,22 +85,6 @@
 ### The Rolling Scopes *#*27
 
 12 июля, Краков
-
-## Львов
-
-### [IT Weekend Lviv — Web UI](https://itweekend.ua/ua/announcements/itw-lv-16j/)
-
-12 июня, $18
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Responsive Web Forms and Wizards in modern websites», Микола Воронин (Voronin Design Studio)
-  - «Intorduction to ReactJS and the Flux pattern», Теодор Тодоров (SoftServe)
-  - «Opensourceman», Андрей Вандакуров (Eleks)
-</details>
-
-## Москва
 
 ### [DevConf 2016](http://devconf.ru/ru/schedule#js)
 
