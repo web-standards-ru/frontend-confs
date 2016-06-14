@@ -35,6 +35,18 @@
 
 23 июля
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Angular-Material in Practice», Ales Tsvil
+  - «TypeScript: application-scale JavaScript», Aliaksei Kharchykau
+  - «Как подружить JAVA сервер-сайд разработчика с JASMINE», Aliaksei Rabchanka
+  - «Как стать фронт-енд разработчиком с нуля», Vadim Kulaga
+  - «Некоторые алгоритмы и структуры для обработки строковых данных», Ruslan Panasiuk
+  - «Статическая типизация с Flow and Typescript», Uladzislau Harbachou
+  - «Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще», Zhanna Lud
+</details>
+
 ## Екатеринбург
 
 ### [Web Standards Days](https://wsd.events/2016/06/25/)
@@ -169,5 +181,7 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «Профи < Новичок», Алёна Батицкая (Нетология)
+  - «Отзывчивые картинки правильно», Зарема Халилова (Uploadcare)
   - «Зачем изобрели CSS», Хокон Виум Ли (Opera)
 </details>
