@@ -156,6 +156,21 @@
   - «Обучение фронтенд разработке», Олег Мохов (Яндекс)
 </details>
 
+### [VinnytsiaJS](http://vinnytsiajs.org/)
+
+30 июля, Винница, $25–40
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
+  - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
+  - «Asynchronous ECMAScript», Денис Влассенко (EPAM)
+  - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
+  - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
+  - «Offline-First Almighty or one big reason why our web-applications suck», Денис Яремов (Lohika)
+</details>
+
 ## Сентябрь
 
 ### [FrontTalks](http://lanyrd.com/2016/fronttalks2016/)

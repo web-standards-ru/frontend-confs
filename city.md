@@ -2,6 +2,7 @@
 
 - **[Астана](#Астана)**
 - [Брест](#Брест)
+- [Винница](#Винница)
 - [Гомель](#Гомель)
 - [Екатеринбург](#Екатеринбург)
 - [Киев](#Киев)
@@ -28,6 +29,23 @@
 ### [The Rolling Scopes #28](https://brest.rollingscopes.com/)
 
 16 июля
+
+## Винница
+
+### [VinnytsiaJS](http://vinnytsiajs.org/)
+
+30 июля, $25–40
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
+  - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
+  - «Asynchronous ECMAScript», Денис Влассенко (EPAM)
+  - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
+  - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
+  - «Offline-First Almighty or one big reason why our web-applications suck», Денис Яремов (Lohika)
+</details>
 
 ## Гомель
 
