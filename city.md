@@ -99,19 +99,6 @@
 
 ## Краков
 
-### [The Rolling Scopes #26](https://krakow.rollingscopes.com/)
-
-16 июня
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «TypeScript and what's the hack Javascript», Vadzim Yakushau
-  - «Virtual Augmented Mixed Reality: Day 0», Paul Yuhnovich
-  - «3D visualization of datasets in browsers», Oleksandr Pastukhov
-  - «CSS QuickDraw», Alexander Gerasimov
-</details>
-
 ### The Rolling Scopes *#*27
 
 12 июля, Краков
