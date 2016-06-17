@@ -75,10 +75,9 @@
   - «Grid Layout», Вадим Макеев
   - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
   - «Rx.js пожоще», Денис Стоянов
-  - «Cистемне програмування на JS», Ингвар Степанян
+  - «Intro to Optimizing Compilers», Ингвар Степанян
   - «Angular 2 Universe», Денис Зайченко
-  - «Моды для Майнкрафта на Javascript», Юля Пучнина
-  - «Smart Home and IoT», Андрей Кучеренко
+  - «SmartHouse - практическое применение IoT в уютной JS разработке», Андрей Кучеренко
   - «React.js в мифрильной броне», Артем Тритяк
   - «What professionals can learn from coding games?», Александр Лябах
   - «Offline first in React Native and Redux», Филип Шурпик
@@ -144,6 +143,7 @@
   - «Asynchronous ECMAScript», Денис Влассенко (EPAM)
   - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
   - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
+  - «React Native: Are we there yet?», Роман Лютиков (Redradix LLC)
   - «Offline-First Almighty or one big reason why our web-applications suck», Денис Яремов (Lohika)
 </details>
 
