@@ -6,18 +6,6 @@
 
 ## Июнь
 
-### [Frontend Meetup Omsk 4](https://vk.com/frontendmeetupomsk4)
-
-18 июня, Омск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Архитектура Angular 2 и зачем он нужен», Семён Светлый (SmartPeople)
-  - «React Native. Первая попытка фронтендера написать мобильное приложение», Михаил Данилов (Live Typing)
-  - «Progressive Web Apps», Максим Малов (HWd Tech)
-</details>
-
 ### [ChernihivJS #5](http://www.meetup.com/chernihivjs/events/231909004/)
 
 23 июня, Чернигов, $1.5

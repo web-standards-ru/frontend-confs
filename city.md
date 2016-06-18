@@ -9,7 +9,6 @@
 - [Краков](#Краков)
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
-- [Омск](#Омск)
 - [Тольятти](#Тольятти)
 - [Чернигов](#Чернигов)
 
@@ -144,20 +143,6 @@
   - «Ребрендинг в продакшене», Алексей Мигуцкий
   - «Sync: rocket science explained», Виктор Гришенко
   - «Koa.js as an alternative to Express», Николай Кожухаренко
-</details>
-
-## Омск
-
-### [Frontend Meetup Omsk 4](https://vk.com/frontendmeetupomsk4)
-
-18 июня
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Архитектура Angular 2 и зачем он нужен», Семён Светлый (SmartPeople)
-  - «React Native. Первая попытка фронтендера написать мобильное приложение», Михаил Данилов (Live Typing)
-  - «Progressive Web Apps», Максим Малов (HWd Tech)
 </details>
 
 ## Тольятти
