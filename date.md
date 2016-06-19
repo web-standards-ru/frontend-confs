@@ -109,6 +109,10 @@
   - «Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще», Zhanna Lud
 </details>
 
+### [Piter JS](http://piter-united.ru/itgm8/itgm.html)
+
+23 июля, Санкт-Петербург
+
 ### [FrontendFellows #6](https://frontendfellows.timepad.ru/event/328848/)
 
 29 июля, Астана
