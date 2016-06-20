@@ -61,7 +61,6 @@
 
   - «WebGL, basic computer graphics for frontend devs», Martin Naumann
   - «Grid Layout», Вадим Макеев
-  - «Profiling NodeJS apps and looking for deopts/bailouts + workshop», Евгений Обрезков
   - «Rx.js пожоще», Денис Стоянов
   - «Intro to Optimizing Compilers», Ингвар Степанян
   - «Angular 2 Universe», Денис Зайченко
@@ -83,6 +82,26 @@
   - «Ребрендинг в продакшене», Алексей Мигуцкий
   - «Sync: rocket science explained», Виктор Гришенко
   - «Koa.js as an alternative to Express», Николай Кожухаренко
+  - «Excellence of Engineering Practices for Large-scale JavaScript Applications», Роман Ермаков
+  - «JavaScript разработчик глазами PMа», Александр Черкасский
+</details>
+
+### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/09-july-2016/)
+
+9 июля, Санкт-Петербург
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Любовь и ненависть к pull request», Сергей Сергеев
+  - «Автоматизация Code Review», Станислав Сысоев
+  - «MQ: merge-queue», Евгений Гаврюшин
+  - «Измеряем эффективность инфраструктуры разработки интерфейсов», Алексей Калмаков
+  - «ymb и yms: асинхронные модули в JavaScript-проектах», Александр Зинчук
+  - «Ранняя диагностика проблем производительности сервисов», Александр Тиквач и Илья Исупов
+  - «Что нового в bem-core@v4», Сергей Бережной
+  - «Автоматическая генерация актуальной документации для модульного фронтенда», Владимир Гриненко
+  - «БЭМ в виртуальном DOM», Антон Виноградов
 </details>
 
 ### The Rolling Scopes #27
