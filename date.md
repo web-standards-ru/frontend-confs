@@ -46,6 +46,18 @@
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
 </details>
 
+### [EPAM Frontend Community Meetup #1](https://events.epam.com/events/epam-frontend-community-meetup-1)
+
+27 июня, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Frontend Performance Metrics. Measure First. Measure Often», Artem Zakharchenko
+  - «Reactive Programming with RxJS», Aliaksei Bahachuk
+  - «Architecture anti-patterns. Now in JavaScript!», Dmytro Malieiev
+</details>
+
 ### [MoscowJS](http://moscowjs.ru/)
 
 30 июня, Москва
@@ -108,6 +120,16 @@
 
 12 июля, Краков
 
+### [ULCAMP-2016](http://2016.ulcamp.ru/about)
+
+15–17 июля, Ульяновск, 2000–3500 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
+</details>
+
 ### [The Rolling Scopes #28](https://brest.rollingscopes.com/)
 
 16 июля, Брест
@@ -144,7 +166,7 @@
 
 ### [VinnytsiaJS](http://vinnytsiajs.org/)
 
-30 июля, Винница, $25–40
+30 июля, Винница, $33–40
 
 <details>
   <summary>**Доклады**</summary>
