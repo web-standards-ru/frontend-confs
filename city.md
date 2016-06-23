@@ -11,6 +11,7 @@
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
 - **[Санкт-Петербург](#Санкт-Петербург)**
+- [Рязань](#Рязань)
 - [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
 
@@ -108,7 +109,7 @@
 
 ## Минск
 
-### [EPAM Frontend Community Meetup #1](https://events.epam.com/events/epam-frontend-community-meetup-1)
+### [FrontSpot Meetup #1](https://events.epam.com/events/epam-frontend-community-meetup-1)
 
 27 июня
 
@@ -122,9 +123,18 @@
 
 ## Москва
 
-### [MoscowJS](http://moscowjs.ru/)
+### [MoscowJS](https://moscowjs.timepad.ru/event/345706/)
 
 30 июня
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Веб без интернет соединения», Михаил Дунаев (Rambler&Co)
+  - «Контекст в React», Николай Надоричев (Сбербанк-Технологии)
+  - «Собираем NPM пакеты с TypeScript», Артур Бир (Dr.Head)
+  - «Angular2: Куда пропал $apply()?», Тимофей Яценко (Time.sc)
+</details>
 
 ## Одесса
 
@@ -186,11 +196,23 @@
 
 23 июля
 
+## Рязань
+
+### [WebPurple meetup #10](https://new.vk.com/webpurple_meetup10)
+
+30 июня
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Асинхронность в JS», Дима Кабардинов
+</details>
+
 ## Тольятти
 
 ### [FrontDays Meetup#4](http://frontdays.ru/)
 
-25 июня
+3 сентября
 
 <details>
   <summary>**Доклады**</summary>
