@@ -25,17 +25,7 @@
   - «Как отвечать за продакшен», Андрей Сумин (Mail.Ru)
 </details>
 
-### [FrontDays Meetup#4](http://frontdays.ru/)
-
-25 июня, Тольятти
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
-</details>
-
-### [EPAM Frontend Community Meetup #1](https://events.epam.com/events/epam-frontend-community-meetup-1)
+### [FrontSpot Meetup #1](https://events.epam.com/events/epam-frontend-community-meetup-1)
 
 27 июня, Минск
 
@@ -47,9 +37,28 @@
   - «Architecture anti-patterns. Now in JavaScript!», Dmytro Malieiev
 </details>
 
-### [MoscowJS](http://moscowjs.ru/)
+### [MoscowJS](https://moscowjs.timepad.ru/event/345706/)
 
 30 июня, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Веб без интернет соединения», Михаил Дунаев (Rambler&Co)
+  - «Контекст в React», Николай Надоричев (Сбербанк-Технологии)
+  - «Собираем NPM пакеты с TypeScript», Артур Бир (Dr.Head)
+  - «Angular2: Куда пропал $apply()?», Тимофей Яценко (Time.sc)
+</details>
+
+### [WebPurple meetup #10](https://new.vk.com/webpurple_meetup10)
+
+30 июня, Рязань
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Асинхронность в JS», Дима Кабардинов
+</details>
 
 ## Июль
 
@@ -170,6 +179,16 @@
 </details>
 
 ## Сентябрь
+
+### [FrontDays Meetup#4](http://frontdays.ru/)
+
+3 сентября, Тольятти
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
+</details>
 
 ### [FrontTalks](http://lanyrd.com/2016/fronttalks2016/)
 
