@@ -6,17 +6,6 @@
 
 ## Июнь
 
-### [ChernihivJS #5](http://www.meetup.com/chernihivjs/events/231909004/)
-
-23 июня, Чернигов, $1.5
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Сбор и обработка метрик фронтенда», Глеб Винников
-  - «React Native: Нативная мобильная разработка на JavaScript», Роман Лютиков
-</details>
-
 ### [Web Standards Days](https://wsd.events/2016/06/25/)
 
 25 июня, Екатеринбург
