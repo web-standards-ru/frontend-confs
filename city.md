@@ -42,6 +42,7 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «JavaScript: The awesome parts», Martin Splitt (Archilogic)
   - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
   - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
   - «Asynchronous ECMAScript», Денис Влассенко (EPAM)
@@ -49,6 +50,7 @@
   - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
   - «React Native: Are we there yet?», Роман Лютиков (Redradix LLC)
   - «Offline-First Almighty or one big reason why our web-applications suck», Денис Яремов (Lohika)
+  - «WTF - WebGL The Fundamentals», Martin Splitt (Archilogic)
 </details>
 
 ## Гомель
@@ -65,7 +67,10 @@
   - «Как подружить JAVA сервер-сайд разработчика с JASMINE», Aliaksei Rabchanka
   - «Как стать фронт-енд разработчиком с нуля», Vadim Kulaga
   - «Некоторые алгоритмы и структуры для обработки строковых данных», Ruslan Panasiuk
+  - «Electron и JavaScript приложения для desktop», Иван Селицкий
   - «Статическая типизация с Flow and Typescript», Uladzislau Harbachou
+  - «Creating VR web», Paul Yuhnovich
+  - «Азбука HTML и CSS, или как научить толпу людей верстать», Maria Putyrskaya
   - «Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще», Zhanna Lud
 </details>
 
@@ -151,16 +156,14 @@
   - «Intro to Optimizing Compilers», Ингвар Степанян
   - «Angular 2 Universe», Денис Зайченко
   - «SmartHouse - практическое применение IoT в уютной JS разработке», Андрей Кучеренко
-  - «React.js в мифрильной броне», Артем Тритяк
+  - «Пишем код, тягаем штангу», Александр Завьялов
   - «What professionals can learn from coding games?», Александр Лябах
   - «Offline first in React Native and Redux», Филип Шурпик
   - «Что не так с web и как с этим жить», Сергей Рубанов
   - «Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates», Вячеслав Слинько
   - «Архитектура, или как мы куда-то не туда пошли», Дима Малеев
-  - «CSS in JS», Кирилл Яковенко
+  - «Стринги», Кирилл Яковенко
   - «Карты и картографические сервисы», Николай Беличук
-  - «Why functional programming makes life easier?», Юля Пшинко
-  - «Основы Rx.js», Дима Билдин
   - «Node.js вширь и вглубь», Дмитрий Гусев
   - «Node.js Macht Frei», Тимур Шемсединов
   - «ECMAScript: past, present and future», Ксения Редунова
@@ -169,7 +172,10 @@
   - «Sync: rocket science explained», Виктор Гришенко
   - «Koa.js as an alternative to Express», Николай Кожухаренко
   - «Excellence of Engineering Practices for Large-scale JavaScript Applications», Роман Ермаков
+  - «React.js в мифрильной броне», Артем Тритяк
   - «JavaScript разработчик глазами PMа», Александр Черкасский
+  - «IoT Real Time Dashboards with SignalR», Сергей Поплавский
+  - «Internet of things в офисе», Юрий Шевцов
 </details>
 
 ## Санкт-Петербург
