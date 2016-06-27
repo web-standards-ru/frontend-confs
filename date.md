@@ -6,18 +6,6 @@
 
 ## Июнь
 
-### [FrontSpot Meetup #1](https://events.epam.com/events/epam-frontend-community-meetup-1)
-
-27 июня, Минск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Frontend Performance Metrics. Measure First. Measure Often», Artem Zakharchenko
-  - «Reactive Programming with RxJS», Aliaksei Bahachuk
-  - «Architecture anti-patterns. Now in JavaScript!», Dmytro Malieiev
-</details>
-
 ### [MoscowJS](https://moscowjs.timepad.ru/event/345706/)
 
 30 июня, Москва

@@ -7,7 +7,6 @@
 - [Екатеринбург](#Екатеринбург)
 - [Киев](#Киев)
 - [Краков](#Краков)
-- **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
 - **[Санкт-Петербург](#Санкт-Петербург)**
@@ -89,23 +88,9 @@
 
 ## Краков
 
-### The Rolling Scopes *#*27
+### The Rolling Scopes #27
 
 12 июля
-
-## Минск
-
-### [FrontSpot Meetup #1](https://events.epam.com/events/epam-frontend-community-meetup-1)
-
-27 июня
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Frontend Performance Metrics. Measure First. Measure Often», Artem Zakharchenko
-  - «Reactive Programming with RxJS», Aliaksei Bahachuk
-  - «Architecture anti-patterns. Now in JavaScript!», Dmytro Malieiev
-</details>
 
 ## Москва
 
