@@ -6,7 +6,7 @@
 
 ## Июнь
 
-### [MoscowJS](https://moscowjs.timepad.ru/event/345706/)
+### [MoscowJS 31](https://moscowjs.timepad.ru/event/345706/)
 
 30 июня, Москва
 
@@ -16,7 +16,7 @@
   - «Веб без интернет соединения», Михаил Дунаев (Rambler&Co)
   - «Контекст в React», Николай Надоричев (Сбербанк-Технологии)
   - «Собираем NPM пакеты с TypeScript», Артур Бир (Dr.Head)
-  - «Angular2: Куда пропал $apply()?», Тимофей Яценко (Time.sc)
+  - «Angular2 Change Detection», Тимофей Яценко (Timescenery)
 </details>
 
 ### [WebPurple meetup #10](https://new.vk.com/webpurple_meetup10)
@@ -66,6 +66,19 @@
   - «Internet of things в офисе», Юрий Шевцов
 </details>
 
+### [Frontend Mix](https://events.yandex.ru/events/meetings/7-july-2016/)
+
+7 июля, Санкт-Петербург
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Офлайн-веб», Владимир Ракчаев (Яндекс.Деньги)
+  - «Философия БЭМ», Андрей Мелихов (Яндекс.Деньги)
+  - «Protein для фронтендера», Антон Виноградов (Яндекс)
+  - «Классические приёмы программирования во фронтенде», Игорь Алексеенко (HTML Academy)
+</details>
+
 ### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/09-july-2016/)
 
 9 июля, Санкт-Петербург
@@ -83,10 +96,6 @@
   - «Автоматическая генерация актуальной документации для модульного фронтенда», Владимир Гриненко
   - «БЭМ в виртуальном DOM», Антон Виноградов
 </details>
-
-### The Rolling Scopes #27
-
-12 июля, Краков
 
 ### [ULCAMP-2016](http://2016.ulcamp.ru/about)
 
