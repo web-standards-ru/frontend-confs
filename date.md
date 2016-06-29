@@ -125,6 +125,7 @@
   - «Некоторые алгоритмы и структуры для обработки строковых данных», Ruslan Panasiuk
   - «Electron и JavaScript приложения для desktop», Иван Селицкий
   - «Статическая типизация с Flow and Typescript», Uladzislau Harbachou
+  - «Cycle.js», Сергей Мельник
   - «Creating VR web», Paul Yuhnovich
   - «Азбука HTML и CSS, или как научить толпу людей верстать», Maria Putyrskaya
   - «Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще», Zhanna Lud
