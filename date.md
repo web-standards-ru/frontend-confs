@@ -1,33 +1,7 @@
 # По датам
 
-- [Июнь](#Июнь)
 - [Июль](#Июль)
 - [Сентябрь](#Сентябрь)
-
-## Июнь
-
-### [MoscowJS 31](https://moscowjs.timepad.ru/event/345706/)
-
-30 июня, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Веб без интернет соединения», Михаил Дунаев (Rambler&Co)
-  - «Контекст в React», Николай Надоричев (Сбербанк-Технологии)
-  - «Собираем NPM пакеты с TypeScript», Артур Бир (Dr.Head)
-  - «Angular2 Change Detection», Тимофей Яценко (Timescenery)
-</details>
-
-### [WebPurple meetup #10](https://new.vk.com/webpurple_meetup10)
-
-30 июня, Рязань
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Асинхронность в JS», Дима Кабардинов
-</details>
 
 ## Июль
 
