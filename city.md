@@ -6,7 +6,9 @@
 - [Гомель](#Гомель)
 - [Екатеринбург](#Екатеринбург)
 - [Киев](#Киев)
+- [Курск](#Курск)
 - [Одесса](#Одесса)
+- [Омск](#Омск)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
@@ -25,9 +27,9 @@
 
 ## Брест
 
-### [The Rolling Scopes #28](https://brest.rollingscopes.com/)
+### [The Rolling Scopes #29](https://brest.rollingscopes.com/)
 
-16 июля
+16 августа
 
 ## Винница
 
@@ -51,7 +53,7 @@
 
 ## Гомель
 
-### [The Rolling Scopes #29](https://gomel.rollingscopes.com/)
+### [The Rolling Scopes #28](https://gomel.rollingscopes.com/)
 
 23 июля
 
@@ -83,6 +85,12 @@
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
 
 17 сентября, $139
+
+## Курск
+
+### [Kursk Meetup](https://new.vk.com/kurskmeetup)
+
+2 июля
 
 ## Одесса
 
@@ -120,6 +128,12 @@
   - «IoT Real Time Dashboards with SignalR», Сергей Поплавский
   - «Internet of things в офисе», Юрий Шевцов
 </details>
+
+## Омск
+
+### [BeerJS Omsk #1](https://hardtobepro.timepad.ru/event/347532/)
+
+12 июля
 
 ## Санкт-Петербург
 

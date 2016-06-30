@@ -1,9 +1,14 @@
 # По датам
 
 - [Июль](#Июль)
+- [Август](#Август)
 - [Сентябрь](#Сентябрь)
 
 ## Июль
+
+### [Kursk Meetup](https://new.vk.com/kurskmeetup)
+
+2 июля, Курск
 
 ### [OdessaJS](http://odessajs.org/)
 
@@ -71,6 +76,10 @@
   - «БЭМ в виртуальном DOM», Антон Виноградов
 </details>
 
+### [BeerJS Omsk #1](https://hardtobepro.timepad.ru/event/347532/)
+
+12 июля, Омск
+
 ### [ULCAMP-2016](http://2016.ulcamp.ru/about)
 
 15–17 июля, Ульяновск, 2000–3500 руб.
@@ -81,11 +90,7 @@
   - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
 </details>
 
-### [The Rolling Scopes #28](https://brest.rollingscopes.com/)
-
-16 июля, Брест
-
-### [The Rolling Scopes #29](https://gomel.rollingscopes.com/)
+### [The Rolling Scopes #28](https://gomel.rollingscopes.com/)
 
 23 июля, Гомель
 
@@ -136,6 +141,12 @@
   - «Offline-First Almighty or one big reason why our web-applications suck», Денис Яремов (Lohika)
   - «WTF - WebGL The Fundamentals», Martin Splitt (Archilogic)
 </details>
+
+## Август
+
+### [The Rolling Scopes #29](https://brest.rollingscopes.com/)
+
+16 августа, Брест
 
 ## Сентябрь
 
