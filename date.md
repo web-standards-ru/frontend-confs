@@ -6,10 +6,6 @@
 
 ## Июль
 
-### [Kursk Meetup](https://new.vk.com/kurskmeetup)
-
-2 июля, Курск
-
 ### [OdessaJS](http://odessajs.org/)
 
 2 и 3 июля, Одесса, $140 (студентам и инвалидам скидка — 50%)
