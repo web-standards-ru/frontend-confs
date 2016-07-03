@@ -6,7 +6,6 @@
 - [Гомель](#Гомель)
 - [Екатеринбург](#Екатеринбург)
 - [Киев](#Киев)
-- [Одесса](#Одесса)
 - [Омск](#Омск)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
@@ -85,43 +84,6 @@
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
 
 17 сентября, $139
-
-## Одесса
-
-### [OdessaJS](http://odessajs.org/)
-
-2 и 3 июля, $140 (студентам и инвалидам скидка — 50%)
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «WebGL, basic computer graphics for frontend devs», Martin Naumann
-  - «Grid Layout», Вадим Макеев
-  - «Rx.js пожоще», Денис Стоянов
-  - «Intro to Optimizing Compilers», Ингвар Степанян
-  - «Angular 2 Universe», Денис Зайченко
-  - «SmartHouse - практическое применение IoT в уютной JS разработке», Андрей Кучеренко
-  - «Пишем код, тягаем штангу», Александр Завьялов
-  - «What professionals can learn from coding games?», Александр Лябах
-  - «Offline first in React Native and Redux», Филип Шурпик
-  - «Что не так с web и как с этим жить», Сергей Рубанов
-  - «Relay internals, such as cache algorithm, garbage collector, algorithm of applying optimistic updates», Вячеслав Слинько
-  - «Архитектура, или как мы куда-то не туда пошли», Дима Малеев
-  - «Стринги», Кирилл Яковенко
-  - «Карты и картографические сервисы», Николай Беличук
-  - «Node.js вширь и вглубь», Дмитрий Гусев
-  - «Node.js Macht Frei», Тимур Шемсединов
-  - «ECMAScript: past, present and future», Ксения Редунова
-  - «Elm: functional programming in your browser», Алекс Труш
-  - «Ребрендинг в продакшене», Алексей Мигуцкий
-  - «Sync: rocket science explained», Виктор Гришенко
-  - «Koa.js as an alternative to Express», Николай Кожухаренко
-  - «Excellence of Engineering Practices for Large-scale JavaScript Applications», Роман Ермаков
-  - «React.js в мифрильной броне», Артем Тритяк
-  - «JavaScript разработчик глазами PMа», Александр Черкасский
-  - «IoT Real Time Dashboards with SignalR», Сергей Поплавский
-  - «Internet of things в офисе», Юрий Шевцов
-</details>
 
 ## Омск
 
