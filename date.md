@@ -3,6 +3,7 @@
 - [Июль](#Июль)
 - [Август](#Август)
 - [Сентябрь](#Сентябрь)
+- [Июнь](#Июнь)
 
 ## Июль
 
@@ -35,6 +36,7 @@
   <summary>**Доклады**</summary>
 
   - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
+  - «325 дней без з\п или жизнь на аутсорсе», Алексей Фёдоров
 </details>
 
 ### [The Rolling Scopes #28](https://gomel.rollingscopes.com/)
@@ -72,6 +74,21 @@
   - «Осторожно, закэшировано!», Сергей Жигалов (Яндекс)
 </details>
 
+### [WebCamp 2016](http://webcamp.in.ua/front-end.html#theme)
+
+29 июля, Одесса, ≈ 3800 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Эволюция CSS: от темных времен до CSS модулей», Катерина Поршнева (YouScan)
+  - «Теория и практика локализации одностраничных JavaScript приложений», Виктор Турский (WebbyLab)
+  - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
+  - «Relay, GraphQL и остальные радости современного React», Роман Якобчук (RevJet)
+  - «Оптимизируем мобильный веб полностью», Андрей Копёнкин (FlyElephant)
+  - «JavaScript для мобильной разработки», Виталий Бобров (Provectus)
+</details>
+
 ### [FrontendFellows #7](https://frontendfellows.timepad.ru/event/349319/)
 
 30 июля, Алматы
@@ -93,7 +110,7 @@
   - «JavaScript: The awesome parts», Martin Splitt (Archilogic)
   - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
   - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
-  - «Asynchronous ECMAScript», Денис Влассенко (EPAM)
+  - «Asyncable ESMAScript», Денис Влассенко (EPAM)
   - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
   - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
   - «React Native: Are we there yet?», Роман Лютиков (Redradix LLC)
@@ -132,3 +149,9 @@
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
 
 17 сентября, Киев, $139
+
+## Июнь
+
+### [FrontendConf](http://frontendconf.ru/)
+
+5 и 6 июня, Москва

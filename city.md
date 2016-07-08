@@ -8,6 +8,8 @@
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
 - [Львов](#Львов)
+- **[Москва](#Москва)**
+- [Одесса](#Одесса)
 - [Омск](#Омск)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
@@ -57,7 +59,7 @@
   - «JavaScript: The awesome parts», Martin Splitt (Archilogic)
   - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
   - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
-  - «Asynchronous ECMAScript», Денис Влассенко (EPAM)
+  - «Asyncable ESMAScript», Денис Влассенко (EPAM)
   - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
   - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
   - «React Native: Are we there yet?», Роман Лютиков (Redradix LLC)
@@ -106,6 +108,29 @@
 ### [LvivJS](http://www.lvivjs.org.ua/)
 
 27 августа
+
+## Москва
+
+### [FrontendConf](http://frontendconf.ru/)
+
+5 и 6 июня
+
+## Одесса
+
+### [WebCamp 2016](http://webcamp.in.ua/front-end.html#theme)
+
+29 июля, ≈ 3800 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Эволюция CSS: от темных времен до CSS модулей», Катерина Поршнева (YouScan)
+  - «Теория и практика локализации одностраничных JavaScript приложений», Виктор Турский (WebbyLab)
+  - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
+  - «Relay, GraphQL и остальные радости современного React», Роман Якобчук (RevJet)
+  - «Оптимизируем мобильный веб полностью», Андрей Копёнкин (FlyElephant)
+  - «JavaScript для мобильной разработки», Виталий Бобров (Provectus)
+</details>
 
 ## Омск
 
@@ -158,4 +183,5 @@
   <summary>**Доклады**</summary>
 
   - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
+  - «325 дней без з\п или жизнь на аутсорсе», Алексей Фёдоров
 </details>
