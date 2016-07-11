@@ -7,10 +7,6 @@
 
 ## Июль
 
-### [BeerJS Omsk #1](https://hardtobepro.timepad.ru/event/347532/)
-
-12 июля, Омск
-
 ### [ULCAMP-2016](http://2016.ulcamp.ru/about)
 
 15–17 июля, Ульяновск, 2000–3500 руб.
