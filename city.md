@@ -62,6 +62,7 @@
 
   - «JavaScript: The awesome parts», Martin Splitt (Archilogic)
   - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
+  - «Types vs Types», Иван Лаврин (Lohika Systems)
   - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
   - «Asyncable ESMAScript», Денис Влассенко (EPAM)
   - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
