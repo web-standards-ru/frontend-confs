@@ -71,6 +71,7 @@
   - «Offline-First Almighty or one big reason why our web-applications suck», Денис Яремов (Lohika)
   - «WTF - WebGL The Fundamentals», Martin Splitt (Archilogic)
   - «Node.js – running JavaScript on-earth and in-cloud», Andriy Deren (Dreams IT)
+  - «Hidden capabilities of well-known things», Алексей Волков (Rumble Inc)
 </details>
 
 ## Гомель
