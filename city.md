@@ -13,6 +13,7 @@
 - [Одесса](#Одесса)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
+- [Харьков](#Харьков)
 
 ## Алматы
 
@@ -70,10 +71,11 @@
   <summary>**Доклады**</summary>
 
   - «JavaScript: The awesome parts», Martin Splitt (Archilogic)
+  - «Asyncable ESMAScript», Денис Влассенко (EPAM)
   - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
   - «Types vs Types», Иван Лаврин (Lohika Systems)
   - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
-  - «Asyncable ESMAScript», Денис Влассенко (EPAM)
+  - «Should you play coding games if you are professional coder?», Александр Лябах (CheckiO)
   - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
   - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
   - «React Native: Are we there yet?», Роман Лютиков (Redradix LLC)
@@ -130,7 +132,7 @@
 
 ### [LvivJS](http://www.lvivjs.org.ua/)
 
-27 августа
+27 августа, ≈1200 руб.
 
 ## Москва
 
@@ -205,4 +207,22 @@
   <summary>**Доклады**</summary>
 
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
+</details>
+
+## Харьков
+
+### [KharkivCSS](http://kharkivcss.org/)
+
+17 сентября, от ≈700 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Flexible Box Layout», Владимир Макуха
+  - «Grid layout», Денис Переверзев
+  - «Прячем хаки и ускоряем рендеринг с PostCSS», Алексей Швайка
+  - «CSS-методологии и реализация тем в больших веб-приложениях», Игорь Зенич
+  - «Если ты лентяй и верстаешь уже 12 лет», Юрий Артюх
+  - «UX», Денис Яровой
+  - «Вы не знаете CSS», Антон Немцев
 </details>
