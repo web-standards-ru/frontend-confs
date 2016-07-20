@@ -83,6 +83,7 @@
   - «WTF - WebGL The Fundamentals», Martin Splitt (Archilogic)
   - «Node.js – running JavaScript on-earth and in-cloud», Andriy Deren (Dreams IT)
   - «Hidden capabilities of well-known things», Алексей Волков (Rumble Inc)
+  - «Smart Office - the practical application of IoT in JS development», Дмитрий Голыш и Юрий Ткаченко (EPAM)
 </details>
 
 ## Гомель
