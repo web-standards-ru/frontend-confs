@@ -9,39 +9,6 @@
 
 ## Июль
 
-### [The Rolling Scopes #28](https://gomel.rollingscopes.com/)
-
-23 июля, Гомель
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Angular-Material in Practice», Ales Tsvil
-  - «TypeScript: application-scale JavaScript», Aliaksei Kharchykau
-  - «Как подружить JAVA сервер-сайд разработчика с JASMINE», Aliaksei Rabchanka
-  - «Как стать фронт-енд разработчиком с нуля», Vadim Kulaga
-  - «Некоторые алгоритмы и структуры для обработки строковых данных», Ruslan Panasiuk
-  - «Electron и JavaScript приложения для desktop», Иван Селицкий
-  - «Статическая типизация с Flow and Typescript», Uladzislau Harbachou
-  - «Cycle.js», Сергей Мельник
-  - «Creating VR web», Paul Yuhnovich
-  - «Азбука HTML и CSS, или как научить толпу людей верстать», Maria Putyrskaya
-  - «Самые распространеные лайфхаки фронтенд разработчика или как делать свою работу быстрее и проще», Zhanna Lud
-</details>
-
-### [Piter JS](http://piter-united.ru/itgm8/itgm.html)
-
-23 июля, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «ECMAScript», Михаил Полубояринов
-  - «node.js + Docker», Станислав Гуменюк
-  - «Особенности массовой разработки софта», Яков Сироткин
-  - «Круглый стол: обучение и развитие в JS», Вадим Макеев, Алексей Симоненко, Кирилл Сухомлин, Александр Баумгертнер, Михаил Полубояринов
-</details>
-
 ### [MoscowJS 32](https://events.yandex.ru/events/yagosti/28-july-2016/)
 
 28 июля, Москва
