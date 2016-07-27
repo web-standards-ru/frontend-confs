@@ -3,9 +3,11 @@
 - [Алматы](#Алматы)
 - **[Астана](#Астана)**
 - [Брест](#Брест)
+- **[Вильнюс](#Вильнюс)**
 - [Винница](#Винница)
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
+- [Курск](#Курск)
 - [Львов](#Львов)
 - **[Москва](#Москва)**
 - [Новосибирск](#Новосибирск)
@@ -59,6 +61,25 @@
   - «Введение в теорию типов», Александр Рулев
 </details>
 
+## Вильнюс
+
+### [Frontend Union Conf](http://frontend-union.co/)
+
+27 августа, €125–170
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «RegExp.prototype.unicode», Mathias Bynens
+  - «Building interactive 3D worlds in the browser with WebGL», Martin Splitt
+  - «Natural User Interfaces», Princiya Marina
+  - «UX from Scratch», Fabian Fabian
+  - «Building Apps using Redux with Angular 2», Gerard Sans
+  - «There is ~~an app~~ a bot for that», Ilya Pukhalski
+  - «Lessons learned running JS meetups», Oleg Podsechin
+  - «Elements», Martin Kleppe
+</details>
+
 ## Винница
 
 ### [VinnytsiaJS](http://vinnytsiajs.org/)
@@ -106,6 +127,12 @@
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
 
 17 сентября, $139
+
+## Курск
+
+### [Kursk Meetup](https://new.vk.com/kurskmeetup)
+
+30 июля
 
 ## Львов
 
