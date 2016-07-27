@@ -115,19 +115,6 @@
 
 ## Москва
 
-### [MoscowJS 32](https://events.yandex.ru/events/yagosti/28-july-2016/)
-
-28 июля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Собираем пакеты npm на TypeScript», Артур Бир (Dr. Head)
-  - «О том, как не надо тестировать», Иван Стрелков (Avito)
-  - «Ускорение CI фронтенда», Алексей Калмаков (Яндекс)
-  - «Интернет вещей и JavaScript», Павел Ахметчанов (CountBOX)
-</details>
-
 ### [HolyJS](http://holyjs.ru/)
 
 10 декабря
