@@ -75,6 +75,10 @@
   - «Smart Office - the practical application of IoT in JS development», Дмитрий Голыш и Юрий Ткаченко (EPAM)
 </details>
 
+### [Kursk Meetup](https://new.vk.com/kurskmeetup)
+
+30 июля, Курск
+
 ## Август
 
 ### [The Rolling Scopes #29](https://brest.rollingscopes.com/)
@@ -89,6 +93,23 @@
   - «React.js hangover», Владимир Дёмин
   - «Погружаемся в React native», Александр Коваленко
   - «Введение в теорию типов», Александр Рулев
+</details>
+
+### [Frontend Union Conf](http://frontend-union.co/)
+
+27 августа, Вильнюс, €125–170
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «RegExp.prototype.unicode», Mathias Bynens
+  - «Building interactive 3D worlds in the browser with WebGL», Martin Splitt
+  - «Natural User Interfaces», Princiya Marina
+  - «UX from Scratch», Fabian Fabian
+  - «Building Apps using Redux with Angular 2», Gerard Sans
+  - «There is ~~an app~~ a bot for that», Ilya Pukhalski
+  - «Lessons learned running JS meetups», Oleg Podsechin
+  - «Elements», Martin Kleppe
 </details>
 
 ### [LvivJS](http://www.lvivjs.org.ua/)
