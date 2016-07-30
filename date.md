@@ -8,6 +8,17 @@
 
 ## Август
 
+### [WebPurple meetup #11](https://new.vk.com/webpurple_meetup11)
+
+4 августа, Рязань
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Программирование — это новые 90-е, или то, чему я научился будучи джуниором 5 лет», Дима Полисадов
+  - «Vue.js. Reactive Components for Modern Web Interfaces», Саша Зайцев
+</details>
+
 ### [The Rolling Scopes #29](https://brest.rollingscopes.com/)
 
 16 августа, Брест
