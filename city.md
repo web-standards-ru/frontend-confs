@@ -1,32 +1,14 @@
 # По городам
 
-- [Алматы](#Алматы)
 - [Брест](#Брест)
 - **[Вильнюс](#Вильнюс)**
-- [Винница](#Винница)
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
-- [Курск](#Курск)
 - [Львов](#Львов)
 - **[Москва](#Москва)**
 - [Новосибирск](#Новосибирск)
 - [Тольятти](#Тольятти)
 - [Харьков](#Харьков)
-
-## Алматы
-
-### [FrontendFellows #7](https://frontendfellows.timepad.ru/event/349319/)
-
-30 июля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «На плаву», Эльдар Амантай (Яндекс)
-  - «Осторожно, закэшировано!», Сергей Жигалов (Яндекс)
-  - «Бэкенд, Фронтенд — всё смешалось. Обзорная экскурсия в будущее веб-разработки», Павел Черторогов
-  - «Обучение фронтенд разработке», Олег Мохов (Яндекс)
-</details>
 
 ## Брест
 
@@ -63,31 +45,6 @@
   - «Elements», Martin Kleppe
 </details>
 
-## Винница
-
-### [VinnytsiaJS](http://vinnytsiajs.org/)
-
-30 июля, $40
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «JavaScript: The awesome parts», Martin Splitt (Archilogic)
-  - «Asyncable ESMAScript», Денис Влассенко (EPAM)
-  - «React, Redux and immutable state», Евгений Шемет (Componentix Eurotaxi)
-  - «Types vs Types», Иван Лаврин (Lohika Systems)
-  - «Frontend Performance Metrics. Measure First. Measure Often», Артём Захарченко (EPAM)
-  - «Should you play coding games if you are professional coder?», Александр Лябах (CheckiO)
-  - «Realtime HTML5 Canvas Drawing», Евгений Пинкаль (EPAM)
-  - «Better API wrappers with Proxies», Алексей Швайка (Hell Yeah LLC)
-  - «React Native: Are we there yet?», Роман Лютиков (Redradix LLC)
-  - «Offline-First Almighty or one big reason why our web-applications suck», Денис Яремов (Lohika)
-  - «WTF - WebGL The Fundamentals», Martin Splitt (Archilogic)
-  - «Node.js – running JavaScript on-earth and in-cloud», Andriy Deren (Dreams IT)
-  - «Hidden capabilities of well-known things», Алексей Волков (Rumble Inc)
-  - «Smart Office - the practical application of IoT in JS development», Дмитрий Голыш и Юрий Ткаченко (EPAM)
-</details>
-
 ## Екатеринбург
 
 ### [FrontTalks](http://lanyrd.com/2016/fronttalks2016/)
@@ -110,12 +67,6 @@
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
 
 17 сентября, $139
-
-## Курск
-
-### [Kursk Meetup](https://new.vk.com/kurskmeetup)
-
-30 июля
 
 ## Львов
 
