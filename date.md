@@ -24,6 +24,10 @@
   - «Введение в теорию типов», Александр Рулев
 </details>
 
+### [BEMup Киев](http://frontend-science.com/bemup/)
+
+18 августа, Киев, 150 грн. (≈$6)
+
 ### [Frontend Union Conf](http://frontend-union.co/)
 
 27 августа, Вильнюс, €125–170
