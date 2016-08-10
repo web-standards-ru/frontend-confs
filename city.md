@@ -73,6 +73,10 @@
 
 ## Киев
 
+### [BEMup Киев](http://frontend-science.com/bemup/)
+
+18 августа, 150 грн. (≈$6)
+
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
 
 17 сентября, $139
