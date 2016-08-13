@@ -34,7 +34,8 @@
 
 ### [Frontend Union Conf](http://frontend-union.co/)
 
-27 августа, €125–170
+27 августа, €145–170  
+[12–14 августа можно купить билеты по €95!](https://ti.to/frontend-union/2016/with/2kxypxjh3ks)
 
 <details>
   <summary>**Доклады**</summary>
