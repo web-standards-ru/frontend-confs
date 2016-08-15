@@ -35,7 +35,6 @@
 ### [Frontend Union Conf](http://frontend-union.co/)
 
 27 августа, €145–170  
-[12–14 августа можно купить билеты по €95!](https://ti.to/frontend-union/2016/with/2kxypxjh3ks)
 
 <details>
   <summary>**Доклады**</summary>
@@ -95,7 +94,7 @@
 
 ## Минск
 
-### [Web Standards Days](https://wsd.events/)
+### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября
 
@@ -133,7 +132,7 @@
 
 ## Санкт-Петербург
 
-### [Web Standards Days](https://wsd.events/)
+### [Web Standards Days](https://wsd.events/2016/10/01/)
 
 1 октября, Санкт-Петербург
 

@@ -10,20 +10,6 @@
 
 ## Август
 
-### [The Rolling Scopes #29](https://brest.rollingscopes.com/)
-
-16 августа, Брест
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Immutable.js», Виталий Фокин
-  - «Популярные CSS фреймворки 2016. Нужно ли гнаться за модой?», Андрей Кучук
-  - «React.js hangover», Владимир Дёмин
-  - «Погружаемся в React native», Александр Коваленко
-  - «Введение в теорию типов», Александр Рулев
-</details>
-
 ### [BEMup Киев](http://frontend-science.com/bemup/)
 
 18 августа, Киев, 150 грн. (≈$6)
@@ -31,7 +17,6 @@
 ### [Frontend Union Conf](http://frontend-union.co/)
 
 27 августа, Вильнюс, €145–170  
-[12–14 августа можно купить билеты по €95!](https://ti.to/frontend-union/2016/with/2kxypxjh3ks)
 
 <details>
   <summary>**Доклады**</summary>
@@ -131,11 +116,11 @@
 
 ## Октябрь
 
-### [Web Standards Days](https://wsd.events/)
+### [Web Standards Days](https://wsd.events/2016/10/01/)
 
 1 октября, Санкт-Петербург
 
-### [Web Standards Days](https://wsd.events/)
+### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября, Минск
 
