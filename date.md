@@ -14,6 +14,17 @@
 
 18 августа, Киев, 150 грн. (≈$6)
 
+### [FrontendFellows #8](https://frontendfellows.timepad.ru/event/357305/)
+
+26 августа, Ижевск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Vue.js», Наталья Коновалова (Центр Высоких Технологий)
+  - «Sass colors refactoring», Иван Мартьянов (EPAM Systems)
+</details>
+
 ### [Frontend Union Conf](http://frontend-union.co/)
 
 27 августа, Вильнюс, €145–170  
@@ -45,6 +56,7 @@
   - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
   - «Привет, CSS Grid Layout», Андрей Макаров
   - «Автоматическое тестирование front-end приложения», Михаил Ангелов
+  - «Что осталось от MeteorJS», Павел Шалаев
   - «Работа с анимациями в React Native», Антон Шрамко
 </details>
 
