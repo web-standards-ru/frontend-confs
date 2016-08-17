@@ -44,7 +44,19 @@
 
 ### [LvivJS](http://www.lvivjs.org.ua/)
 
-27 августа, Львов, ≈1200 руб.
+27 августа, Львов, ≈1400 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Exploring ways to use ES2015 today», Roman Kyrylych
+  - «Beauty of everyday tools», Alexander Lapshyn
+  - «React Native: Are we there yet?», Roman Liutikov
+  - «How to deploy to production 10+ times a day»« Andrii Shumada
+  - «Creation of native mobile apps with NativeScript and Angular2», Eugene Alayev
+  - «Flux is dead. Long live Flux!», Alexey Raspopov
+  - «Reflex and offline-first», Denis Yaremov
+</details>
 
 ### [JS NN #4](https://www.it52.info/events/2016-08-27-js-nn-4)
 
@@ -61,6 +73,16 @@
 </details>
 
 ## Сентябрь
+
+### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/03-sep-2016/)
+
+3 сентября, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как безопасно выполнять произвольный код на JavaScript», Илья Довбан (Яндекс)
+</details>
 
 ### [FrontDays Meetup#4](http://frontdays.ru/)
 
@@ -153,6 +175,14 @@
 ### [HolyJS](http://holyjs.ru/)
 
 11 декабря, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
+  - «Offline is the new Black», Max Stoiber (Thinkmill)
+  - «Rich text editing with Draft.js», Nikolaus Graf
+</details>
 
 ## Апрель
 
