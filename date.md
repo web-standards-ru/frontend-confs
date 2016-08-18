@@ -10,10 +10,6 @@
 
 ## Август
 
-### [BEMup Киев](http://frontend-science.com/bemup/)
-
-18 августа, Киев, 150 грн. (≈$6)
-
 ### [FrontendFellows #8](https://frontendfellows.timepad.ru/event/357305/)
 
 26 августа, Ижевск
