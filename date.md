@@ -10,6 +10,19 @@
 
 ## Август
 
+### [MoscowJS 33](https://moscowjs.timepad.ru/event/363568/)
+
+25 августа, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «I promise — images will be loaded!», Антон Корзунов (Яндекс)
+  - «Viewport», Вопиловский Константин (KamaGames Studio)
+  - «Регрессионное тестирование компонентов верстки», Кондратенко Павел (Rambler&Co)
+  - «Создание WYSIWYG-редакторов для веба», Егор Яковишен (Setka)
+</details>
+
 ### [FrontendFellows #8](https://frontendfellows.timepad.ru/event/357305/)
 
 26 августа, Ижевск
@@ -19,6 +32,7 @@
 
   - «Vue.js», Наталья Коновалова (Центр Высоких Технологий)
   - «Sass colors refactoring», Иван Мартьянов (EPAM Systems)
+  - «Верстальщики не нужны. На самом деле нет», Роман Коробейников (Piano.io)
 </details>
 
 ### [Frontend Union Conf](http://frontend-union.co/)
@@ -52,6 +66,7 @@
   - «Creation of native mobile apps with NativeScript and Angular2», Eugene Alayev
   - «Flux is dead. Long live Flux!», Alexey Raspopov
   - «Reflex and offline-first», Denis Yaremov
+  - «Modern functional concepts and JavaScript», Maks Klymyshyn
 </details>
 
 ### [JS NN #4](https://www.it52.info/events/2016-08-27-js-nn-4)
@@ -121,6 +136,7 @@
   - «React, Relay и GraphQL — вполне себе нормальный компонентный подход», Павел Черторогов
   - «Я и ИоТ», Вадим Макеев (Opera)
   - «Веб-приложения: дробим монолит», Виктор Грищенко
+  - «API Панорам», Кирилл Дмитренко (Яндекс)
 </details>
 
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
@@ -150,6 +166,10 @@
 
 1 октября, Санкт-Петербург
 
+### [TК° Conf](http://tkconf.ru/)
+
+8 октября, Ростов-на-Дону
+
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября, Минск
@@ -176,8 +196,10 @@
   <summary>**Доклады**</summary>
 
   - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
+  - «ECMAScript: latest and upcoming features», Axel Rauschmayer
   - «Offline is the new Black», Max Stoiber (Thinkmill)
   - «Rich text editing with Draft.js», Nikolaus Graf
+  - «Веб-приложения: дробим монолит», Грищенко Виктор
 </details>
 
 ## Апрель
