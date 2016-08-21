@@ -9,6 +9,7 @@
 - **[Москва](#Москва)**
 - [Нижний Новгород](#Нижний-Новгород)
 - [Новосибирск](#Новосибирск)
+- [Ростов-на-Дону](#Ростов-на-Дону)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
 - [Томск](#Томск)
@@ -53,6 +54,7 @@
   - «React, Relay и GraphQL — вполне себе нормальный компонентный подход», Павел Черторогов
   - «Я и ИоТ», Вадим Макеев (Opera)
   - «Веб-приложения: дробим монолит», Виктор Грищенко
+  - «API Панорам», Кирилл Дмитренко (Яндекс)
 </details>
 
 ## Ижевск
@@ -66,6 +68,7 @@
 
   - «Vue.js», Наталья Коновалова (Центр Высоких Технологий)
   - «Sass colors refactoring», Иван Мартьянов (EPAM Systems)
+  - «Верстальщики не нужны. На самом деле нет», Роман Коробейников (Piano.io)
 </details>
 
 ## Киев
@@ -95,6 +98,7 @@
   - «Creation of native mobile apps with NativeScript and Angular2», Eugene Alayev
   - «Flux is dead. Long live Flux!», Alexey Raspopov
   - «Reflex and offline-first», Denis Yaremov
+  - «Modern functional concepts and JavaScript», Maks Klymyshyn
 </details>
 
 ## Минск
@@ -115,6 +119,19 @@
 
 ## Москва
 
+### [MoscowJS 33](https://moscowjs.timepad.ru/event/363568/)
+
+25 августа
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «I promise — images will be loaded!», Антон Корзунов (Яндекс)
+  - «Viewport», Вопиловский Константин (KamaGames Studio)
+  - «Регрессионное тестирование компонентов верстки», Кондратенко Павел (Rambler&Co)
+  - «Создание WYSIWYG-редакторов для веба», Егор Яковишен (Setka)
+</details>
+
 ### [HolyJS](http://holyjs.ru/)
 
 11 декабря
@@ -123,8 +140,10 @@
   <summary>**Доклады**</summary>
 
   - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
+  - «ECMAScript: latest and upcoming features», Axel Rauschmayer
   - «Offline is the new Black», Max Stoiber (Thinkmill)
   - «Rich text editing with Draft.js», Nikolaus Graf
+  - «Веб-приложения: дробим монолит», Грищенко Виктор
 </details>
 
 ### [FrontendConf](http://frontendconf.ru/)
@@ -153,6 +172,12 @@
 ### CodeFest
 
 1 и 2 апреля
+
+## Ростов-на-Дону
+
+### [TК° Conf](http://tkconf.ru/)
+
+8 октября
 
 ## Санкт-Петербург
 
