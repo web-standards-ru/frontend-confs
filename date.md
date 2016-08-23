@@ -137,6 +137,8 @@
   - «Я и ИоТ», Вадим Макеев (Opera)
   - «Веб-приложения: дробим монолит», Виктор Грищенко
   - «API Панорам», Кирилл Дмитренко (Яндекс)
+  - «Перевод документации opensource-проекта силами многих переводчиков», Владимир Гриненко (Яндекс)
+  - «Фронтенд и аналитика», Иван Карев (Яндекс)
 </details>
 
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
@@ -195,6 +197,7 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «3L3M3NT5», Martin Kleppe
   - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
   - «ECMAScript: latest and upcoming features», Axel Rauschmayer
   - «Offline is the new Black», Max Stoiber (Thinkmill)
