@@ -10,19 +10,6 @@
 
 ## Август
 
-### [MoscowJS 33](https://moscowjs.timepad.ru/event/363568/)
-
-25 августа, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «I promise — images will be loaded!», Антон Корзунов (Яндекс)
-  - «Viewport», Вопиловский Константин (KamaGames Studio)
-  - «Регрессионное тестирование компонентов верстки», Кондратенко Павел (Rambler&Co)
-  - «Создание WYSIWYG-редакторов для веба», Егор Яковишен (Setka)
-</details>
-
 ### [FrontendFellows #8](https://frontendfellows.timepad.ru/event/357305/)
 
 26 августа, Ижевск
