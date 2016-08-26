@@ -57,6 +57,7 @@
   - «Как перестать писать код с ошибками», Владимир Дашукевич (XBSoftware)
   - «Классические приёмы программирования во фронтенде», Игорь Алексеенко (HTML Academy)
   - «Я и ИоТ», Вадим Макеев (Opera)
+  - Закрывающий доклад, Григорий Бакунов (Яндекс)
 </details>
 
 ## Киев
@@ -67,8 +68,22 @@
 
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
-Ноябрь  
-*Точная дата пока неизвестна, но регистрация уже открыта*
+4 декабря, Киев
+
+## Краков
+
+### [The Rolling Scopes #30](https://krakow.rollingscopes.com/)
+
+29 сентября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Advanced SASS», Vadzim Yakushau
+  - «Modular JavaScript: put things on the right place», Andrei Yemelyanchik
+  - «Ethereum virtual machines in JS: cryptocurrency revolution», Oleksandr Pastukhov
+  - «Designers at the lab», Dafna Sharabi
+</details>
 
 ## Львов
 
@@ -170,6 +185,7 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «Vue.js, библиотека для создания интерактивных Web интерфейсов», Владислав Смирнов (Radyushin & co)
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
 </details>
 
