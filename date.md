@@ -10,18 +10,6 @@
 
 ## Август
 
-### [FrontendFellows #8](https://frontendfellows.timepad.ru/event/357305/)
-
-26 августа, Ижевск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Vue.js», Наталья Коновалова (Центр Высоких Технологий)
-  - «Sass colors refactoring», Иван Мартьянов (EPAM Systems)
-  - «Верстальщики не нужны. На самом деле нет», Роман Коробейников (Piano.io)
-</details>
-
 ### [Frontend Union Conf](http://frontend-union.co/)
 
 27 августа, Вильнюс, €145–170  
