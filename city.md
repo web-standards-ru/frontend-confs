@@ -1,37 +1,15 @@
 # По городам
 
-- **[Вильнюс](#Вильнюс)**
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
-- [Львов](#Львов)
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
-- [Нижний Новгород](#Нижний-Новгород)
 - [Новосибирск](#Новосибирск)
 - [Ростов-на-Дону](#Ростов-на-Дону)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
 - [Томск](#Томск)
 - [Харьков](#Харьков)
-
-## Вильнюс
-
-### [Frontend Union Conf](http://frontend-union.co/)
-
-27 августа, €145–170  
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «RegExp.prototype.unicode», Mathias Bynens
-  - «Building interactive 3D worlds in the browser with WebGL», Martin Splitt
-  - «Natural User Interfaces», Princiya Marina
-  - «UX from Scratch», Fabian Fabian
-  - «Building Apps using Redux with Angular 2», Gerard Sans
-  - «There is ~~an app~~ a bot for that», Ilya Pukhalski
-  - «Lessons learned running JS meetups», Oleg Podsechin
-  - «Elements», Martin Kleppe
-</details>
 
 ## Екатеринбург
 
@@ -85,25 +63,6 @@
   - «Designers at the lab», Dafna Sharabi
 </details>
 
-## Львов
-
-### [LvivJS](http://www.lvivjs.org.ua/)
-
-27 августа, ≈1400 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Exploring ways to use ES2015 today», Roman Kyrylych
-  - «Beauty of everyday tools», Alexander Lapshyn
-  - «React Native: Are we there yet?», Roman Liutikov
-  - «How to deploy to production 10+ times a day»« Andrii Shumada
-  - «Creation of native mobile apps with NativeScript and Angular2», Eugene Alayev
-  - «Flux is dead. Long live Flux!», Alexey Raspopov
-  - «Reflex and offline-first», Denis Yaremov
-  - «Modern functional concepts and JavaScript», Maks Klymyshyn
-</details>
-
 ## Минск
 
 ### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/03-sep-2016/)
@@ -141,22 +100,6 @@
 
 5 и 6 июня  
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
-
-## Нижний Новгород
-
-### [JS NN #4](https://www.it52.info/events/2016-08-27-js-nn-4)
-
-27 августа
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Stylelint — как и зачем линтить CSS», Андрей Ситник (Злые марсиане)
-  - «Привет, CSS Grid Layout», Андрей Макаров
-  - «Автоматическое тестирование front-end приложения», Михаил Ангелов
-  - «Что осталось от MeteorJS», Павел Шалаев
-  - «Работа с анимациями в React Native», Антон Шрамко
-</details>
 
 ## Новосибирск
 
