@@ -75,6 +75,17 @@
   - «Как безопасно выполнять произвольный код на JavaScript», Илья Довбан (Яндекс)
 </details>
 
+### [The Rolling Scopes #29](https://minsk.rollingscopes.com/)
+
+20 сентября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «New Opportunities for Augmented Reality», Iryna Dastanka, Dzmitry Basenka
+  - «Serverless Architecture», Сергей Мельник
+</details>
+
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября
