@@ -89,6 +89,17 @@
   - «Вы не знаете CSS», Антон Немцев
 </details>
 
+### [The Rolling Scopes #29](https://minsk.rollingscopes.com/)
+
+20 сентября, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «New Opportunities for Augmented Reality», Iryna Dastanka, Dzmitry Basenka
+  - «Serverless Architecture», Сергей Мельник
+</details>
+
 ### [The Rolling Scopes #30](https://krakow.rollingscopes.com/)
 
 29 сентября, Краков
