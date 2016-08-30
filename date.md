@@ -98,9 +98,21 @@
 
   - «New Opportunities for Augmented Reality», Iryna Dastanka, Dzmitry Basenka
   - «Serverless Architecture», Сергей Мельник
+  - «QCon New York technology trends highlights», Vitali Shcharbin
 </details>
 
-### [The Rolling Scopes #30](https://krakow.rollingscopes.com/)
+### [The Rolling Scopes #30](https://gdansk.rollingscopes.com/)
+
+28 сентября, Гданьск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «TypeScript and what's the hack Javascript», Vadzim Yakushau
+  - «CSS QuickDraw», Alexander Gerasimov
+</details>
+
+### [The Rolling Scopes #31](https://krakow.rollingscopes.com/)
 
 29 сентября, Краков
 

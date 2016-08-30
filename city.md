@@ -1,5 +1,6 @@
 # По городам
 
+- [Гданьск](#Гданьск)
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
 - **[Минск](#Минск)**
@@ -10,6 +11,19 @@
 - [Тольятти](#Тольятти)
 - [Томск](#Томск)
 - [Харьков](#Харьков)
+
+## Гданьск
+
+### [The Rolling Scopes #30](https://gdansk.rollingscopes.com/)
+
+28 сентября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «TypeScript and what's the hack Javascript», Vadzim Yakushau
+  - «CSS QuickDraw», Alexander Gerasimov
+</details>
 
 ## Екатеринбург
 
@@ -50,7 +64,7 @@
 
 ## Краков
 
-### [The Rolling Scopes #30](https://krakow.rollingscopes.com/)
+### [The Rolling Scopes #31](https://krakow.rollingscopes.com/)
 
 29 сентября
 
@@ -84,6 +98,7 @@
 
   - «New Opportunities for Augmented Reality», Iryna Dastanka, Dzmitry Basenka
   - «Serverless Architecture», Сергей Мельник
+  - «QCon New York technology trends highlights», Vitali Shcharbin
 </details>
 
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
