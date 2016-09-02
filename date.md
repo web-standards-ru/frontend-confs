@@ -9,40 +9,6 @@
 
 ## Сентябрь
 
-### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/03-sep-2016/)
-
-3 сентября, Минск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Как безопасно выполнять произвольный код на JavaScript», Илья Довбан (Яндекс)
-</details>
-
-### [FrontDays Meetup#4](http://frontdays.ru/)
-
-3 сентября, Тольятти
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Vue.js, библиотека для создания интерактивных Web интерфейсов», Владислав Смирнов (Radyushin & co)
-  - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
-</details>
-
-### [TomskJS meetup 1](https://tomskjs.timepad.ru/event/359798/)
-
-3 сентября, Томск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «“Реактивное” тестирование или react-компоненты, на которые можно положиться», Никита Размахнин (FullStack Development)
-  - «Универсальный JavaScript», Сергей Черепанов (FullStack Development)
-  - «Не JS во фронтенде», Максим Самойлов (CSSSR)
-  - «Веб-компоненты в веб-разработке на примере Polymer», Артур Дробинский (Rubius)
-</details>
-
 ### [FrontTalks](http://fronttalks.ru/)
 
 17 и 18 сентября, Екатеринбург, 3000–4000 руб.
