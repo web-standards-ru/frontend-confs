@@ -9,6 +9,10 @@
 
 ## Сентябрь
 
+### [WebPurple Meetup #12](https://webpurple.timepad.ru/event/369278/)
+
+15 сентября, Рязань
+
 ### [FrontTalks](http://fronttalks.ru/)
 
 17 и 18 сентября, Екатеринбург, 3000–4000 руб.
@@ -100,6 +104,27 @@
 ### [TК° Conf](http://tkconf.ru/)
 
 8 октября, Ростов-на-Дону
+
+### [FrontDays Meetup#4](http://frontdays.ru/)
+
+8 октября, Тольятти
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Vue.js, библиотека для создания интерактивных Web интерфейсов», Владислав Смирнов (Radyushin & co)
+  - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
+</details>
+
+### [Съесть собаку](http://eatdog.com.ua/)
+
+20 октября, Харьков
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Выжить с помощью ООП», Максим Гопей
+</details>
 
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
 
