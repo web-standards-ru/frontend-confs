@@ -22,6 +22,9 @@
   <summary>**Доклады**</summary>
 
   - «TypeScript and what's the hack Javascript», Vadzim Yakushau
+  - «Yes, you can use Web components in production», David Ferreira
+  - «Serverless architecture: Functions as a Service», Dzmitry Varabei
+  - «Designers at the lab», Dafna Sharabi
   - «CSS QuickDraw», Alexander Gerasimov
 </details>
 
