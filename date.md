@@ -100,9 +100,22 @@
 
 ## Октябрь
 
+### [Kursk Meetup](https://vk.com/kurskmeetup)
+
+1 октября, Курск
+
 ### [Web Standards Days](https://wsd.events/2016/10/01/)
 
 1 октября, Санкт-Петербург
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «&lt;head&gt; — всему голова», Роман Ганин (FBS)
+  - «CSS-методологии от О до Б», Алексей Охрименко (IPONWEB)
+  - «Я и ИоТ», Вадим Макеев (Opera)
+  - «Pokemon GO на веб-технологиях», Егор Коновалов (Центр Высоких Технологий)
+</details>
 
 ### [TК° Conf](http://tkconf.ru/)
 
