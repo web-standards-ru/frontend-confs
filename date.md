@@ -15,7 +15,7 @@
 
 ### [FrontTalks](http://fronttalks.ru/)
 
-17 и 18 сентября, Екатеринбург, 3000–4000 руб.
+17 и 18 сентября, Екатеринбург, 4000 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -35,7 +35,7 @@
   - «Как перестать писать код с ошибками», Владимир Дашукевич (XBSoftware)
   - «Классические приёмы программирования во фронтенде», Игорь Алексеенко (HTML Academy)
   - «Я и ИоТ», Вадим Макеев (Opera)
-  - Закрывающий доклад, Григорий Бакунов (Яндекс)
+  - «Можно ли программировать без интернета», Григорий Бакунов (Яндекс)
 </details>
 
 ### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
@@ -69,6 +69,18 @@
   - «New Opportunities for Augmented Reality», Iryna Dastanka, Dzmitry Basenka
   - «Serverless Architecture», Сергей Мельник
   - «QCon New York technology trends highlights», Vitali Shcharbin
+</details>
+
+### [PiterJS #9](https://meetabit.com/events/199)
+
+22 сентября, Санкт-Петербург
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Принципы работы с билдами. Как правильно пользоваться DI-напильником», Maxim Grebenshikov
+  - «Редактор для дизайнера на electron.js», Алексей Борисов
+  - «Внешние процессы в Node.js. Особенности работы, костыли, велосипеды», Алексей Соболев 
 </details>
 
 ### [The Rolling Scopes #30](https://gdansk.rollingscopes.com/)
