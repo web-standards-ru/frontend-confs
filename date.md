@@ -13,6 +13,12 @@
 
 15 сентября, Рязань
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Современный CSS», Влад Грачёв
+</details>
+
 ### [FrontTalks](http://fronttalks.ru/)
 
 17 и 18 сентября, Екатеринбург, 4000 руб.
@@ -183,6 +189,7 @@
   - «ECMAScript: latest and upcoming features», Axel Rauschmayer
   - «Offline is the new Black», Max Stoiber (Thinkmill)
   - «Rich text editing with Draft.js», Nikolaus Graf
+  - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
   - «Веб-приложения: дробим монолит», Грищенко Виктор
 </details>
 
