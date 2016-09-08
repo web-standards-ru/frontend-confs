@@ -119,6 +119,7 @@
   - «ECMAScript: latest and upcoming features», Axel Rauschmayer
   - «Offline is the new Black», Max Stoiber (Thinkmill)
   - «Rich text editing with Draft.js», Nikolaus Graf
+  - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
   - «Веб-приложения: дробим монолит», Грищенко Виктор
 </details>
 
@@ -138,6 +139,12 @@
 ### [WebPurple Meetup #12](https://webpurple.timepad.ru/event/369278/)
 
 15 сентября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Современный CSS», Влад Грачёв
+</details>
 
 ## Ростов-на-Дону
 
