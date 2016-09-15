@@ -9,16 +9,6 @@
 
 ## Сентябрь
 
-### [WebPurple Meetup #12](https://webpurple.timepad.ru/event/369278/)
-
-15 сентября, Рязань
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Современный CSS», Влад Грачёв
-</details>
-
 ### [FrontTalks](http://fronttalks.ru/)
 
 17 и 18 сентября, Екатеринбург, 4000 руб.
