@@ -104,6 +104,10 @@
   - «Pokemon GO на веб-технологиях», Егор Коновалов (Центр Высоких Технологий)
 </details>
 
+### [AST Frontend meetup #2](https://astfrontend.timepad.ru/event/376009/)
+
+8 октября, Астана
+
 ### [TК° Conf](http://tkconf.ru/)
 
 8 октября, Ростов-на-Дону
