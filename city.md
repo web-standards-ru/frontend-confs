@@ -57,10 +57,6 @@
 
 ## Киев
 
-### [IT Weekend Ukraine 2016](http://ukraine.itweekend.ua/ua/)
-
-17 сентября, $139
-
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
 4 декабря, Киев
@@ -180,23 +176,6 @@
 </details>
 
 ## Харьков
-
-### [KharkivCSS](http://kharkivcss.org/)
-
-17 сентября, от ≈700 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Flexible Box Layout», Владимир Макуха
-  - «Grid layout», Денис Переверзев
-  - «Прячем хаки и ускоряем рендеринг с PostCSS», Алексей Швайка
-  - «CSS-методологии и реализация тем в больших веб-приложениях», Игорь Зенич
-  - «Если ты лентяй и верстаешь уже 12 лет», Юрий Артюх
-  - «CSS 5DX», Александр Павлыщ
-  - «UX решения на практике», Денис Яровой
-  - «Вы не знаете CSS», Антон Немцев
-</details>
 
 ### [Съесть собаку](http://eatdog.com.ua/)
 
