@@ -10,6 +10,7 @@
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
 - [Харьков](#Харьков)
+- [Челябинск](#Челябинск)
 
 ## Астана
 
@@ -48,9 +49,9 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Advanced SASS», Vadzim Yakushau
-  - «Modular JavaScript: put things on the right place», Andrei Yemelyanchik
   - «Ethereum virtual machines in JS: cryptocurrency revolution», Oleksandr Pastukhov
+  - «Modular JavaScript: put things on the right place», Andrei Yemelyanchik
+  - «Serverless architecture: Functions as a Service», Dzmitry Varabei, Siarhei Melnik
   - «Designers at the lab», Dafna Sharabi
 </details>
 
@@ -80,6 +81,7 @@
   - «Rich text editing with Draft.js», Nikolaus Graf
   - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
   - «Веб-приложения: дробим монолит», Грищенко Виктор
+  - «WebVR is the next frontier», Martin Splitt
 </details>
 
 ### [FrontendConf](http://frontendconf.ru/)
@@ -122,8 +124,14 @@
 
   - «&lt;head&gt; — всему голова», Роман Ганин (FBS)
   - «CSS-методологии от О до Б», Алексей Охрименко (IPONWEB)
+  - «PWA. Что это такое?», Сергей Густун
+  - «Вёрстка писем. Развенчиваем мифы», Артур Кох
   - «Я и ИоТ», Вадим Макеев (Opera)
   - «Pokemon GO на веб-технологиях», Егор Коновалов (Центр Высоких Технологий)
+  - «Обманчивая простота HTTP/2», Алексей Уколов
+  - «&lt;iframe&gt; или &lt;script&gt;?», Всеволод Шмыров
+  - «Фронтенд — набор для выживания», Милослав Волосков
+  - «Как зарабатывать миллионы на онлайн-курсах», Александр Першин
 </details>
 
 ## Тольятти
@@ -149,9 +157,26 @@
   <summary>**Доклады**</summary>
 
   - «Выжить с помощью ООП», Максим Гопей
+  - «BDD & Codeception: разделяем и властвуем», Михаил Боднарчук
 </details>
 
 ### [KharkivJS #7](http://kharkivjs.org/)
 
 Ноябрь  
 *Точная дата пока неизвестна*
+
+## Челябинск
+
+### [FRONTday](http://frontday.ru/)
+
+28 сентября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Observable на фронтенде. Как и и почему», Никита Дюмин
+  - «Telegram bot - новый вид интерфейса», Петр Лаптев
+  - «Progressive Web Applications», Анатолий Морозов
+  - «Как я пишу в 2016 на ангуляре и не краснею», Иван Громов
+  - «5 причин, по которым дизайнеры ненавидят фронтенд-разработчиков», Олеся Козлова
+</details>
