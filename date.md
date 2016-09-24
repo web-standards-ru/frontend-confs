@@ -9,6 +9,10 @@
 
 ## Сентябрь
 
+### [SPB Frontend Light Talks](https://spb-frontend-events.timepad.ru/event/378334/)
+
+26 сентября, Санкт-Петербург
+
 ### [The Rolling Scopes #30](https://gdansk.rollingscopes.com/)
 
 28 сентября, Гданьск
@@ -49,6 +53,10 @@
   - «Serverless architecture: Functions as a Service», Dzmitry Varabei, Siarhei Melnik
   - «Designers at the lab», Dafna Sharabi
 </details>
+
+### [BEMup](https://events.yandex.ru/events/bemup/30-september-2016/)
+
+30 сентября, Москва
 
 ## Октябрь
 
@@ -94,6 +102,20 @@
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
 </details>
 
+### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/08-oct-2016/)
+
+8 октября, Иннополис
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Особенности работы распределенной команды», Михаил Трошев
+  - «Любовь и ненависть к pull-requests», Сергей Сергеев
+  - «Learn You an AST for Great Good», Станислав Сысоев
+  - «Измеряем эффективность инфраструктуры разработки интерфейсов», Алексей Калмаков
+  - «MQ: merge-queue», Евгений Гаврюшин
+</details>
+
 ### [Съесть собаку](http://eatdog.com.ua/)
 
 20 октября, Харьков
@@ -105,6 +127,16 @@
   - «BDD & Codeception: разделяем и властвуем», Михаил Боднарчук
 </details>
 
+### [IT Weekend Dnipro](https://itweekend.ua/ua/announcements/itw-dn-16o/)
+
+22 октября, Днепропетровск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко
+</details>
+
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября, Минск
@@ -113,8 +145,13 @@
 
 ### [KharkivJS #7](http://kharkivjs.org/)
 
-Ноябрь, Харьков  
-*Точная дата пока неизвестна*
+5-6 ноября, Харьков
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React API design», Juho Vepsäläinen
+</details>
 
 ## Декабрь
 
@@ -124,7 +161,7 @@
 
 ### [HolyJS](http://holyjs.ru/)
 
-11 декабря, Москва
+11 декабря, Москва, от 4000 руб.
 
 <details>
   <summary>**Доклады**</summary>
