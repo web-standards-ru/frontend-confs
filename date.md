@@ -9,18 +9,6 @@
 
 ## Сентябрь
 
-### [PiterJS #9](https://meetabit.com/events/199)
-
-22 сентября, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Принципы работы с билдами. Как правильно пользоваться DI-напильником», Maxim Grebenshikov
-  - «Редактор для дизайнера на electron.js», Алексей Борисов
-  - «Внешние процессы в Node.js. Особенности работы, костыли, велосипеды», Алексей Соболев 
-</details>
-
 ### [The Rolling Scopes #30](https://gdansk.rollingscopes.com/)
 
 28 сентября, Гданьск
