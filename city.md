@@ -2,6 +2,8 @@
 
 - [Астана](#Астана)
 - [Гданьск](#Гданьск)
+- [Днепропетровск](#Днепропетровск)
+- [Иннополис](#Иннополис)
 - **[Киев](#Киев)**
 - [Курск](#Курск)
 - **[Москва](#Москва)**
@@ -32,6 +34,34 @@
   - «Serverless architecture: Functions as a Service», Dzmitry Varabei
   - «Designers at the lab», Dafna Sharabi
   - «CSS QuickDraw», Alexander Gerasimov
+</details>
+
+## Днепропетровск
+
+### [IT Weekend Dnipro](https://itweekend.ua/ua/announcements/itw-dn-16o/)
+
+22 октября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко
+</details>
+
+## Иннополис
+
+### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/08-oct-2016/)
+
+8 октября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Особенности работы распределенной команды», Михаил Трошев
+  - «Любовь и ненависть к pull-requests», Сергей Сергеев
+  - «Learn You an AST for Great Good», Станислав Сысоев
+  - «Измеряем эффективность инфраструктуры разработки интерфейсов», Алексей Калмаков
+  - «MQ: merge-queue», Евгений Гаврюшин
 </details>
 
 ## Киев
@@ -67,9 +97,13 @@
 
 ## Москва
 
+### [BEMup](https://events.yandex.ru/events/bemup/30-september-2016/)
+
+30 сентября
+
 ### [HolyJS](http://holyjs.ru/)
 
-11 декабря
+11 декабря, от 4000 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -102,6 +136,10 @@
 8 октября
 
 ## Санкт-Петербург
+
+### [SPB Frontend Light Talks](https://spb-frontend-events.timepad.ru/event/378334/)
+
+26 сентября, Санкт-Петербург
 
 ### [Web Standards Days](https://wsd.events/2016/10/01/)
 
@@ -150,8 +188,13 @@
 
 ### [KharkivJS #7](http://kharkivjs.org/)
 
-Ноябрь  
-*Точная дата пока неизвестна*
+5-6 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «React API design», Juho Vepsäläinen
+</details>
 
 ## Челябинск
 
