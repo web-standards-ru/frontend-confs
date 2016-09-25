@@ -9,6 +9,10 @@
 
 ## Сентябрь
 
+### [VLDC lite](http://дальинфоком.рф/)
+
+26 сентября, Владивосток
+
 ### [SPB Frontend Light Talks](https://spb-frontend-events.timepad.ru/event/378334/)
 
 26 сентября, Санкт-Петербург
