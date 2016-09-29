@@ -43,6 +43,14 @@
 
 8 октября, Астана
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Компонентный подход в деле», Бибасаров Думан (InesSoft)
+  - «Автоматизация фронтенда», Сергазина Диана (InesSoft)
+  - «!MVC», Танирберген Булат (Black Bolt Studio)
+</details>
+
 ### [TК° Conf](http://tkconf.ru/)
 
 8 октября, Ростов-на-Дону
@@ -72,6 +80,14 @@
   - «MQ: merge-queue», Евгений Гаврюшин
 </details>
 
+### [pitercss №6](https://pitercss.timepad.ru/event/381033/)
+
+11 октября, Санкт-Петербург
+
+### [JS Meetup by DEV at Work](https://www.facebook.com/events/717595925045245/)
+
+15 октября, Минск
+
 ### [Съесть собаку](http://eatdog.com.ua/)
 
 20 октября, Харьков
@@ -91,6 +107,7 @@
   <summary>**Доклады**</summary>
 
   - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко
+  - «Updating mobile web pages! But why?», Salim KAYABAŞI
 </details>
 
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
@@ -107,6 +124,11 @@
   <summary>**Доклады**</summary>
 
   - «React API design», Juho Vepsäläinen
+  - «Compilers/V8», Ingvar Stepanyan
+  - «It is 2016 but you can't subclass shit», Alex Shvaika
+  - «Static typing in browser», Slinko Viacheslav
+  - «FlowType», Klymov Illia
+  - «Iframe rampage. Sad story of one integration», Yurii Plugatariov
 </details>
 
 ## Декабрь
@@ -122,14 +144,18 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «3L3M3NT5», Martin Kleppe
-  - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
-  - «ECMAScript: latest and upcoming features», Axel Rauschmayer
-  - «Offline is the new Black», Max Stoiber (Thinkmill)
-  - «Rich text editing with Draft.js», Nikolaus Graf
-  - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
-  - «Веб-приложения: дробим монолит», Грищенко Виктор
+  - «Веб-приложения: дробим монолит», Виктор Грищенко 
   - «WebVR is the next frontier», Martin Splitt
+  - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
+  - «Rich text editing with Draft.js», Nikolaus Graf
+  - «Offline is the new Black», Max Stoiber (Thinkmill)
+  - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
+  - «3L3M3NT5», Martin Kleppe
+  - «ECMAScript: latest and upcoming features», Axel Rauschmayer
+  - «Debugging Node.js Performance Issues in Production»,Thomas Watson
+  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
+  - «A Little Closer to Frontend Bliss with Elm», Tereza Sokol
+  - «Performance Profiling for V8», Franziska Hinkelmann
 </details>
 
 ## Апрель
