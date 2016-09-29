@@ -1,8 +1,6 @@
 # По городам
 
 - [Астана](#Астана)
-- [Владивосток](#Владивосток)
-- [Гданьск](#Гданьск)
 - [Днепропетровск](#Днепропетровск)
 - [Иннополис](#Иннополис)
 - **[Киев](#Киев)**
@@ -13,35 +11,12 @@
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
 - [Харьков](#Харьков)
-- [Челябинск](#Челябинск)
 
 ## Астана
 
 ### [AST Frontend meetup #2](https://astfrontend.timepad.ru/event/376009/)
 
 8 октября
-
-## Владивосток
-
-### [VLDC lite](http://дальинфоком.рф/)
-
-26 сентября
-
-## Гданьск
-
-### [The Rolling Scopes #30](https://gdansk.rollingscopes.com/)
-
-28 сентября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «TypeScript and what's the hack Javascript», Vadzim Yakushau
-  - «Yes, you can use Web components in production», David Ferreira
-  - «Serverless architecture: Functions as a Service», Dzmitry Varabei
-  - «Designers at the lab», Dafna Sharabi
-  - «CSS QuickDraw», Alexander Gerasimov
-</details>
 
 ## Днепропетровск
 
@@ -76,21 +51,6 @@
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
 4 декабря, Киев
-
-## Краков
-
-### [The Rolling Scopes #31](https://krakow.rollingscopes.com/)
-
-29 сентября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Ethereum virtual machines in JS: cryptocurrency revolution», Oleksandr Pastukhov
-  - «Modular JavaScript: put things on the right place», Andrei Yemelyanchik
-  - «Serverless architecture: Functions as a Service», Dzmitry Varabei, Siarhei Melnik
-  - «Designers at the lab», Dafna Sharabi
-</details>
 
 ## Курск
 
@@ -143,10 +103,6 @@
 8 октября
 
 ## Санкт-Петербург
-
-### [SPB Frontend Light Talks](https://spb-frontend-events.timepad.ru/event/378334/)
-
-26 сентября, Санкт-Петербург
 
 ### [Web Standards Days](https://wsd.events/2016/10/01/)
 
@@ -202,20 +158,4 @@
   <summary>**Доклады**</summary>
 
   - «React API design», Juho Vepsäläinen
-</details>
-
-## Челябинск
-
-### [FRONTday](http://frontday.ru/)
-
-28 сентября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Observable на фронтенде. Как и и почему», Никита Дюмин
-  - «Telegram bot - новый вид интерфейса», Петр Лаптев
-  - «Progressive Web Applications», Анатолий Морозов
-  - «Как я пишу в 2016 на ангуляре и не краснею», Иван Громов
-  - «5 причин, по которым дизайнеры ненавидят фронтенд-разработчиков», Олеся Козлова
 </details>

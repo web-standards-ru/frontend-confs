@@ -9,55 +9,6 @@
 
 ## Сентябрь
 
-### [VLDC lite](http://дальинфоком.рф/)
-
-26 сентября, Владивосток
-
-### [SPB Frontend Light Talks](https://spb-frontend-events.timepad.ru/event/378334/)
-
-26 сентября, Санкт-Петербург
-
-### [The Rolling Scopes #30](https://gdansk.rollingscopes.com/)
-
-28 сентября, Гданьск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «TypeScript and what's the hack Javascript», Vadzim Yakushau
-  - «Yes, you can use Web components in production», David Ferreira
-  - «Serverless architecture: Functions as a Service», Dzmitry Varabei
-  - «Designers at the lab», Dafna Sharabi
-  - «CSS QuickDraw», Alexander Gerasimov
-</details>
-
-### [FRONTday](http://frontday.ru/)
-
-28 сентября, Челябинск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Observable на фронтенде. Как и и почему», Никита Дюмин
-  - «Telegram bot - новый вид интерфейса», Петр Лаптев
-  - «Progressive Web Applications», Анатолий Морозов
-  - «Как я пишу в 2016 на ангуляре и не краснею», Иван Громов
-  - «5 причин, по которым дизайнеры ненавидят фронтенд-разработчиков», Олеся Козлова
-</details>
-
-### [The Rolling Scopes #31](https://krakow.rollingscopes.com/)
-
-29 сентября, Краков
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Ethereum virtual machines in JS: cryptocurrency revolution», Oleksandr Pastukhov
-  - «Modular JavaScript: put things on the right place», Andrei Yemelyanchik
-  - «Serverless architecture: Functions as a Service», Dzmitry Varabei, Siarhei Melnik
-  - «Designers at the lab», Dafna Sharabi
-</details>
-
 ### [BEMup](https://events.yandex.ru/events/bemup/30-september-2016/)
 
 30 сентября, Москва
