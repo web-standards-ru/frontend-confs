@@ -37,6 +37,7 @@
 
   - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко
   - «Updating mobile web pages! But why?», Salim KAYABAŞI
+  - «Time machine», Василь Милько
 </details>
 
 ## Иннополис
@@ -67,6 +68,14 @@
 
 29 октября
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Пользовательские свойства как основа архитектуры CSS», Павел Ловцевич
+  - «Я и ИоТ», Вадим Макеев
+  - «Вы не знаете CSS», Антон Немцев
+</details>
+
 ### [JS Meetup by DEV at Work](https://www.facebook.com/events/717595925045245/)
 
 15 октября
@@ -92,6 +101,7 @@
   - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
   - «A Little Closer to Frontend Bliss with Elm», Tereza Sokol
   - «Performance Profiling for V8», Franziska Hinkelmann
+  - Секретный доклад, Андрей Ситник
 </details>
 
 ### [FrontendConf](http://frontendconf.ru/)
@@ -156,4 +166,5 @@
   - «Static typing in browser», Slinko Viacheslav
   - «FlowType», Klymov Illia
   - «Iframe rampage. Sad story of one integration», Yurii Plugatariov
+  - «Exploring ML in javaScript world», Ivan Lavriv
 </details>

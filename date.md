@@ -77,11 +77,20 @@
 
   - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко
   - «Updating mobile web pages! But why?», Salim KAYABAŞI
+  - «Time machine», Василь Милько
 </details>
 
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Пользовательские свойства как основа архитектуры CSS», Павел Ловцевич
+  - «Я и ИоТ», Вадим Макеев
+  - «Вы не знаете CSS», Антон Немцев
+</details>
 
 ## Ноябрь
 
@@ -98,6 +107,7 @@
   - «Static typing in browser», Slinko Viacheslav
   - «FlowType», Klymov Illia
   - «Iframe rampage. Sad story of one integration», Yurii Plugatariov
+  - «Exploring ML in javaScript world», Ivan Lavriv
 </details>
 
 ## Декабрь
@@ -125,6 +135,7 @@
   - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
   - «A Little Closer to Frontend Bliss with Elm», Tereza Sokol
   - «Performance Profiling for V8», Franziska Hinkelmann
+  - Секретный доклад, Андрей Ситник
 </details>
 
 ## Апрель
