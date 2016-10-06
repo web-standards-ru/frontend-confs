@@ -72,13 +72,20 @@
   <summary>**Доклады**</summary>
 
   - «Пользовательские свойства как основа архитектуры CSS», Павел Ловцевич
-  - «Я и ИоТ», Вадим Макеев
   - «Вы не знаете CSS», Антон Немцев
+  - «Как хакнуть фронтенд», Владимир Дашукевич
+  - «Я и ИоТ», Вадим Макеев
+  - «Клеим будущее с помощью PWA», Максим Юзва
+  - «Готовим модульную архитектуру из JS-лапши», Александра Шинкевич
 </details>
 
 ### [JS Meetup by DEV at Work](https://www.facebook.com/events/717595925045245/)
 
 15 октября
+
+## [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
+
+18 и 19 февраля
 
 ## Москва
 
@@ -94,7 +101,6 @@
   - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
   - «Rich text editing with Draft.js», Nikolaus Graf
   - «Offline is the new Black», Max Stoiber (Thinkmill)
-  - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
   - «3L3M3NT5», Martin Kleppe
   - «ECMAScript: latest and upcoming features», Axel Rauschmayer
   - «Debugging Node.js Performance Issues in Production»,Thomas Watson
@@ -126,6 +132,16 @@
 ### [pitercss №6](https://pitercss.timepad.ru/event/381033/)
 
 11 октября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Жми сюда», Вадим Макеев
+</details>
+
+### [pitercss conference](https://pitercss.com/)
+
+Июнь
 
 ## Тольятти
 

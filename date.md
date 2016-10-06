@@ -3,6 +3,7 @@
 - [Октябрь](#Октябрь)
 - [Ноябрь](#Ноябрь)
 - [Декабрь](#Декабрь)
+- [Февраль](#Февраль)
 - [Апрель](#Апрель)
 - [Июнь](#Июнь)
 
@@ -53,6 +54,12 @@
 
 11 октября, Санкт-Петербург
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Жми сюда», Вадим Макеев
+</details>
+
 ### [JS Meetup by DEV at Work](https://www.facebook.com/events/717595925045245/)
 
 15 октября, Минск
@@ -88,8 +95,11 @@
   <summary>**Доклады**</summary>
 
   - «Пользовательские свойства как основа архитектуры CSS», Павел Ловцевич
-  - «Я и ИоТ», Вадим Макеев
   - «Вы не знаете CSS», Антон Немцев
+  - «Как хакнуть фронтенд», Владимир Дашукевич
+  - «Я и ИоТ», Вадим Макеев
+  - «Клеим будущее с помощью PWA», Максим Юзва
+  - «Готовим модульную архитектуру из JS-лапши», Александра Шинкевич
 </details>
 
 ## Ноябрь
@@ -128,7 +138,6 @@
   - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
   - «Rich text editing with Draft.js», Nikolaus Graf
   - «Offline is the new Black», Max Stoiber (Thinkmill)
-  - «Build Cross-Platform Desktop Apps with Electron», Feross Aboukhadijeh
   - «3L3M3NT5», Martin Kleppe
   - «ECMAScript: latest and upcoming features», Axel Rauschmayer
   - «Debugging Node.js Performance Issues in Production»,Thomas Watson
@@ -137,6 +146,12 @@
   - «Performance Profiling for V8», Franziska Hinkelmann
   - Секретный доклад, Андрей Ситник
 </details>
+
+## Февраль
+
+## [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
+
+18 и 19 февраля, Минск
 
 ## Апрель
 
@@ -150,3 +165,7 @@
 
 5 и 6 июня, Москва  
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
+
+### [pitercss conference](https://pitercss.com/)
+
+Июнь, Санкт-Петербург
