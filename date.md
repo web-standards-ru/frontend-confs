@@ -9,57 +9,6 @@
 
 ## Октябрь
 
-### [AST Frontend meetup #2](https://astfrontend.timepad.ru/event/376009/)
-
-8 октября, Астана
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Компонентный подход в деле», Бибасаров Думан (InesSoft)
-  - «Автоматизация фронтенда», Сергазина Диана (InesSoft)
-  - «!MVC», Танирберген Булат (Black Bolt Studio)
-</details>
-
-### [TК° Conf](http://tkconf.ru/)
-
-8 октября, Ростов-на-Дону
-
-### [FrontDays Meetup#4](http://frontdays.ru/)
-
-8 октября, Тольятти
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Vue.js, библиотека для создания интерактивных Web интерфейсов», Владислав Смирнов (Radyushin & co)
-  - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
-</details>
-
-### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/08-oct-2016/)
-
-8 октября, Иннополис
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Особенности работы распределенной команды», Михаил Трошев
-  - «Любовь и ненависть к pull-requests», Сергей Сергеев
-  - «Learn You an AST for Great Good», Станислав Сысоев
-  - «Измеряем эффективность инфраструктуры разработки интерфейсов», Алексей Калмаков
-  - «MQ: merge-queue», Евгений Гаврюшин
-</details>
-
-### [pitercss №6](https://pitercss.timepad.ru/event/381033/)
-
-11 октября, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Жми сюда», Вадим Макеев
-</details>
-
 ### [JS Meetup by DEV at Work](https://www.facebook.com/events/717595925045245/)
 
 15 октября, Минск
