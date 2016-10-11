@@ -9,9 +9,24 @@
 
 ## Октябрь
 
+### [WebPurple Meetup #13](https://webpurple.timepad.ru/event/385533/)
+
+13 октября, Рязань
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Redux-talk@1.0.0», Никита Кирсанов
+  - «Программирование — это новые 90-е, или то, чему я научился будучи джуниором пять лет»
+</details>
+
 ### [JS Meetup by DEV at Work](https://www.facebook.com/events/717595925045245/)
 
 15 октября, Минск
+
+### [4front meetup #13](https://www.facebook.com/4frontby/posts/617227178459672)
+
+19 октября, Минск
 
 ### [Съесть собаку](http://eatdog.com.ua/)
 
@@ -62,11 +77,15 @@
 
   - «React API design», Juho Vepsäläinen
   - «Compilers/V8», Ingvar Stepanyan
+  - «Porting Web Application to Virtual Reality», Denis Radin
   - «It is 2016 but you can't subclass shit», Alex Shvaika
   - «Static typing in browser», Slinko Viacheslav
   - «FlowType», Klymov Illia
+  - «How to build a desktop application in JS without using webview», Victor Turskyi
   - «Iframe rampage. Sad story of one integration», Yurii Plugatariov
   - «Exploring ML in javaScript world», Ivan Lavriv
+  - «Parallel chunk requests in a browser», Obrezkov Evgenii
+  - «Functional Programming in JS», Denis Stoyanov
 </details>
 
 ## Декабрь
@@ -82,18 +101,19 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «ECMAScript: latest and upcoming features», Axel Rauschmayer
+  - «Building Interactive npm Command Line Modules», Irina Shestak
+  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
+  - Секретный доклад, Андрей Ситник
+  - «3L3M3NT5», Martin Kleppe
+  - «Debugging Node.js Performance Issues in Production»,Thomas Watson
   - «Веб-приложения: дробим монолит», Виктор Грищенко 
   - «WebVR is the next frontier», Martin Splitt
-  - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
-  - «Rich text editing with Draft.js», Nikolaus Graf
-  - «Offline is the new Black», Max Stoiber (Thinkmill)
-  - «3L3M3NT5», Martin Kleppe
-  - «ECMAScript: latest and upcoming features», Axel Rauschmayer
-  - «Debugging Node.js Performance Issues in Production»,Thomas Watson
-  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
   - «A Little Closer to Frontend Bliss with Elm», Tereza Sokol
   - «Performance Profiling for V8», Franziska Hinkelmann
-  - Секретный доклад, Андрей Ситник
+  - «Rich text editing with Draft.js», Nikolaus Graf
+  - «Offline is the new Black», Max Stoiber (Thinkmill)
+  - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
 </details>
 
 ## Февраль
@@ -104,7 +124,7 @@
 
 ## Апрель
 
-### CodeFest
+### [CodeFest](http://2017.codefest.ru/)
 
 1 и 2 апреля, Новосибирск
 
