@@ -9,21 +9,6 @@
 
 ## Октябрь
 
-### [WebPurple Meetup #13](https://webpurple.timepad.ru/event/385533/)
-
-13 октября, Рязань
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Redux-talk@1.0.0», Никита Кирсанов
-  - «Программирование — это новые 90-е, или то, чему я научился будучи джуниором пять лет»
-</details>
-
-### [JS Meetup by DEV at Work](https://www.facebook.com/events/717595925045245/)
-
-15 октября, Минск
-
 ### [4front meetup #13](https://www.facebook.com/4frontby/posts/617227178459672)
 
 19 октября, Минск
