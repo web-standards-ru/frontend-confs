@@ -6,6 +6,7 @@
 - **[Москва](#Москва)**
 - [Новосибирск](#Новосибирск)
 - **[Санкт-Петербург](#Санкт-Петербург)**
+- [Уфа](#Уфа)
 - [Харьков](#Харьков)
 
 ## Днепропетровск
@@ -17,9 +18,10 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко
+  - «Techniques of building layered interfaces on the example of a web-based code editor», Сергій Морковкин (Lohika)
+  - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко (WIX)
+  - «Kendo UI — probably smarter then you», Євген Половний (WebiNerds)
   - «Updating mobile web pages! But why?», Salim KAYABAŞI
-  - «Time machine», Василь Милько
 </details>
 
 ## Киев
@@ -27,6 +29,12 @@
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
 4 декабря, Киев
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как быть хорошим фронтенд-разработчиком», Евгений Жарков (Juno)
+</details>
 
 ## Минск
 
@@ -94,6 +102,12 @@
 
 Июнь
 
+## Уфа
+
+### [FrontendFellows #9](https://frontendfellows.timepad.ru/event/388303/)
+
+12 ноября
+
 ## Харьков
 
 ### [Съесть собаку](http://eatdog.com.ua/)
@@ -118,6 +132,8 @@
   - «Compilers/V8», Ingvar Stepanyan
   - «Porting Web Application to Virtual Reality», Denis Radin
   - «It is 2016 but you can't subclass shit», Alex Shvaika
+  - «I’m in IoT», Vadim Makeev
+  - «Angular Native», Yurii Luchaninov
   - «Static typing in browser», Slinko Viacheslav
   - «FlowType», Klymov Illia
   - «How to build a desktop application in JS without using webview», Victor Turskyi
@@ -125,4 +141,8 @@
   - «Exploring ML in javaScript world», Ivan Lavriv
   - «Parallel chunk requests in a browser», Obrezkov Evgenii
   - «Functional Programming in JS», Denis Stoyanov
+  - «React Native. Way to production», Philip Shurpik
+  - «JavaScript and offline business. Next big deal», Georgiy Podsvyetov
+  - «Shells written in JavaScript», Denys Dovhan
+  - «Error handling in Node.js streams», Andrii Shumada
 </details>
