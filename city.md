@@ -38,10 +38,6 @@
 
 ## Минск
 
-### [4front meetup #13](https://www.facebook.com/4frontby/posts/617227178459672)
-
-19 октября
-
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября
@@ -109,17 +105,6 @@
 12 ноября
 
 ## Харьков
-
-### [Съесть собаку](http://eatdog.com.ua/)
-
-20 октября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Выжить с помощью ООП», Максим Гопей
-  - «BDD & Codeception: разделяем и властвуем», Михаил Боднарчук
-</details>
 
 ### [KharkivJS #7](http://kharkivjs.org/)
 

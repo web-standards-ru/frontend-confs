@@ -9,21 +9,6 @@
 
 ## Октябрь
 
-### [4front meetup #13](https://www.facebook.com/4frontby/posts/617227178459672)
-
-19 октября, Минск
-
-### [Съесть собаку](http://eatdog.com.ua/)
-
-20 октября, Харьков
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Выжить с помощью ООП», Максим Гопей
-  - «BDD & Codeception: разделяем и властвуем», Михаил Боднарчук
-</details>
-
 ### [IT Weekend Dnipro](https://itweekend.ua/ua/announcements/itw-dn-16o/)
 
 22 октября, Днепропетровск
