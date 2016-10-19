@@ -1,6 +1,7 @@
 # По городам
 
 - [Днепропетровск](#Днепропетровск)
+- [Иваново-Франковск](#Иваново-Франковск)
 - **[Киев](#Киев)**
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
@@ -24,16 +25,35 @@
   - «Updating mobile web pages! But why?», Salim KAYABAŞI
 </details>
 
+## Иваново-Франковск
+
+### [IT Weekend Ivano-Frankivsk](https://itweekend.ua/ua/announcements/itw-if-16n/)
+
+5 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Techniques of building layered interfaces on the example of a web-based code editor», Сергій Морковкин (Lohika)
+  - «Lazy front-end developer», Юрій Артюх (Codriver)
+  - «Using angular 2 with redux flow in production», Ігор Репела (SoftServe)
+</details>
+
 ## Киев
+
+### [Web Standards Days](https://wsd.events/2016/11/26/)
+
+26 ноября
 
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
-4 декабря, Киев
+4 декабря
 
 <details>
   <summary>**Доклады**</summary>
 
   - «Как быть хорошим фронтенд-разработчиком», Евгений Жарков (Juno)
+  - «The Road to Native Web Components», Michael North (Levanto Financial)
 </details>
 
 ## Минск
@@ -45,12 +65,16 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Пользовательские свойства как основа архитектуры CSS», Павел Ловцевич
+  - «Пользовательские свойства как основа архитектуры CSS», Павел Ловцевич (LOVATA)
   - «Вы не знаете CSS», Антон Немцев
-  - «Как хакнуть фронтенд», Владимир Дашукевич
-  - «Я и ИоТ», Вадим Макеев
-  - «Клеим будущее с помощью PWA», Максим Юзва
-  - «Готовим модульную архитектуру из JS-лапши», Александра Шинкевич
+  - «Как хакнуть фронтенд», Владимир Дашукевич (XBSoftware)
+  - «Пишем тесты прямо в браузере», Виталий Потапов (Яндекс)
+  - «Я и ИоТ», Вадим Макеев (Opera)
+  - «Клеим будущее с помощью PWA», Максим Юзва (EPAM)
+  - «Собираем фронтенд с Webpack», Павел Голован (Intetics)
+  - «Готовим модульную архитектуру из JS-лапши», Александра Шинкевич (LOVATA)
+  - «Фронтенд для новичка. Куда идти и что делать?», Любовь Гулько
+  - «Старикам здесь не место?», Олег Мохов и Алексей Симоненко
 </details>
 
 ## [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
@@ -61,7 +85,7 @@
 
 ### [HolyJS](http://holyjs.ru/)
 
-11 декабря, от 4000 руб.
+11 декабря, от 5000 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -71,11 +95,13 @@
   - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
   - Секретный доклад, Андрей Ситник
   - «3L3M3NT5», Martin Kleppe
+  - «Как подойти к современным веб-приложениям», Никита Прокопов
   - «Debugging Node.js Performance Issues in Production»,Thomas Watson
   - «Веб-приложения: дробим монолит», Виктор Грищенко 
   - «WebVR is the next frontier», Martin Splitt
   - «A Little Closer to Frontend Bliss with Elm», Tereza Sokol
   - «Performance Profiling for V8», Franziska Hinkelmann
+  - «Свои инструменты без шуму и пыли»,Роман Дворнов
   - «Rich text editing with Draft.js», Nikolaus Graf
   - «Offline is the new Black», Max Stoiber (Thinkmill)
   - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
@@ -103,6 +129,12 @@
 ### [FrontendFellows #9](https://frontendfellows.timepad.ru/event/388303/)
 
 12 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Grid’ы – панацея или нет?», Олег Мохов (Яндекс)
+</details>
 
 ## Харьков
 
