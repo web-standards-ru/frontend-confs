@@ -1,6 +1,5 @@
 # По городам
 
-- [Днепропетровск](#Днепропетровск)
 - [Иваново-Франковск](#Иваново-Франковск)
 - **[Киев](#Киев)**
 - **[Минск](#Минск)**
@@ -9,21 +8,6 @@
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Уфа](#Уфа)
 - [Харьков](#Харьков)
-
-## Днепропетровск
-
-### [IT Weekend Dnipro](https://itweekend.ua/ua/announcements/itw-dn-16o/)
-
-22 октября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Techniques of building layered interfaces on the example of a web-based code editor», Сергій Морковкин (Lohika)
-  - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко (WIX)
-  - «Kendo UI — probably smarter then you», Євген Половний (WebiNerds)
-  - «Updating mobile web pages! But why?», Salim KAYABAŞI
-</details>
 
 ## Иваново-Франковск
 

@@ -9,19 +9,6 @@
 
 ## Октябрь
 
-### [IT Weekend Dnipro](https://itweekend.ua/ua/announcements/itw-dn-16o/)
-
-22 октября, Днепропетровск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Techniques of building layered interfaces on the example of a web-based code editor», Сергій Морковкин (Lohika)
-  - «React + Redux + ES6 + flow and Functional way of thinking», Олексій Коваленко (WIX)
-  - «Kendo UI — probably smarter then you», Євген Половний (WebiNerds)
-  - «Updating mobile web pages! But why?», Salim KAYABAŞI
-</details>
-
 ### [Web Standards Days](https://wsd.events/2016/10/29/)
 
 29 октября, Минск
