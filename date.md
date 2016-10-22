@@ -68,6 +68,39 @@
   - «Error handling in Node.js streams», Andrii Shumada
 </details>
 
+### [HighLoad++ 2016](http://www.highload.ru/2016/abstracts)
+
+7 и 8 ноября, Москва, Сколково
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Отрисовать за 16 мс», Глеб Михеев (Beta Digital Production)
+  - «Порядок для скорости. Система структурирования фронтендовой части веб-приложений», Сергей Гущин (Superjob.ru)
+  - «Практическое применение WebWorkers», Алексей Фомкин (Data Monsters)
+  - «Автоматизация тестирования клиентской производительности», Николай Лавлинский (Метод Лаб)
+  - «Промышленное ускорение сайтов», Николай Мациевский (Айри.рф)
+  - «Your hero images need you: Save the day with HTTP2 image loading», Tobias Baldauf (Akamai Technologies)
+  - «Дизайн REST API для высокопроизводительных систем», Александр Лебедев (Новые Облачные Технологии)
+  - «Применяем стандарты кодирования NASA к JavaScript», Денис Радин (Liberty Global)
+  - «Альтернативные технологии рендеринга контента: SVG, Canvas, WebGL», Денис Радин (Liberty Global)
+  - «Превышаем скоростные лимиты с Angular 2», Алексей Охрименко (IPONWEB)
+  - «Как сделать ваш JavaScript быстрее», Роман Дворнов (Авито)
+</details>
+
+### [Fronthub 2016](http://fronthub.ru/)
+
+12 ноября, Ульяновск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Общий язык с дизайнером. Ритм!», Михаил Синяков (X-Cart)
+  - «Не быстрый старт с Angular 2», Константин Макарычев (Provectus)
+  - «CSS Modules», Олег Наянов (DZ Systems)
+  - «Типографика — такая страшная или прекрасная», Ярослав Трегубов (PRO100)
+</details>
+
 ### [FrontendFellows #9](https://frontendfellows.timepad.ru/event/388303/)
 
 12 ноября, Уфа
@@ -77,6 +110,10 @@
 
   - «Grid’ы – панацея или нет?», Олег Мохов (Яндекс)
 </details>
+
+### [Web Not Bombs: Frontend #7](https://www.facebook.com/events/1263558513676336/)
+
+24 ноября, Минск
 
 ### [Web Standards Days](https://wsd.events/2016/11/26/)
 
