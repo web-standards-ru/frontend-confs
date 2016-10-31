@@ -5,6 +5,7 @@
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Новосибирск](#Новосибирск)
+- [Пенза](#Пенза)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Ульяновск](#Ульяновск)
 - [Уфа](#Уфа)
@@ -38,7 +39,10 @@
   <summary>**Доклады**</summary>
 
   - «Как быть хорошим фронтенд-разработчиком», Евгений Жарков (Juno)
+  - «Reactive Music Apps in Angular and RxJS», Tero Parviainen
+  - «Міграція даних в Node.js REST API і MongoDB», Андрей Шумада (Ciklum/Debitoor)
   - «The Road to Native Web Components», Michael North (Levanto Financial)
+  - «RxJS 5 - In-depth», Gerard Sans (AngularZone)
 </details>
 
 ## Минск
@@ -90,11 +94,15 @@
   - «Веб-приложения: дробим монолит», Виктор Грищенко 
   - «WebVR is the next frontier», Martin Splitt
   - «A Little Closer to Frontend Bliss with Elm», Tereza Sokol
+  - «Dr. Strangelove or: How I Learned to Stop Worrying and Love the Serverless Chatbots», Slobodan Stojanovic
   - «Performance Profiling for V8», Franziska Hinkelmann
-  - «Свои инструменты без шуму и пыли»,Роман Дворнов
+  - «Remote (dev)tools своими руками»,Роман Дворнов
   - «Rich text editing with Draft.js», Nikolaus Graf
   - «Offline is the new Black», Max Stoiber (Thinkmill)
   - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
+  - «Мутация web», Павел Кондратенко
+  - «Модульный CSS», Андрей Оконечников
+  - «debugger;», Денис Мишунов
 </details>
 
 ### [FrontendConf](http://frontendconf.ru/)
@@ -108,7 +116,41 @@
 
 1 и 2 апреля
 
+## Пенза
+
+### [Penza Frontend Meetup #4](https://vk.com/pfm_4)
+
+17 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «DevTools для CSS-анимации», Стас Мельников
+  - «PhoneGap — плюсы, минусы, подводные камни», Артём Андреев
+</details>
+
 ## Санкт-Петербург
+
+### [PiterJS #10](https://meetabit.com/events/256)
+
+3 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Обещание JavaScript = Promise HELL», Михаил Полубояринов
+  - «React Redux Webpack», Михаил Башуров
+</details>
+
+### [pitercss №7](https://pitercss.timepad.ru/event/394145/)
+
+16 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Техническая сторона типографики», Иван Гладких
+</details>
 
 ### [pitercss conference](https://pitercss.com/)
 
@@ -127,6 +169,8 @@
   - «Не быстрый старт с Angular 2», Константин Макарычев (Provectus)
   - «CSS Modules», Олег Наянов (DZ Systems)
   - «Типографика — такая страшная или прекрасная», Ярослав Трегубов (PRO100)
+  - «Путь падавана. Как стать web-разработчиком и не поседеть?», Денис Ежков (Itech.group)
+  - «Немного о сжатии изображений», Николай Беликов (Restream)
 </details>
 
 ## Уфа
@@ -139,6 +183,9 @@
   <summary>**Доклады**</summary>
 
   - «Grid’ы – панацея или нет?», Олег Мохов (Яндекс)
+  - «ECMAScript 2015, javascript линтеры, сборка», Николай Казаков (Центр информационных технологий «Открытый Регион»)
+  - «React и компоненты высшего порядка», Александр Айбулатов
+  - «Короче_», Сергей Жигалов (Яндекс)
 </details>
 
 ## Харьков
@@ -153,18 +200,23 @@
   - «React API design», Juho Vepsäläinen
   - «Compilers/V8», Ingvar Stepanyan
   - «Porting Web Application to Virtual Reality», Denis Radin
-  - «It is 2016 but you can't subclass shit», Alex Shvaika
+  - «Better Web Components with membranes», Alex Shvaika
   - «I’m in IoT», Vadim Makeev
+  - «How to become famous with GitHub and open-source», Paul Miller
   - «Angular Native», Yurii Luchaninov
   - «Static typing in browser», Slinko Viacheslav
-  - «FlowType», Klymov Illia
+  - «Next.», Listochkin Andrew
+  - «Flow, why you should fall in love with it», Klymov Illia
   - «How to build a desktop application in JS without using webview», Victor Turskyi
   - «Iframe rampage. Sad story of one integration», Yurii Plugatariov
   - «Exploring ML in javaScript world», Ivan Lavriv
-  - «Parallel chunk requests in a browser», Obrezkov Evgenii
-  - «Functional Programming in JS», Denis Stoyanov
+  - «Deal with async programming», Denis Stoyanov
   - «React Native. Way to production», Philip Shurpik
+  - «Testing well and stop shooting yourself in the foot deal. Insight from QA automation engineer.», Max Onufriienko
   - «JavaScript and offline business. Next big deal», Georgiy Podsvyetov
   - «Shells written in JavaScript», Denys Dovhan
+  - «Toolchain simplicity as a key for team productivity», Maksym Klymyshyn
+  - «Moving Web forward: ECMAScript 201x and Web APIs», Sergey Rubanov
   - «Error handling in Node.js streams», Andrii Shumada
+  - «JS in IoT», Eugene Nezhuta
 </details>
