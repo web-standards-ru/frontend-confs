@@ -1,6 +1,5 @@
 # По городам
 
-- [Иваново-Франковск](#Иваново-Франковск)
 - **[Киев](#Киев)**
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
@@ -9,21 +8,6 @@
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Ульяновск](#Ульяновск)
 - [Уфа](#Уфа)
-- [Харьков](#Харьков)
-
-## Иваново-Франковск
-
-### [IT Weekend Ivano-Frankivsk](https://itweekend.ua/ua/announcements/itw-if-16n/)
-
-5 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Techniques of building layered interfaces on the example of a web-based code editor», Сергій Морковкин (Lohika)
-  - «Lazy front-end developer», Юрій Артюх (Codriver)
-  - «Using angular 2 with redux flow in production», Ігор Репела (SoftServe)
-</details>
 
 ## Киев
 
@@ -56,26 +40,6 @@
 18 и 19 февраля
 
 ## Москва
-
-### [HighLoad++ 2016](http://www.highload.ru/2016/abstracts)
-
-7 и 8 ноября, Сколково
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Отрисовать за 16 мс», Глеб Михеев (Beta Digital Production)
-  - «Порядок для скорости. Система структурирования фронтендовой части веб-приложений», Сергей Гущин (Superjob.ru)
-  - «Практическое применение WebWorkers», Алексей Фомкин (Data Monsters)
-  - «Автоматизация тестирования клиентской производительности», Николай Лавлинский (Метод Лаб)
-  - «Промышленное ускорение сайтов», Николай Мациевский (Айри.рф)
-  - «Your hero images need you: Save the day with HTTP2 image loading», Tobias Baldauf (Akamai Technologies)
-  - «Дизайн REST API для высокопроизводительных систем», Александр Лебедев (Новые Облачные Технологии)
-  - «Применяем стандарты кодирования NASA к JavaScript», Денис Радин (Liberty Global)
-  - «Альтернативные технологии рендеринга контента: SVG, Canvas, WebGL», Денис Радин (Liberty Global)
-  - «Превышаем скоростные лимиты с Angular 2», Алексей Охрименко (IPONWEB)
-  - «Как сделать ваш JavaScript быстрее», Роман Дворнов (Авито)
-</details>
 
 ### [HolyJS](http://holyjs.ru/)
 
@@ -131,17 +95,6 @@
 
 ## Санкт-Петербург
 
-### [PiterJS #10](https://meetabit.com/events/256)
-
-3 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Обещание JavaScript = Promise HELL», Михаил Полубояринов
-  - «React Redux Webpack», Михаил Башуров
-</details>
-
 ### [pitercss №7](https://pitercss.timepad.ru/event/394145/)
 
 16 ноября
@@ -186,37 +139,4 @@
   - «ECMAScript 2015, javascript линтеры, сборка», Николай Казаков (Центр информационных технологий «Открытый Регион»)
   - «React и компоненты высшего порядка», Александр Айбулатов
   - «Короче_», Сергей Жигалов (Яндекс)
-</details>
-
-## Харьков
-
-### [KharkivJS #7](http://kharkivjs.org/)
-
-5-6 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «React API design», Juho Vepsäläinen
-  - «Compilers/V8», Ingvar Stepanyan
-  - «Porting Web Application to Virtual Reality», Denis Radin
-  - «Better Web Components with membranes», Alex Shvaika
-  - «I’m in IoT», Vadim Makeev
-  - «How to become famous with GitHub and open-source», Paul Miller
-  - «Angular Native», Yurii Luchaninov
-  - «Static typing in browser», Slinko Viacheslav
-  - «Next.», Listochkin Andrew
-  - «Flow, why you should fall in love with it», Klymov Illia
-  - «How to build a desktop application in JS without using webview», Victor Turskyi
-  - «Iframe rampage. Sad story of one integration», Yurii Plugatariov
-  - «Exploring ML in javaScript world», Ivan Lavriv
-  - «Deal with async programming», Denis Stoyanov
-  - «React Native. Way to production», Philip Shurpik
-  - «Testing well and stop shooting yourself in the foot deal. Insight from QA automation engineer.», Max Onufriienko
-  - «JavaScript and offline business. Next big deal», Georgiy Podsvyetov
-  - «Shells written in JavaScript», Denys Dovhan
-  - «Toolchain simplicity as a key for team productivity», Maksym Klymyshyn
-  - «Moving Web forward: ECMAScript 201x and Web APIs», Sergey Rubanov
-  - «Error handling in Node.js streams», Andrii Shumada
-  - «JS in IoT», Eugene Nezhuta
 </details>
