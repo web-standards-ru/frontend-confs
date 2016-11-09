@@ -5,15 +5,29 @@
 - **[Москва](#Москва)**
 - [Новосибирск](#Новосибирск)
 - [Пенза](#Пенза)
+- [Рязань](#Рязань)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Ульяновск](#Ульяновск)
 - [Уфа](#Уфа)
+- [Челябинск](#Челябинск)
 
 ## Киев
 
 ### [Web Standards Days](https://wsd.events/2016/11/26/)
 
 26 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «&lt;head&gt; — всему голова», Роман Ганин (FBS)
+  - «Ленивый верстальщик», Юрий Артюх (Coderiver)
+  - «Вы не знаете CSS», Антон Немцев
+  - «Я и ИоТ», Вадим Макеев (Opera)
+  - «Polymer, год вместе», Артур Пархисенко (LiveStream)
+  - «Радуйся коду с ELM», Григорий Шехет (Grammarly)
+  - «Консоль в массы. Переход на светлую сторону», Виталий Рыбка (NOOSPHERE)
+</details>
 
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
@@ -27,6 +41,8 @@
   - «Міграція даних в Node.js REST API і MongoDB», Андрей Шумада (Ciklum/Debitoor)
   - «The Road to Native Web Components», Michael North (Levanto Financial)
   - «RxJS 5 - In-depth», Gerard Sans (AngularZone)
+  - «Hyperops», Mathias Buus
+  - «О драконах ни слова», Илья Климов (WookieeLabs)
 </details>
 
 ## Минск
@@ -34,6 +50,10 @@
 ### [Web Not Bombs: Frontend #7](https://www.facebook.com/events/1263558513676336/)
 
 24 ноября
+
+### [MinskCSS #1](http://minskcss.by/)
+
+15 декабря
 
 ## [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
 
@@ -62,6 +82,7 @@
   - «Performance Profiling for V8», Franziska Hinkelmann
   - «Remote (dev)tools своими руками»,Роман Дворнов
   - «Rich text editing with Draft.js», Nikolaus Graf
+  - «Как современные библиотеки и фреймворки работают с DOM», Вячеслав Слинько
   - «Offline is the new Black», Max Stoiber (Thinkmill)
   - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
   - «Мутация web», Павел Кондратенко
@@ -93,6 +114,18 @@
   - «PhoneGap — плюсы, минусы, подводные камни», Артём Андреев
 </details>
 
+## Рязань
+
+### [WebPurple Meetup #14](https://webpurple.timepad.ru/event/402384/)
+
+17 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Не вебом единым. Чего еще коснулась благодать JavaSript’а?», Павел Смирнов
+</details>
+
 ## Санкт-Петербург
 
 ### [pitercss №7](https://pitercss.timepad.ru/event/394145/)
@@ -103,6 +136,16 @@
   <summary>**Доклады**</summary>
 
   - «Техническая сторона типографики», Иван Гладких
+</details>
+
+### [PiterJS #11](https://meetabit.com/events/299)
+
+3 декабря
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Обещание JavaScript = Promise HELL», Mikhail Poluboyarinov
 </details>
 
 ### [pitercss conference](https://pitercss.com/)
@@ -124,6 +167,8 @@
   - «Типографика — такая страшная или прекрасная», Ярослав Трегубов (PRO100)
   - «Путь падавана. Как стать web-разработчиком и не поседеть?», Денис Ежков (Itech.group)
   - «Немного о сжатии изображений», Николай Беликов (Restream)
+  - «Сверхбыстрая вёрстка: от макета до Production», Артём Дикмаров (Simtech Development)
+  - «Оптимальный во всех смыслах», Фазульянов Роман / Бабич Татьяна (Simbirsoft)
 </details>
 
 ## Уфа
@@ -139,4 +184,16 @@
   - «ECMAScript 2015, javascript линтеры, сборка», Николай Казаков (Центр информационных технологий «Открытый Регион»)
   - «React и компоненты высшего порядка», Александр Айбулатов
   - «Короче_», Сергей Жигалов (Яндекс)
+</details>
+
+## Челябинск
+
+### [Front-end & SQA MeetUp](http://frontday.ru/)
+
+2 декабря
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Кроссбраузерное тестирование без потери средств и рассудка», Мария Штырова
 </details>
