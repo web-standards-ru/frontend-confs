@@ -78,6 +78,8 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «React vs Angular 2: сравнение фреймворков без холивара», Maxim Grebenshikov
+  - «Просто о WebRTC: как сделать видеочат», Arseny
   - «Обещание JavaScript = Promise HELL», Mikhail Poluboyarinov
 </details>
 
@@ -88,6 +90,7 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «PhaserJS for advertisment: игры внутри баннеров», Юлия Пучнина
   - «Как быть хорошим фронтенд-разработчиком», Евгений Жарков (Juno)
   - «Reactive Music Apps in Angular and RxJS», Tero Parviainen
   - «Міграція даних в Node.js REST API і MongoDB», Андрей Шумада (Ciklum/Debitoor)
@@ -95,6 +98,7 @@
   - «RxJS 5 - In-depth», Gerard Sans (AngularZone)
   - «Hyperops», Mathias Buus
   - «О драконах ни слова», Илья Климов (WookieeLabs)
+  - «Architecting React Native app», Филипп Шурпик (Debitoor)
 </details>
 
 ### [HolyJS](http://holyjs.ru/)
@@ -129,6 +133,12 @@
 ### [MinskCSS #1](http://minskcss.by/)
 
 15 декабря, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «All you need is CSS», Анна Селезнёва (Evil Martians)
+</details>
 
 ## Февраль
 
