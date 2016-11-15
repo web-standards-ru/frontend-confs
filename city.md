@@ -134,16 +134,6 @@
 
 ## Санкт-Петербург
 
-### [pitercss №7](https://pitercss.timepad.ru/event/394145/)
-
-16 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Техническая сторона типографики», Иван Гладких
-</details>
-
 ### [PiterJS #11](https://meetabit.com/events/299)
 
 3 декабря

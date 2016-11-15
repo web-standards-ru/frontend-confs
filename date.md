@@ -8,16 +8,6 @@
 
 ## Ноябрь
 
-### [pitercss №7](https://pitercss.timepad.ru/event/394145/)
-
-16 ноября, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Техническая сторона типографики», Иван Гладких
-</details>
-
 ### [Penza Frontend Meetup #4](https://vk.com/pfm_4)
 
 17 ноября, Пенза
