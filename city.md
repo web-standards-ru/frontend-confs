@@ -38,11 +38,16 @@
   - «Как быть хорошим фронтенд-разработчиком», Евгений Жарков (Juno)
   - «Reactive Music Apps in Angular and RxJS», Tero Parviainen
   - «Міграція даних в Node.js REST API і MongoDB», Андрей Шумада (Ciklum/Debitoor)
+  - «React Native vs. React+WebView», Алексей Косинский
   - «The Road to Native Web Components», Michael North (Levanto Financial)
   - «RxJS 5 - In-depth», Gerard Sans (AngularZone)
+  - «Treasure hunt in the land of Reactive frameworks», Григорий Шехет (Grammarly)
   - «Hyperops», Mathias Buus
   - «О драконах ни слова», Илья Климов (WookieeLabs)
   - «Architecting React Native app», Филипп Шурпик (Debitoor)
+  - «Isomorphic React apps in production», Борис Могила (RIA.com)
+  - «Критерии выбора JS-фреймворков», Юрий Лучанинов (MobiDev)
+  - «Как open source помогает в профессии и почему его нужно делать», Paul Miller (Hell Yeah)
 </details>
 
 ## Минск
@@ -67,9 +72,26 @@
 
 ## Москва
 
+### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/10-dec-2016/)
+
+10 декабря
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как я попала в Яндекс и чему научилась — советы начинающим разработчикам и не только», Анна Тютюнник
+  - «Наш взгляд на progressive web apps», Антон Кричевский
+  - «Iframe v Script», Всеволод Шмыров
+  - «Как функциональное программирование может сделать жизнь проще», Сергей Ткаченко
+  - «Пишем Selenium-тесты прямо в браузере», Виталий Потапов
+  - «Gemini: различные способы использования», Антон Усманский
+  - «Living the GNU/Linux dream», Петър Додев
+  - «Гибкая настройка внешнего вида выдачи, или зачем нам понадобилось переопределять константы», Руслан Муфтиев
+</details>
+
 ### [HolyJS](http://holyjs.ru/)
 
-11 декабря, от 5000 руб.
+11 декабря, от 7000 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -133,6 +155,18 @@
 </details>
 
 ## Санкт-Петербург
+
+### [SPB Frontend](https://vk.com/spb_frontend_meetup_181116)
+
+18 ноября
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Vue.js», Антон Федянин
+  - «Angular 2», Алексей Золотых (Wrike)
+  - «Ember.js», Артем Сущев
+</details>
 
 ### [PiterJS #11](https://meetabit.com/events/299)
 
