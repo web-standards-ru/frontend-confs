@@ -8,39 +8,6 @@
 
 ## Ноябрь
 
-### [Penza Frontend Meetup #4](https://vk.com/pfm_4)
-
-17 ноября, Пенза
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «DevTools для CSS-анимации», Стас Мельников
-  - «PhoneGap — плюсы, минусы, подводные камни», Артём Андреев
-</details>
-
-### [WebPurple Meetup #14](https://webpurple.timepad.ru/event/402384/)
-
-17 ноября, Рязань
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Не вебом единым. Чего еще коснулась благодать JavaSript’а?», Павел Смирнов
-</details>
-
-### [SPB Frontend](https://vk.com/spb_frontend_meetup_181116)
-
-18 ноября, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Vue.js», Антон Федянин
-  - «Angular 2», Алексей Золотых (Wrike)
-  - «Ember.js», Артем Сущев
-</details>
-
 ### [Web Not Bombs: Frontend #7](https://www.facebook.com/events/1263558513676336/)
 
 24 ноября, Минск

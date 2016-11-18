@@ -4,8 +4,6 @@
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Новосибирск](#Новосибирск)
-- [Пенза](#Пенза)
-- [Рязань](#Рязань)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Челябинск](#Челябинск)
 
@@ -129,44 +127,7 @@
 
 1 и 2 апреля
 
-## Пенза
-
-### [Penza Frontend Meetup #4](https://vk.com/pfm_4)
-
-17 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «DevTools для CSS-анимации», Стас Мельников
-  - «PhoneGap — плюсы, минусы, подводные камни», Артём Андреев
-</details>
-
-## Рязань
-
-### [WebPurple Meetup #14](https://webpurple.timepad.ru/event/402384/)
-
-17 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Не вебом единым. Чего еще коснулась благодать JavaSript’а?», Павел Смирнов
-</details>
-
 ## Санкт-Петербург
-
-### [SPB Frontend](https://vk.com/spb_frontend_meetup_181116)
-
-18 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Vue.js», Антон Федянин
-  - «Angular 2», Алексей Золотых (Wrike)
-  - «Ember.js», Артем Сущев
-</details>
 
 ### [PiterJS #11](https://meetabit.com/events/299)
 
