@@ -20,13 +20,14 @@
   <summary>**Доклады**</summary>
 
   - «&lt;head&gt; — всему голова», Роман Ганин (FBS)
+  - «Как незрячие люди видят ваш сайт», Дмитро Попов
   - «Ленивый верстальщик», Юрий Артюх (Coderiver)
   - «Вы не знаете CSS», Антон Немцев
-  - «Тестирование UI с помощью Gemini», Сергей Пузанков (Luxoft)
   - «Я и ИоТ», Вадим Макеев (Opera)
   - «Polymer, год вместе», Артур Пархисенко (LiveStream)
   - «Радуйся коду с ELM», Григорий Шехет (Grammarly)
   - «Консоль в массы. Переход на светлую сторону», Виталий Рыбка (NOOSPHERE)
+  - «Тестирование UI с помощью Gemini», Сергей Пузанков (Luxoft)
 </details>
 
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
@@ -52,6 +53,8 @@
   - «Критерии выбора JS-фреймворков», Юрий Лучанинов (MobiDev)
   - «Как open source помогает в профессии и почему его нужно делать», Paul Miller (Hell Yeah)
   - «Web Apps Performance & JavaScript Compilers», Роман Лютиков (Attendify)
+  - «Разработка realtime SPA с использованием VueJS и RethinkDB», Сергей Морковкин (Lohika)
+  - «Riot.JS, или как приготовить современные Web Components», Анджей Гужовский (BetLab)
 </details>
 
 ## Краснодар
@@ -163,6 +166,7 @@
   - «React vs Angular 2: сравнение фреймворков без холивара», Maxim Grebenshikov
   - «Просто о WebRTC: как сделать видеочат», Arseny
   - «Обещание JavaScript = Promise HELL», Mikhail Poluboyarinov
+  - «Секретный доклад», Андрей Ситник
 </details>
 
 ### [pitercss conference](https://pitercss.com/)
@@ -178,6 +182,7 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «PostCSS» как метод написания CSS будущего, находясь в настоящем», Артём Белов (Право.ру)
   - «Резюме-ориентированная разработка веб-приложений», Денис Ермаков (Веблайм)
   - «Инструментарий разработчика — пора идти в облако», Артём Лисовский (Директ Лайн)
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
@@ -185,7 +190,7 @@
 
 ## Челябинск
 
-### [Front-end & SQA MeetUp](http://frontday.ru/)
+### [FRONTday](http://frontday.ru/)
 
 2 декабря
 
@@ -193,6 +198,7 @@
   <summary>**Доклады**</summary>
 
   - «Кроссбраузерное тестирование без потери средств и рассудка», Мария Штырова
+  - «Как живут и выживают тестировщики», Марина Островская
 </details>
 
 ### [FrontendFellows #10](https://frontendfellows.timepad.ru/event/406582/)
