@@ -8,21 +8,6 @@
 
 ## Ноябрь
 
-### [Web Not Bombs: Frontend #7](https://www.facebook.com/events/1263558513676336/)
-
-24 ноября, Минск
-
-### [MoscowJS 34](http://moscowjs.ru/event/moscowjs-34)
-
-24 ноября, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Basis.js - Production Ready SPA Framework», Сергей Мелюков (Avito)
-  - «Reliable DOM testing with browser-monkey», Артем Аветисян (Featurist)
-</details>
-
 ### [Web Standards Days](https://wsd.events/2016/11/26/)
 
 26 ноября, Киев

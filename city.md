@@ -62,10 +62,6 @@
 
 ## Минск
 
-### [Web Not Bombs: Frontend #7](https://www.facebook.com/events/1263558513676336/)
-
-24 ноября
-
 ### [MinskCSS #1](http://minskcss.by/)
 
 15 декабря
@@ -82,17 +78,6 @@
 18 и 19 февраля
 
 ## Москва
-
-### [MoscowJS 34](http://moscowjs.ru/event/moscowjs-34)
-
-24 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Basis.js - Production Ready SPA Framework», Сергей Мелюков (Avito)
-  - «Reliable DOM testing with browser-monkey», Артем Аветисян (Featurist)
-</details>
 
 ### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/10-dec-2016/)
 
