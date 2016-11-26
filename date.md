@@ -57,13 +57,14 @@
   - «React Native vs. React+WebView», Алексей Косинский
   - «The Road to Native Web Components», Michael North (Levanto Financial)
   - «RxJS 5 - In-depth», Gerard Sans (AngularZone)
+  - «Let's Build a Web Application (and Talk About Ways to Improve Bad Parts)», Игорь Фесенко (SoftServe)
   - «Treasure hunt in the land of Reactive frameworks», Григорий Шехет (Grammarly)
   - «Hyperops», Mathias Buus
   - «О драконах ни слова», Илья Климов (WookieeLabs)
   - «Architecting React Native app», Филипп Шурпик (Debitoor)
   - «Isomorphic React apps in production», Борис Могила (RIA.com)
   - «Критерии выбора JS-фреймворков», Юрий Лучанинов (MobiDev)
-  - «Как open source помогает в профессии и почему его нужно делать», Paul Miller (Hell Yeah)
+  - «Как подняться на open source», Paul Miller (Hell Yeah)
   - «Web Apps Performance & JavaScript Compilers», Роман Лютиков (Attendify)
   - «Разработка realtime SPA с использованием VueJS и RethinkDB», Сергей Морковкин (Lohika)
   - «Riot.JS, или как приготовить современные Web Components», Анджей Гужовский (BetLab)
