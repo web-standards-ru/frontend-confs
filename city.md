@@ -12,24 +12,6 @@
 
 ## Киев
 
-### [Web Standards Days](https://wsd.events/2016/11/26/)
-
-26 ноября
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «&lt;head&gt; — всему голова», Роман Ганин (FBS)
-  - «Как незрячие люди видят ваш сайт», Дмитро Попов
-  - «Ленивый верстальщик», Юрий Артюх (Coderiver)
-  - «Вы не знаете CSS», Антон Немцев
-  - «Я и ИоТ», Вадим Макеев (Opera)
-  - «Polymer, год вместе», Артур Пархисенко (LiveStream)
-  - «Радуйся коду с ELM», Григорий Шехет (Grammarly)
-  - «Консоль в массы. Переход на светлую сторону», Виталий Рыбка (NOOSPHERE)
-  - «Тестирование UI с помощью Gemini», Сергей Пузанков (Luxoft)
-</details>
-
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
 4 декабря
