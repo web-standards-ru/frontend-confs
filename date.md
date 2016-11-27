@@ -26,6 +26,7 @@
   <summary>**Доклады**</summary>
 
   - «Grid’ы – панацея или нет?», Олег Мохов (Яндекс)
+  - «Подходы к построению критических стилей во фронтенде», Мария Гришкевич (Фьюз Эйт Онлайн)
   - «Короче_», Сергей Жигалов (Яндекс)
 </details>
 
@@ -41,6 +42,10 @@
   - «Обещание JavaScript = Promise HELL», Mikhail Poluboyarinov
   - «Секретный доклад», Андрей Ситник
 </details>
+
+### [Web Dev Meetup Frontend](https://radyushin.timepad.ru/event/411681/)
+
+3 декабря, Тольятти
 
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
