@@ -7,18 +7,7 @@
 
 ## Декабрь
 
-### [FRONTday](http://frontday.ru/)
-
-2 декабря, Челябинск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Кроссбраузерное тестирование без потери средств и рассудка», Мария Штырова
-  - «Как живут и выживают тестировщики», Марина Островская
-</details>
-
-### [FrontendFellows #10](https://frontendfellows.timepad.ru/event/406582/)
+### [FrontendFellows #10 совместно с FrontDay](https://frontendfellows.timepad.ru/event/406582/)
 
 2 декабря, Челябинск
 
@@ -27,6 +16,7 @@
 
   - «Grid’ы – панацея или нет?», Олег Мохов (Яндекс)
   - «Подходы к построению критических стилей во фронтенде», Мария Гришкевич (Фьюз Эйт Онлайн)
+  - «Кроссбраузерное тестирование без потери средств и рассудка», Мария Штырова
   - «Короче_», Сергей Жигалов (Яндекс)
 </details>
 
@@ -47,6 +37,14 @@
 
 3 декабря, Тольятти
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Vue.js — Progressive JavaScript Framework», Владислав Смирнов
+  - «Yarn! Замена NPM?», Алексей Ульянов
+  - «60FPS — Ускоряем Веб», Евгений Джумак
+</details>
+
 ### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
 
 4 декабря, Киев
@@ -61,7 +59,6 @@
   - «Еще несколько слов об архитектуре», Алексей Волков (Rumble)
   - «React Native vs. React+WebView», Алексей Косинский
   - «The Road to Native Web Components», Michael North (Levanto Financial)
-  - «RxJS 5 - In-depth», Gerard Sans (AngularZone)
   - «Let's Build a Web Application (and Talk About Ways to Improve Bad Parts)», Игорь Фесенко (SoftServe)
   - «Treasure hunt in the land of Reactive frameworks», Григорий Шехет (Grammarly)
   - «Hyperops», Mathias Buus
@@ -156,10 +153,12 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «Проектирование интерфейсов от сохи», Илья Якямсев (Blackbox)
   - «PostCSS» как метод написания CSS будущего, находясь в настоящем», Артём Белов (Право.ру)
-  - «Резюме-ориентированная разработка веб-приложений», Денис Ермаков (Веблайм)
+  - «Как сделать так, чтобы бэкендер полюбил фронтендера», Алексей Дацков (Доминион)
   - «Инструментарий разработчика — пора идти в облако», Артём Лисовский (Директ Лайн)
   - «Ботоведение. Как и зачем делать ботов?», Рустам Галиуллин и Дмитрий Власов (4Taps)
+  - «Изоморфные приложения на Angular 2», Константин Макарычев (Provectus)
 </details>
 
 ## Февраль
