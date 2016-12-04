@@ -7,58 +7,6 @@
 
 ## Декабрь
 
-### [PiterJS #11](https://meetabit.com/events/299)
-
-3 декабря, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «React vs Angular 2: сравнение фреймворков без холивара», Maxim Grebenshikov
-  - «Просто о WebRTC: как сделать видеочат», Arseny
-  - «Обещание JavaScript = Promise HELL», Mikhail Poluboyarinov
-  - «Секретный доклад», Андрей Ситник
-</details>
-
-### [Web Dev Meetup Frontend](https://radyushin.timepad.ru/event/411681/)
-
-3 декабря, Тольятти
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Vue.js — Progressive JavaScript Framework», Владислав Смирнов
-  - «Yarn! Замена NPM?», Алексей Ульянов
-  - «60FPS — Ускоряем Веб», Евгений Джумак
-</details>
-
-### [Most JS Frameworks Day 2016](http://frameworksdays.com/event/most-js-fwdays-2016)
-
-4 декабря, Киев
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «PhaserJS for advertisment: игры внутри баннеров», Юлия Пучнина
-  - «Как быть хорошим фронтенд-разработчиком», Евгений Жарков (Juno)
-  - «Reactive Music Apps in Angular and RxJS», Tero Parviainen
-  - «Міграція даних в Node.js REST API і MongoDB», Андрей Шумада (Ciklum/Debitoor)
-  - «Еще несколько слов об архитектуре», Алексей Волков (Rumble)
-  - «React Native vs. React+WebView», Алексей Косинский
-  - «The Road to Native Web Components», Michael North (Levanto Financial)
-  - «Let's Build a Web Application (and Talk About Ways to Improve Bad Parts)», Игорь Фесенко (SoftServe)
-  - «Treasure hunt in the land of Reactive frameworks», Григорий Шехет (Grammarly)
-  - «Hyperops», Mathias Buus
-  - «О драконах ни слова», Илья Климов (WookieeLabs)
-  - «Architecting React Native app», Филипп Шурпик (Debitoor)
-  - «Isomorphic React apps in production», Борис Могила (RIA.com)
-  - «Критерии выбора JS-фреймворков», Юрий Лучанинов (MobiDev)
-  - «Как подняться на open source», Paul Miller (Hell Yeah)
-  - «Web Apps Performance & JavaScript Compilers», Роман Лютиков (Attendify)
-  - «Разработка realtime SPA с использованием VueJS и RethinkDB», Сергей Морковкин (Lohika)
-  - «Riot.JS, или как приготовить современные Web Components», Анджей Гужовский (BetLab)
-</details>
-
 ### [Krasnodar Dev Days #1](https://krddevdays.timepad.ru/event/392666/)
 
 10 декабря, Краснодар
