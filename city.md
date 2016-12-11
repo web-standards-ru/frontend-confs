@@ -9,6 +9,12 @@
 - [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
 
+## Киев
+
+### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
+
+Апрель, Киев, от 4000 руб.
+
 ## Минск
 
 ### [MinskCSS #1](http://minskcss.by/)
@@ -22,7 +28,7 @@
   - «Лапша в CSS», Наталия Короткова (Paralect)
 </details>
 
-## [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
+### [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
 
 18 и 19 февраля
 
@@ -55,6 +61,10 @@
 1 и 2 апреля
 
 ## Санкт-Петербург
+
+### [pitercss №8](https://pitercss.timepad.ru/event/417414/)
+
+21 декабря
 
 ### [pitercss conference](https://pitercss.com/)
 
