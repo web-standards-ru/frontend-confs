@@ -1,21 +1,13 @@
 # По городам
 
 - **[Киев](#Киев)**
-- [Краснодар](#Краснодар)
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Нижний Новогород](#Нижний-Новогород)
 - [Новосибирск](#Новосибирск)
 - **[Санкт-Петербург](#Санкт-Петербург)**
-- [Таганрог](#Таганрог)
 - [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
-
-## Краснодар
-
-### [Krasnodar Dev Days #1](https://krddevdays.timepad.ru/event/392666/)
-
-10 декабря
 
 ## Минск
 
@@ -35,52 +27,6 @@
 18 и 19 февраля
 
 ## Москва
-
-### [Я.Субботник](https://events.yandex.ru/events/yasubbotnik/10-dec-2016/)
-
-10 декабря
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Как я попала в Яндекс и чему научилась — советы начинающим разработчикам и не только», Анна Тютюнник
-  - «Наш взгляд на progressive web apps», Антон Кричевский
-  - «Iframe v Script», Всеволод Шмыров
-  - «Как функциональное программирование может сделать жизнь проще», Сергей Ткаченко
-  - «Пишем Selenium-тесты прямо в браузере», Виталий Потапов
-  - «Gemini: различные способы использования», Антон Усманский
-  - «Living the GNU/Linux dream», Петър Додев
-  - «Гибкая настройка внешнего вида выдачи, или зачем нам понадобилось переопределять константы», Руслан Муфтиев
-</details>
-
-### [HolyJS](http://holyjs.ru/)
-
-11 декабря, от 7000 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «ECMAScript: latest and upcoming features», Axel Rauschmayer
-  - «Building Interactive npm Command Line Modules», Irina Shestak
-  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
-  - Секретный доклад, Андрей Ситник
-  - «3L3M3NT5», Martin Kleppe
-  - «Как подойти к современным веб-приложениям», Никита Прокопов
-  - «Debugging Node.js Performance Issues in Production»,Thomas Watson
-  - «Веб-приложения: дробим монолит», Виктор Грищенко 
-  - «WebVR is the next frontier», Martin Splitt
-  - «A Little Closer to Frontend Bliss with Elm», Tereza Sokol
-  - «Dr. Strangelove or: How I Learned to Stop Worrying and Love the Serverless Chatbots», Slobodan Stojanovic
-  - «Performance Profiling for V8», Franziska Hinkelmann
-  - «Remote (dev)tools своими руками»,Роман Дворнов
-  - «Rich text editing with Draft.js», Nikolaus Graf
-  - «Как современные библиотеки и фреймворки работают с DOM», Вячеслав Слинько
-  - «Offline is the new Black», Max Stoiber (Thinkmill)
-  - «Sharing files and data with friends using a P2P shared folder powered by Javascript», Mathias Buus Madsen
-  - «Мутация web», Павел Кондратенко
-  - «Модульный CSS», Андрей Оконечников
-  - «debugger;», Денис Мишунов
-</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
@@ -113,18 +59,6 @@
 ### [pitercss conference](https://pitercss.com/)
 
 Июнь
-
-## Таганрог
-
-### [Azov Developers Meetup 2016](https://it61.info/events/2016-12-10-azov-developers-meetup-2016-104)
-
-10 декабря
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Обзор Angular 2»
-</details>
 
 ## Тольятти
 
