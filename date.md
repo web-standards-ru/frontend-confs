@@ -47,13 +47,21 @@
   - «Здесь и сейчас», Николай Руфеев (Интерпретация)
 </details>
 
+### [pitercss №8](https://pitercss.timepad.ru/event/417414/)
+
+21 декабря, Санкт-Петербург
+
 ## Февраль
 
-## [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
+### [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
 
 18 и 19 февраля, Минск
 
 ## Апрель
+
+### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
+
+Апрель, Киев, от 4000 руб.
 
 ### [CodeFest](http://2017.codefest.ru/)
 
