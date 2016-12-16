@@ -17,17 +17,6 @@
 
 ## Минск
 
-### [MinskCSS #1](http://minskcss.by/)
-
-15 декабря
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «All you need is CSS», Анна Селезнёва (Evil Martians)
-  - «Лапша в CSS», Наталия Короткова (Paralect)
-</details>
-
 ### [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
 
 18 и 19 февраля

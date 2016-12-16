@@ -7,17 +7,6 @@
 
 ## Декабрь
 
-### [MinskCSS #1](http://minskcss.by/)
-
-15 декабря, Минск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «All you need is CSS», Анна Селезнёва (Evil Martians)
-  - «Лапша в CSS», Наталия Короткова (Paralect)
-</details>
-
 ### [Positive JS NN #5](https://www.it52.info/events/2016-12-17-positive-js-nn-5)
 
 17 декабря, Нижний Новгород
