@@ -36,9 +36,36 @@
   - «Здесь и сейчас», Николай Руфеев (Интерпретация)
 </details>
 
+### [4front #14](https://twitter.com/4frontby/status/809017746176479232)
+
+21 декабря, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Angular JS 2 vs VueJS», Борис Мосунов
+  - «MathML. Что это?.. Зачем это?..», Даниил Цыркунов
+  - «Генетический алгоритм», Александр Поташко
+  - «Доклад 21+. Что нужно знать front-end разработчику о Rust», Владимир Дашукевич
+</details>
+
 ### [pitercss №8](https://pitercss.timepad.ru/event/417414/)
 
 21 декабря, Санкт-Петербург
+
+### [WebPurple Meetup #15](https://webpurple.timepad.ru/event/422185/)
+
+22 декабря, Рязань
+
+### [The Rolling Scopes #32](https://minsk.rollingscopes.com/)
+
+23 декабря, Минск
+
+## Январь
+
+### [Web Standards Days](https://wsd.events/2017/01/28/)
+
+28 января, Москва
 
 ## Февраль
 
@@ -55,6 +82,10 @@
 ### [CodeFest](http://2017.codefest.ru/)
 
 1 и 2 апреля, Новосибирск
+
+### [DUMP 2017](http://dump-conf.ru/)
+
+14 апреля, Екатеринбург
 
 ### [Стачка](http://nastachku.ru)
 
