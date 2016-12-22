@@ -6,6 +6,10 @@
 
 ## Январь
 
+### [RND.JS](https://it61.info/events/2017-01-06-rnd-js-06-01-17-108)
+
+6 января, Ростов-на-Дону
+
 ### [Web Standards Days](https://wsd.events/2017/01/28/)
 
 28 января, Москва
@@ -33,6 +37,10 @@
 ### [Стачка](http://nastachku.ru)
 
 14 и 15 апреля, Ульяновск, 990 руб.
+
+### [KharkivCSS #2](http://kharkivcss.org)
+
+15 апреля, Харьков
 
 ## Июнь
 
