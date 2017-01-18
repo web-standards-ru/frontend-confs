@@ -1,5 +1,6 @@
 # По городам
 
+- **[Астана](#Астана)**
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
 - **[Минск](#Минск)**
@@ -9,17 +10,32 @@
 - [Ульяновск](#Ульяновск)
 - [Харьков](#Харьков)
 
+## Астана
+
+### [AST Frontend meetup #3](https://astfrontend.timepad.ru/event/432398/)
+
+11 февраля
+
 ## Екатеринбург
 
 ### [DUMP 2017](http://dump-conf.ru/)
 
-14 апреля
+14 апреля, от 4000 руб.
 
 ## Киев
 
 ### [KyivJS](http://kyivjs.org)
 
 21 января
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Best practices of Node.js use in production», Никита Галкин
+  - «‘This time I’ll build things the right way’», Алексей Распопов
+  - «Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз», Тимур Шемсединов и Алексей Орленко
+  - «Z», Александр Шпак
+</details>
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
 
@@ -40,14 +56,20 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «Поговорим о наших младших товарищах», Сергей Попов (Setka)
   - «Играем в браузере», Всеволод Шмыров (Яндекс)
   - «Здесь водятся драконы», Лев Солнцев (МойОфис)
   - «Мой ванильный CSS», Вадим Макеев
   - «JSX? Пфф!», Владимир Гриненко (Яндекс)
+  - «Сбертехнологии фронтенда», Александра Воробьёва (Сбербанк-Технологиях)
   - «CSS-in-JS. Назад в будущее!», Никита Мостовой (HeadHunter)
   - «Веб-компоненты: светлое настоящее», Вадим Черненко (Яндекс)
   - «Brunch — последний сборщик, который вам будет нужен», Алексей Швайка (Hell Yeah)
 </details>
+
+### [Yet another Conference 2017](https://events.yandex.ru/events/yac/30-may-2017/)
+
+30 мая
 
 ### [FrontendConf](http://frontendconf.ru/)
 
@@ -69,6 +91,16 @@
 ### [pitercss conference](https://pitercss.com/)
 
 Июнь
+
+### [HolyJS](https://holyjs-piter.ru)
+
+2 и 3 июня
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Build Cross-Platform Desktop Apps with Electron», (Feross Aboukhadijeh)
+</details>
 
 ## Ульяновск
 
