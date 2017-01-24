@@ -24,19 +24,6 @@
 
 ## Киев
 
-### [KyivJS](http://kyivjs.org)
-
-21 января
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Best practices of Node.js use in production», Никита Галкин
-  - «‘This time I’ll build things the right way’», Алексей Распопов
-  - «Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз», Тимур Шемсединов и Алексей Орленко
-  - «Z», Александр Шпак
-</details>
-
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
 
 Апрель, Киев, от 4000 руб.
@@ -83,10 +70,6 @@
 1 и 2 апреля
 
 ## Санкт-Петербург
-
-### [pitercss №9](https://pitercss.timepad.ru/event/429617/)
-
-24 января
 
 ### [pitercss conference](https://pitercss.com/)
 

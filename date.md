@@ -8,23 +8,6 @@
 
 ## Январь
 
-### [KyivJS](http://kyivjs.org)
-
-21 января, Киев
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Best practices of Node.js use in production», Никита Галкин
-  - «‘This time I’ll build things the right way’», Алексей Распопов
-  - «Путешествие вглубь Node.js» или как начать писать RPC и случайно ускорить node_redis в 10 раз», Тимур Шемсединов и Алексей Орленко
-  - «Z», Александр Шпак
-</details>
-
-### [pitercss №9](https://pitercss.timepad.ru/event/429617/)
-
-24 января, Санкт-Петербург
-
 ### [Web Standards Days](https://wsd.events/2017/01/28/)
 
 28 января, Москва
