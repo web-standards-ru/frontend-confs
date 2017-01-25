@@ -5,8 +5,13 @@
 - [Апрель](#Апрель)
 - [Май](#Май)
 - [Июнь](#Июнь)
+- [Июль](#Июль)
 
 ## Январь
+
+### [BEMup](https://events.yandex.ru/events/bemup/27-january-2017/)
+
+27 января, Москва
 
 ### [Web Standards Days](https://wsd.events/2017/01/28/)
 
@@ -26,11 +31,38 @@
   - «Brunch — последний сборщик, который вам будет нужен», Алексей Швайка (Hell Yeah)
 </details>
 
+### [SPB Frontend](https://spb-frontend-events.timepad.ru/event/435462)
+
+31 января, Санкт-Петербург
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Electron: от мотивации до публикации», Виктор Пасынок (Суперкасса)
+  - «Инструменты статического анализа JavaScript», Андрей Попп
+  - «Чанки-чанки-чанки», Валентин Семирульник (Kupibilet.ru)
+</details>
+
 ## Февраль
 
 ### [AST Frontend meetup #3](https://astfrontend.timepad.ru/event/432398/)
 
 11 февраля, Астана
+
+### [KyivJS](http://kyivjs.org)
+
+11 февраля, Киев
+
+### [Съесть собаку](https://eatdog.com.ua/)
+
+16 февраля, Харьков
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Принципы SOLID на практике», Андрей Музалевский
+  - «Mapbox GL: как работают современные интерактивные карты», Владимир Агафонкин
+</details>
 
 ### [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
 
@@ -41,6 +73,10 @@
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
 
 Апрель, Киев, от 4000 руб.
+
+### [SECON'2017](http://2017.secon.ru)
+
+21 и 22 апреля, Пенза
 
 ### [CodeFest](http://2017.codefest.ru/)
 
@@ -84,3 +120,9 @@
 ### [pitercss conference](https://pitercss.com/)
 
 Июнь, Санкт-Петербург
+
+## Июль
+
+### [WebCamp'17](http://webcamp.in.ua)
+
+7–9 июля, Одесса
