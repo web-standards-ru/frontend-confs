@@ -9,41 +9,6 @@
 
 ## Февраль
 
-### [PiterJS №12](https://meetabit.com/events/piterjs-12)
-
-9 февраля, Санкт-Петербург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «В релиз с React Native», Andrey Skladchikov
-  - «Один код для сборки под web, iOS и Android», Artem Marchenko
-</details>
-
-### [AST Frontend meetup #3](https://astfrontend.timepad.ru/event/432398/)
-
-11 февраля, Астана
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Паттерны функционального программирования», Таир Сабыргалиев (ТОО Метафор)
-  - «JavaScript: новая надежда», Сергей Смирнов
-</details>
-
-### [KyivJS](http://kyivjs.org)
-
-11 февраля, Киев
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Styling React App or CSS in JS», Гриша Шехет
-  - «Dude, where are my logs?», Андрій Шумада
-  - «TurboFan: yet another optimization engine», Илья Климов
-  - «Why I love Create React App and don’t want to eject», Валерий Сорокобатько
-</details>
-
 ### [Съесть собаку](https://eatdog.com.ua/)
 
 16 февраля, Харьков

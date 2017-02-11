@@ -1,6 +1,5 @@
 # По городам
 
-- **[Астана](#Астана)**
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
 - **[Минск](#Минск)**
@@ -13,19 +12,6 @@
 - [Ульяновск](#Ульяновск)
 - [Харьков](#Харьков)
 
-## Астана
-
-### [AST Frontend meetup #3](https://astfrontend.timepad.ru/event/432398/)
-
-11 февраля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Паттерны функционального программирования», Таир Сабыргалиев (ТОО Метафор)
-  - «JavaScript: новая надежда», Сергей Смирнов
-</details>
-
 ## Екатеринбург
 
 ### [DUMP 2017](http://dump-conf.ru/)
@@ -33,19 +19,6 @@
 14 апреля, от 4000 руб.
 
 ## Киев
-
-### [KyivJS](http://kyivjs.org)
-
-11 февраля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Styling React App or CSS in JS», Гриша Шехет
-  - «Dude, where are my logs?», Андрій Шумада
-  - «TurboFan: yet another optimization engine», Илья Климов
-  - «Why I love Create React App and don’t want to eject», Валерий Сорокобатько
-</details>
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
 
@@ -94,17 +67,6 @@
 21 и 22 апреля
 
 ## Санкт-Петербург
-
-### [PiterJS №12](https://meetabit.com/events/piterjs-12)
-
-9 февраля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «В релиз с React Native», Andrey Skladchikov
-  - «Один код для сборки под web, iOS и Android», Artem Marchenko
-</details>
 
 ### [pitercss conference](https://pitercss.com/)
 
