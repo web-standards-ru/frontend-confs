@@ -154,6 +154,8 @@
   <summary>**Доклады**</summary>
 
   - «Почему я не могу пользоваться твоим сайтом?», Иван Бакаидов
+  - «Adaptive or dead», Денис Воронов
+  - «Как не писать CSS и радоваться жизни», Алексей Сафин
 </details>
 
 ### [pitercss conference](https://pitercss.com/)
