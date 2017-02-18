@@ -1,6 +1,5 @@
 # По датам
 
-- [Январь](#Январь)
 - [Февраль](#Февраль)
 - [Март](#Март)
 - [Апрель](#Апрель)
@@ -96,6 +95,18 @@
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
 
 Апрель, Киев, от 4000 руб.
+
+### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
+
+6-7 апреля, Минск, от 4750 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как приручить WebVR», Дмитрий Барталевич
+  - «Применяя стандарты кодирования NASA к JavaScript», Денис Радин
+  - «Vue.JS: На что я променял React в 2017 и почему?», Илья Климов
+</details>
 
 ### [SECON'2017](http://2017.secon.ru)
 
