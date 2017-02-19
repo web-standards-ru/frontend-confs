@@ -12,6 +12,7 @@
 - [Одесса](#Одесса)
 - [Пенза](#Пенза)
 - **[Санкт-Петербург](#Санкт-Петербург)**
+- [Томск](#Томск)
 - [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
 - [Харьков](#Харьков)
@@ -171,6 +172,21 @@
 
   - «Build Cross-Platform Desktop Apps with Electron», (Feross Aboukhadijeh)
   - «Rendering performance from the ground up», Martin Splitt (Archilogic)
+</details>
+
+## Томск
+
+### [TomskJS Meetup #2](https://tomskjs.timepad.ru/event/447861/)
+
+18 марта
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Введение в Cycle.js», Максим Самойлов
+  - «Обучение фронтенду, взгляд со стороны работодателя», Сергей Черепанов
+  - «Как мы пришли к TypeScript», Никита Размахнин
+
 </details>
 
 ## Тольятти

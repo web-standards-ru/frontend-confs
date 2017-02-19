@@ -84,6 +84,19 @@
   - «Новые фичи в CSS», Андрей Макаров
 </details>
 
+### [TomskJS Meetup #2](https://tomskjs.timepad.ru/event/447861/)
+
+18 марта
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Введение в Cycle.js», Максим Самойлов
+  - «Обучение фронтенду, взгляд со стороны работодателя», Сергей Черепанов
+  - «Как мы пришли к TypeScript», Никита Размахнин
+
+</details>
+
 ### [DevParty 2017](https://devparty.ru)
 
 25 марта, Вологда
