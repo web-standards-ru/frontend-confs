@@ -9,45 +9,6 @@
 
 ## Февраль
 
-### [WebDev Meetup](http://wdmeetup.ru)
-
-18 февраля, Тольятти
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Nginx + Lua - быстрый и мощный сервер приложений», Владислав Смирнов (Radyushin & Company)
-</details>
-
-### [RS Conf 2017](https://2017.conf.rollingscopes.com/index.html)
-
-18 и 19 февраля, Минск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «WARPSPEED: High performance tricks: Web Workers, GPU computing and Web Assembly», Martin Splitt
-  - «Front-end As I See It», Anna Selezniova
-  - «Dynamic Analysis with Babel», Matt Zeunert
-  - «Machine learning and neural nets in JavaScript», Vsevolod Rodionov
-  - «Surviving the offline status», Rafael Teixeira Fernandes
-  - «Why (Mobile) Web Compatibility is (so) important?», Stefania Ioana Chiorean
-  - «“I can’t work on my phone” - desktop all the things», Stefan Judis
-  - «GraphQL beyond the limit», Gabriel Mičko
-  - «Workshop: Automate it! Or how to set up dev tools in WebStorm», Ekaterina Prigara
-  - «Unleashing The Power Of Patterns with Angular 2», Dmitriy Schekhovtsov
-  - «How We Moved To HTTP/2 To Improve Performance... And Failed», Vitaly Friedman
-  - «ECMAScript 2017 and beyond», Dr. Axel Rauschmayer
-  - «Service Design: Case study», Vital Varanovich
-  - «Making PWAs with Polymer», Martin Splitt
-  - «My Vanilla CSS», Vadim Makeev
-  - «Миграция с Angular 1 на Angular 2+», Andrei Palchys
-  - «Service Workers, the gotchas in your path to production», Antoni Huguet Vives
-  - «Designing for Composability», Andrey Listochkin
-  - «Shells written in JavaScript», Denys Dovhan
-  - «Lodash QuickDraw!», Alexander Gerasimov
-</details>
-
 ### [pitercss №10](https://pitercss.timepad.ru/event/442550/)
 
 21 февраля, Санкт-Петербург
