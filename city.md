@@ -75,6 +75,13 @@
 
 2 марта
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Несколько фишек CSS, о которых вы могли не знать», Людмила Мжачих
+  - «CSS-методологии от О до Б»,  Алексей Охрименко
+</details>
+
 ### [Yet another Conference 2017](https://events.yandex.ru/events/yac/30-may-2017/)
 
 30 мая
