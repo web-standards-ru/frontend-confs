@@ -42,6 +42,17 @@
 
 ## Минск
 
+### [MinskJS Meetup #1](https://www.facebook.com/events/648975141952649/)
+
+1 марта
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Webpack для реальных задач», Иван Акулов
+  - «Создание универсальных (изоморфных) библиотек на JS», Евгений Миротин
+</details>
+
 ### [MinskCSS Meetup #2](http://minskcss.by/)
 
 30 марта
