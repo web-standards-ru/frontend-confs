@@ -144,10 +144,6 @@
   - «λ в js без фанатизма», Михаил Синяков, (X-Card)
 </details>
 
-### [Yet another Conference 2017](https://events.yandex.ru/events/yac/30-may-2017/)
-
-30 мая, Москва
-
 ## Июнь
 
 ### [HolyJS](https://holyjs-piter.ru)

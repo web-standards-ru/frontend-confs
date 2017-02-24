@@ -82,10 +82,6 @@
   - «CSS-методологии от О до Б»,  Алексей Охрименко
 </details>
 
-### [Yet another Conference 2017](https://events.yandex.ru/events/yac/30-may-2017/)
-
-30 мая
-
 ### [FrontendConf](http://frontendconf.ru/)
 
 5 и 6 июня  
