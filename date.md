@@ -153,7 +153,9 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Build Cross-Platform Desktop Apps with Electron», (Feross Aboukhadijeh)
+  - «Переносим существующее web-приложение в виртуальную реальность», Денис Радин
+  - «The Post JavaScript Apocalypse», Douglas Crockford
+  - «Typing, Goto There and Back Again», Douglas Crockford
   - «Rendering performance from the ground up», Martin Splitt (Archilogic)
 </details>
 
