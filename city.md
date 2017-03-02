@@ -60,6 +60,18 @@
 
 ## Москва
 
+### [Angular 2.0 Meetup](https://meetup.tinkoff.ru/)
+
+16 марта
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «SPA на сервере своими руками», Иван Матвейчук (Rambler&Co)
+  - «Дружим ng1 с ng2», Михаил Желудев (Tinkoff.ru)
+  - «Динамическое создание компонентов в Angular на примере модальных окон», Андрей Яманов (Skyeng)
+</details>
+
 ### [FrontendConf](http://frontendconf.ru/)
 
 5 и 6 июня  
