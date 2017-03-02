@@ -26,9 +26,23 @@
   - «Новые фичи в CSS», Андрей Макаров
 </details>
 
+### [KhJS #1](http://khjs.org/)
+
+11 марта, Харьков
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «KhJS: На пути к лучшему сообществу», Илья Климов
+  - «ClojureScript для нетерпеливых», Александр Лапшин
+  - «Троянская Война: Sinon.JS», Александра Калинина
+  - «Vue.JS: Точка горения», Андрей Канунников
+
+</details>
+
 ### [TomskJS Meetup #2](https://tomskjs.timepad.ru/event/447861/)
 
-18 марта
+18 марта, Томск
 
 <details>
   <summary>**Доклады**</summary>
