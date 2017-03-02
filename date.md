@@ -8,28 +8,6 @@
 
 ## Март
 
-### [MinskJS Meetup #1](https://www.facebook.com/events/648975141952649/)
-
-1 марта, Минск
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Webpack для реальных задач», Иван Акулов
-  - «Создание универсальных (изоморфных) библиотек на JS», Евгений Миротин
-</details>
-
-### [moscowcss №1](https://moscowcss.timepad.ru/event/443474/)
-
-2 марта, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Несколько фишек CSS, о которых вы могли не знать», Людмила Мжачих
-  - «CSS-методологии от О до Б»,  Алексей Охрименко
-</details>
-
 ### [Expert Fridays Front-end Meetup](http://expertfridays.com/meetups/front-end-meetup-2/)
 
 3 марта, Казань
