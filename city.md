@@ -3,7 +3,6 @@
 - [Вологда](#Вологда)
 - [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
-- [Казань](#Казань)
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Нижний Новгород](#Нижний-Новгород)
@@ -33,12 +32,6 @@
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
 
 Апрель, от 4000 руб.
-
-## Казань
-
-### [Expert Fridays Front-end Meetup](http://expertfridays.com/meetups/front-end-meetup-2/)
-
-3 марта
 
 ## Минск
 
