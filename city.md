@@ -118,6 +118,12 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «Старикам тут не место?», Алексей Симоненко (HTMLAcademy)
+  - «Multiplayer WebVR», Martin Splitt (Archilogic)
+  - «Creating Desktop Apps for Windows, Mac OS and Linux with your favorite web-tools and Electron», Don Wibier (DevExpress)
+  - «New Adventures in Responsive Web Design», Vitaly Friedman (Smashing Magazine)
+  - «Ваш CSS нас не устраивает, мы придумаем свой», Роман Прудников (2ГИС)
+  - «Artec 3D web player», Василика Климова (Artec3D)
   - «Клиенту и серверу нужно поговорить», Никита Прокопов (Cognician)
   - «Rempl — крутая платформа для крутых инструментов», Роман Дворнов (Авито)
   - «Бешеные псы: Angular 2 и React лицом к лицу», Евгений Гусев (Wrike)
