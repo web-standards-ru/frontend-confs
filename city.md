@@ -63,6 +63,12 @@
 <details>
   <summary>**Доклады**</summary>
 
+  - «Offline Second», Алексей Богачук
+  - «Непрерывная интеграция для frontend», Константин Кривленя
+  - «Building a better login with the credential management API», James Allardice
+  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
+  - «Организация разработки frontend продукта на микросервисах», Максим Волошин
+  - «Dependencies in component web done right», Vladimir Grinenko
   - «Как приручить WebVR», Дмитрий Барталевич
   - «Применяя стандарты кодирования NASA к JavaScript», Денис Радин
   - «Vue.JS: На что я променял React в 2017 и почему?», Илья Климов
