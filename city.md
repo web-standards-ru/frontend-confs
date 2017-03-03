@@ -44,6 +44,14 @@
 
 14 апреля, от 4000 руб.
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Документация REST API», Артём Кузвесов (Ideco)
+  - «Жизнь без интернета», Артём Кувалдин (Яндекс)
+  - «Клиенту и серверу нужно поговорить», Никита Прокопов (Cognician)
+</details>
+
 ## Киев
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
