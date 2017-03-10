@@ -35,6 +35,16 @@
 
 </details>
 
+### [Front-end & SQA meetup](http://frontday.ru/)
+
+17 марта, Челябинск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «10 ошибок при использовании веб-шрифтов», Михаил Пикалов
+</details>
+
 ### [TomskJS Meetup #2](https://tomskjs.timepad.ru/event/447861/)
 
 18 марта, Томск
