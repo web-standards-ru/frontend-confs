@@ -8,24 +8,6 @@
 
 ## Март
 
-### [Expert Fridays Front-end Meetup](http://expertfridays.com/meetups/front-end-meetup-2/)
-
-3 марта, Казань
-
-### [JS NN #5](https://www.it52.info/events/2017-03-04-js-nn-5)
-
-4 марта, Нижний Новгород
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Обзор Riot.js», Михаил Ангелов
-  - «Анализ производительности в React.js», Сергей Смышляев
-  - «LoopBack», Дмитрий Родичев
-  - «Использование RxJs для связывания компонентов приложения», Максим Голованёв
-  - «Новые фичи в CSS», Андрей Макаров
-</details>
-
 ### [KhJS #1](http://khjs.org/)
 
 11 марта, Харьков
