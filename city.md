@@ -96,6 +96,10 @@
   - «Динамическое создание компонентов в Angular на примере модальных окон», Андрей Яманов (Skyeng)
 </details>
 
+### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
+
+6 апреля
+
 ### [FrontendConf](http://frontendconf.ru/)
 
 5 и 6 июня  
