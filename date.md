@@ -49,6 +49,11 @@
 
 </details>
 
+### [pitercss №11](https://pitercss.timepad.ru/event/457274/)
+
+21 марта, Санкт-Петербург
+
+
 ### [DevParty 2017](https://devparty.ru)
 
 25 марта, Вологда
