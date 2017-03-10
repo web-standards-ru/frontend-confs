@@ -100,6 +100,10 @@
 
 Апрель, Киев, от 4000 руб.
 
+### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
+
+6 апреля, Москва
+
 ### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
 
 6-7 апреля, Минск, от 4750 руб.
