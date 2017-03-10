@@ -54,6 +54,11 @@
 21 марта, Санкт-Петербург
 
 
+### [PiterJS №13](https://meetabit.com/events/piterjs-13)
+
+23 марта, Санкт-Петербург
+
+
 ### [DevParty 2017](https://devparty.ru)
 
 25 марта, Вологда

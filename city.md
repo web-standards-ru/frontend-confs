@@ -139,6 +139,11 @@
 
 21 марта, Санкт-Петербург
 
+### [PiterJS №13](https://meetabit.com/events/piterjs-13)
+
+23 марта, Санкт-Петербург
+
+
 ### [pitercss conference](https://pitercss.com/)
 
 16 июня
