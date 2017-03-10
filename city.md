@@ -128,6 +128,10 @@
 
 ## Одесса
 
+### [Odessa JS 2017](https://odessajs.org/)
+
+1 и 2 июня
+
 ### [WebCamp'17](http://webcamp.in.ua)
 
 7–9 июля
