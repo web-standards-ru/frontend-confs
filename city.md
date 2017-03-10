@@ -151,6 +151,10 @@
 
 ## Санкт-Петербург
 
+### [pitercss №11](https://pitercss.timepad.ru/event/457274/)
+
+21 марта, Санкт-Петербург
+
 ### [pitercss conference](https://pitercss.com/)
 
 16 июня
