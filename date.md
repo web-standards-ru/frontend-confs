@@ -68,6 +68,9 @@
 
 23 марта, Санкт-Петербург
 
+### [JS Lab №3](http://jslab.in.ua/)
+
+25 марта, Одесса
 
 ### [DevParty 2017](https://devparty.ru)
 
