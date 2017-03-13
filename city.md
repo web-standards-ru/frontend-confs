@@ -128,6 +128,10 @@
 
 ## Одесса
 
+### [JS Lab №3](http://jslab.in.ua/)
+
+25 марта
+
 ### [Odessa JS 2017](https://odessajs.org/)
 
 1 и 2 июня
