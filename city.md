@@ -39,6 +39,14 @@
 
 30 марта
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Валидация веб-форм. Часть I. CSS», Павел Ловцевич
+  - «Отполифиль свой CSS», Василий Ванчук
+  - «Экстренный дизайн-гайд для разработчика», Игорь Кунцевич
+</details>
+
 ### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
 
 6-7 апреля, от 4750 руб.

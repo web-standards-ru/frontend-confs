@@ -12,6 +12,14 @@
 
 30 марта, Минск
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Валидация веб-форм. Часть I. CSS», Павел Ловцевич
+  - «Отполифиль свой CSS», Василий Ванчук
+  - «Экстренный дизайн-гайд для разработчика», Игорь Кунцевич
+</details>
+
 ## Апрель
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
