@@ -34,9 +34,21 @@
 
 ## Киев
 
-### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
+### [JavaScript fwdays'17 Conference](http://frameworksdays.com/event/js-frameworks-day-2017)
 
-Апрель, от 4000 руб.
+22 апреля
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Create Architecture and not Frameworks», Сергей Больщиков (Wix)
+  - «Progressive web apps with Polymer», Martin Splitt (Archilogic)
+  - «Testing in Node.js World», Никита Галкин (Ezetech)
+  - «Robust and efficient message-driven development», Алексей Распопов (DataRobot)
+  - «Vue.js или как наконец отказаться от React», Андрей Грачёв (Сrello)
+  - «Improve your web application using Progressive Web Metrics», Artem Denysov (Ciklum)
+  - «How to improve Angular 2 performance?», Александр Трищенко (DataArt)
+</details>
 
 ## Минск
 

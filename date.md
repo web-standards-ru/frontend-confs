@@ -47,10 +47,6 @@
 
 ## Апрель
 
-### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
-
-Апрель, Киев, от 4000 руб.
-
 ### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
 
 6 апреля, Москва
@@ -160,6 +156,22 @@
   - «Velosipedium structuris», Олександр Шпак
   - «Функциональные анимации в вебе», Денис Яровой
   - «Мой ванильный CSS», Вадим Макеев
+</details>
+
+### [JavaScript fwdays'17 Conference](http://frameworksdays.com/event/js-frameworks-day-2017)
+
+22 апреля, Киев
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Create Architecture and not Frameworks», Сергей Больщиков (Wix)
+  - «Progressive web apps with Polymer», Martin Splitt (Archilogic)
+  - «Testing in Node.js World», Никита Галкин (Ezetech)
+  - «Robust and efficient message-driven development», Алексей Распопов (DataRobot)
+  - «Vue.js или как наконец отказаться от React», Андрей Грачёв (Сrello)
+  - «Improve your web application using Progressive Web Metrics», Artem Denysov (Ciklum)
+  - «How to improve Angular 2 performance?», Александр Трищенко (DataArt)
 </details>
 
 ## Май
