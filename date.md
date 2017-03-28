@@ -8,6 +8,18 @@
 
 ## Март
 
+### [Web Not Bombs: Frontend #8](https://www.facebook.com/events/272213209885390/)
+
+29 марта, Минск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Паттерны в примерах, картинках и шутках.», Elizaveta Selivanova и Irina Levina
+  - «ORM для толстого клиента», Василий Ванчук
+  - «Код, который тонет в воде», Максим Юзва
+</details>
+
 ### [MinskCSS Meetup #2](http://minskcss.by/)
 
 30 марта, Минск
