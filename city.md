@@ -62,6 +62,13 @@
 
 6 апреля
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Недокументированные приемы CSS», Дмитрий Григоров (Rambler&Co)
+  - «Пора начинать фыркать – Grid Layout уже здесь», Сергей Попов (Setka)
+</details>
+
 ### [FrontendConf](http://frontendconf.ru/)
 
 5 и 6 июня  
