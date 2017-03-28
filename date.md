@@ -70,6 +70,18 @@
   - «Бешеные псы: Angular 2 и React лицом к лицу», Евгений Гусев (Wrike)
 </details>
 
+### [SPA meetup #3](https://moscow-spa.timepad.ru/event/463443/)
+
+8 апреля, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Дизайн платформа в Avito», Александр Лобашев (Avito)
+  - «Работаем с API по-взрослому», Максим Кислов (Badoo)
+  - «Rempl — крутая платформа для крутых инструментов», Роман Дворнов (Avito)
+</details>
+
 ### [DUMP 2017](http://dump-conf.ru/)
 
 14 апреля, Екатеринбург, от 4000 руб.

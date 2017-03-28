@@ -69,6 +69,18 @@
   - «Пора начинать фыркать – Grid Layout уже здесь», Сергей Попов (Setka)
 </details>
 
+### [SPA meetup #3](https://moscow-spa.timepad.ru/event/463443/)
+
+8 апреля
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Дизайн платформа в Avito», Александр Лобашев (Avito)
+  - «Работаем с API по-взрослому», Максим Кислов (Badoo)
+  - «Rempl — крутая платформа для крутых инструментов», Роман Дворнов (Avito)
+</details>
+
 ### [FrontendConf](http://frontendconf.ru/)
 
 5 и 6 июня  
