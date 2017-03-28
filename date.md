@@ -47,40 +47,6 @@
 
 ## Апрель
 
-### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
-
-6 апреля, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Недокументированные приемы CSS», Дмитрий Григоров (Rambler&Co)
-  - «Пора начинать фыркать – Grid Layout уже здесь», Сергей Попов (Setka)
-</details>
-
-
-### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
-
-6-7 апреля, Минск, от 4750 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Offline Second», Алексей Богачук
-  - «Непрерывная интеграция для frontend», Константин Кривленя
-  - «Building a better login with the credential management API», James Allardice
-  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
-  - «Организация разработки frontend продукта на микросервисах», Максим Волошин
-  - «Dependencies in component web done right», Vladimir Grinenko
-  - «Как приручить WebVR», Дмитрий Барталевич
-  - «Применяя стандарты кодирования NASA к JavaScript», Денис Радин
-  - «Vue.JS: На что я променял React в 2017 и почему?», Илья Климов
-</details>
-
-### [SECON'2017](http://2017.secon.ru)
-
-21 и 22 апреля, Пенза
-
 ### [CodeFest](http://2017.codefest.ru/)
 
 1 и 2 апреля, Новосибирск
@@ -98,6 +64,47 @@
   - «Rempl — крутая платформа для крутых инструментов», Роман Дворнов (Авито)
   - «Бешеные псы: Angular 2 и React лицом к лицу», Евгений Гусев (Wrike)
   - «Свой протокол и кросс-платформенные парсеры за 30 минут», Виктор Грищенко (Realm)
+</details>
+
+### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
+
+6 апреля, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Недокументированные приемы CSS», Дмитрий Григоров (Rambler&Co)
+  - «Пора начинать фыркать – Grid Layout уже здесь», Сергей Попов (Setka)
+</details>
+
+### [UralJS #3](https://uraljs.timepad.ru/event/463916/)
+
+6 апреля, Екатеринбург
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Фантастический WebAudio и где его искать», Максим Сырых
+  - «Трудности перехода», Вячеслав Бухарин и Денис Омельков
+  - «Как перестать бояться и использовать Vue.js», Владислав Килин
+</details>
+
+### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
+
+6-7 апреля, Минск, от 4750 руб.
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Offline Second», Алексей Богачук
+  - «Непрерывная интеграция для frontend», Константин Кривленя
+  - «Building a better login with the credential management API», James Allardice
+  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
+  - «Организация разработки frontend продукта на микросервисах», Максим Волошин
+  - «Dependencies in component web done right», Vladimir Grinenko
+  - «Как приручить WebVR», Дмитрий Барталевич
+  - «Применяя стандарты кодирования NASA к JavaScript», Денис Радин
+  - «Vue.JS: На что я променял React в 2017 и почему?», Илья Климов
 </details>
 
 ### [SPA meetup #3](https://moscow-spa.timepad.ru/event/463443/)
@@ -157,6 +164,10 @@
   - «Функциональные анимации в вебе», Денис Яровой
   - «Мой ванильный CSS», Вадим Макеев
 </details>
+
+### [SECON'2017](http://2017.secon.ru)
+
+21 и 22 апреля, Пенза
 
 ### [JavaScript fwdays'17 Conference](http://frameworksdays.com/event/js-frameworks-day-2017)
 
