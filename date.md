@@ -20,6 +20,19 @@
   - «Экстренный дизайн-гайд для разработчика», Игорь Кунцевич
 </details>
 
+### [MoscowJS 36](https://moscowjs.timepad.ru/event/465895/)
+
+30 марта, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «PreJSS: универсальный адаптер CSS в JSS», Денис Измайлов (Axept)
+  - «Тестирование скриншотами: проблемы и решения», Александр Савин (SuperJob)
+  - «Harry Potter and the unstable_renderSubtreeIntoContainer(). React, Popup-ы, боль, магия и боль.», Иван Лягушкин (Альфа-Лаборатория)
+  - «Бенчмарки, почему всё плохо и что делать», Михаил Бусырев (Crazy Panda)
+</details>
+
 ## Апрель
 
 ### [JavaScript Frameworks Day](http://frameworksdays.com/event/js-frameworks-day-2017)
