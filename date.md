@@ -22,6 +22,14 @@
 
 6 апреля, Москва
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Недокументированные приемы CSS», Дмитрий Григоров (Rambler&Co)
+  - «Пора начинать фыркать – Grid Layout уже здесь», Сергей Попов (Setka)
+</details>
+
+
 ### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
 
 6-7 апреля, Минск, от 4750 руб.
