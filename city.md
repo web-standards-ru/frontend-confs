@@ -142,6 +142,9 @@
   - «The Post JavaScript Apocalypse», Douglas Crockford
   - «Typing, Goto There and Back Again», Douglas Crockford
   - «Rendering performance from the ground up», Martin Splitt (Archilogic)
+  - «The Hitchhiker's Guide to the Serverless Galaxy», Slobodan Stojanovic
+  - «JS UX: Writing code for humans», Lea Verou
+  - «Forgotten funky functions», Jakob Mattson
 </details>
 
 ## Тольятти
