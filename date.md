@@ -164,3 +164,7 @@
 ### [WebCamp'17](http://webcamp.in.ua)
 
 7–9 июля, Одесса
+
+### [Ulcamp-2017](https://2017.ulcamp.ru/)
+
+14—16 июля, Ульяновск
