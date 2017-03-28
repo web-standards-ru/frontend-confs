@@ -149,6 +149,10 @@
   - «Как подружить дизайнеров с разработчиками? Прототипирование на основе WebComponents», Виталий Грин (Альфа Лаборатория)
 </details>
 
+### [ChernivtsiJS](http://chernivtsi.js.org/)
+
+27 мая, Черновцы
+
 ## Июнь
 
 ### [Odessa JS 2017](https://odessajs.org/)
