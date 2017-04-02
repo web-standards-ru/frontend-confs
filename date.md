@@ -217,11 +217,6 @@
 
 ## Июнь
 
-### [Odessa JS 2017](https://odessajs.org/)
-
-1 и 2 июня, Одесса
-
-
 ### [HolyJS](https://holyjs-piter.ru)
 
 2 и 3 июня, Санкт-Петербург
@@ -248,6 +243,10 @@
 16 июня, Санкт-Петербург
 
 ## Июль
+
+### [Odessa JS 2017](https://odessajs.org/)
+
+1 и 2 июля, Одесса
 
 ### [WebCamp'17](http://webcamp.in.ua)
 
