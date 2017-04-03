@@ -4,7 +4,6 @@
 - **[Киев](#Киев)**
 - **[Минск](#Минск)**
 - **[Москва](#Москва)**
-- [Новосибирск](#Новосибирск)
 - [Одесса](#Одесса)
 - [Пенза](#Пенза)
 - **[Санкт-Петербург](#Санкт-Петербург)**
@@ -64,30 +63,6 @@
 
 ## Минск
 
-### [Web Not Bombs: Frontend #8](https://www.facebook.com/events/272213209885390/)
-
-29 марта
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Паттерны в примерах, картинках и шутках.», Elizaveta Selivanova и Irina Levina
-  - «ORM для толстого клиента», Василий Ванчук
-  - «Код, который тонет в воде», Максим Юзва
-</details>
-
-### [MinskCSS Meetup #2](http://minskcss.by/)
-
-30 марта
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Валидация веб-форм. Часть I. CSS», Павел Ловцевич
-  - «Отполифиль свой CSS», Василий Ванчук
-  - «Экстренный дизайн-гайд для разработчика», Игорь Кунцевич
-</details>
-
 ### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
 
 6-7 апреля, от 4750 руб.
@@ -107,19 +82,6 @@
 </details>
 
 ## Москва
-
-### [MoscowJS 36](https://moscowjs.timepad.ru/event/465895/)
-
-30 марта
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «PreJSS: универсальный адаптер CSS в JSS», Денис Измайлов (Axept)
-  - «Тестирование скриншотами: проблемы и решения», Александр Савин (SuperJob)
-  - «Harry Potter and the unstable_renderSubtreeIntoContainer(). React, Popup-ы, боль, магия и боль.», Иван Лягушкин (Альфа-Лаборатория)
-  - «Бенчмарки, почему всё плохо и что делать», Михаил Бусырев (Crazy Panda)
-</details>
 
 ### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
 
@@ -150,27 +112,6 @@
 5 и 6 июня  
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
 
-
-## Новосибирск
-
-### [CodeFest](http://2017.codefest.ru/)
-
-1 и 2 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Старикам тут не место?», Алексей Симоненко (HTMLAcademy)
-  - «Multiplayer WebVR», Martin Splitt (Archilogic)
-  - «Creating Desktop Apps for Windows, Mac OS and Linux with your favorite web-tools and Electron», Don Wibier (DevExpress)
-  - «New Adventures in Responsive Web Design», Vitaly Friedman (Smashing Magazine)
-  - «Ваш CSS нас не устраивает, мы придумаем свой», Роман Прудников (2ГИС)
-  - «Artec 3D web player», Василика Климова (Artec3D)
-  - «Клиенту и серверу нужно поговорить», Никита Прокопов (Cognician)
-  - «Rempl — крутая платформа для крутых инструментов», Роман Дворнов (Авито)
-  - «Бешеные псы: Angular 2 и React лицом к лицу», Евгений Гусев (Wrike)
-  - «Свой протокол и кросс-платформенные парсеры за 30 минут», Виктор Грищенко (Realm)
-</details>
 
 ## Одесса
 
