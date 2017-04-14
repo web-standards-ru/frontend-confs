@@ -18,6 +18,7 @@
 
 <details>
   <summary>**Доклады**</summary>
+
   - «Create Architecture and not Frameworks», Сергей Больщиков (Wix)
   - «Progressive web apps with Polymer», Martin Splitt (Archilogic)
   - «Testing in Node.js World», Никита Галкин (Ezetech)
@@ -35,6 +36,7 @@
 
 <details>
   <summary>**Программа**</summary>
+
   1. Напишем БЭМ-проект на основе project-stub.
   2. На примерах покажем, для чего нужны технологии BEMJSON, BEMTREE, BEMHTML, DEPS, и как использовать их вместе.
   3. По традиции ответим на все вопросы, которые вы зададите в комментариях к этому анонсу.
@@ -65,6 +67,7 @@
 
 <details>
   <summary>**Доклады**</summary>
+
   - «Кроссплатформенные приложения с Ionic 2 и Apache Cordova», Слава Жарков (Rails Jedies)
   - «Веб-компоненты: 4 года спустя», Маковеев Сергей (CodeInside)
   - «Elm в production», Васильков Василий (Ecwid)
@@ -78,6 +81,7 @@
 
 <details>
   <summary>**Доклады**</summary>
+
   - «Как мы масштабировали банк для бизнеса», Александр Кашкабаш
   - «Цена пропущенного фрейма», Дмитрий Шуранов
   - Доклад уточняется
@@ -93,6 +97,7 @@
 
 <details>
   <summary>**Доклады**</summary>
+
   - «Rendering performance from the ground up», Martin Splitt (Archilogic)
   - «Переносим существующее web-приложение в виртуальную реальность», Денис Радин
   - «The Post JavaScript Apocalypse», Douglas Crockford
@@ -110,6 +115,7 @@
 
 <details>
   <summary>**Доклады**</summary>
+
   - «Идем к синхронному flow в асинхронном мире node.js», Павлов Александр (AndersenLab)
   - «Деоптимизация JavaScript», Игорь Лобанов (OneTwoTrip)
   - «Мист. Сервис для работы с Apache Spark», Леонид Блохин (pache Spark)
@@ -135,6 +141,7 @@
 
 <details>
   <summary>**Доклады**</summary>
+
   - «Архитектура в сложных React-приложениях», Павел Силин (Devim)
   - «AMP для e-comerce и журналистики», Игорь Шеко (Voximplant)
   - «Offline SPA - это больно!?», Николай Чубаров
@@ -155,6 +162,7 @@
 
 <details>
   <summary>**Доклады**</summary>
+
   - «Что нам стоит дом построить?», Антон Немцев
   - «CSS Selectors», Евгений Исаков
   - «Построение сложных анимационных интерфейсов», Андрей Бойко
