@@ -31,14 +31,14 @@
 
 ### [FrontendConf](http://frontendconf.ru/)
 
-5 и 6 июня  
+5–6 июня  
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
 
 ## Одесса
 
 ### [Odessa JS 2017](https://odessajs.org/)
 
-1 и 2 июля
+1–2 июля
 
 ### [WebCamp'17](http://webcamp.in.ua)
 
@@ -48,7 +48,7 @@
 
 ### [SECON'2017](http://2017.secon.ru)
 
-21 и 22 апреля
+21–22 апреля
 
 <details>
   <summary>**Доклады**</summary>
@@ -65,7 +65,7 @@
 
 ### [HolyJS](https://holyjs-piter.ru)
 
-2 и 3 июня
+2–3 июня
 
 <details>
   <summary>**Доклады**</summary>
@@ -107,7 +107,7 @@
 
 ### [Стачка](http://nastachku.ru)
 
-14 и 15 апреля, 990 руб.
+14–15 апреля, 990 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -121,7 +121,7 @@
 
 ### [Ulcamp-2017](https://2017.ulcamp.ru/)
 
-14—16 июля
+14–16 июля
 
 ## Харьков
 

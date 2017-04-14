@@ -9,7 +9,7 @@
 
 ### [Стачка](http://nastachku.ru)
 
-14 и 15 апреля, Ульяновск, 990 руб.
+14–15 апреля, Ульяновск, 990 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -41,7 +41,7 @@
 
 ### [SECON'2017](http://2017.secon.ru)
 
-21 и 22 апреля, Пенза
+21–22 апреля, Пенза
 
 <details>
   <summary>**Доклады**</summary>
@@ -101,7 +101,7 @@
 
 ### [HolyJS](https://holyjs-piter.ru)
 
-2 и 3 июня, Санкт-Петербург
+2–3 июня, Санкт-Петербург
 
 <details>
   <summary>**Доклады**</summary>
@@ -117,7 +117,7 @@
 
 ### [FrontendConf](http://frontendconf.ru/)
 
-5 и 6 июня, Москва  
+5–6 июня, Москва  
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
 
 ### [pitercss conference](https://pitercss.com/)
@@ -128,7 +128,7 @@
 
 ### [Odessa JS 2017](https://odessajs.org/)
 
-1 и 2 июля, Одесса
+1–2 июля, Одесса
 
 ### [WebCamp'17](http://webcamp.in.ua)
 
@@ -136,4 +136,4 @@
 
 ### [Ulcamp-2017](https://2017.ulcamp.ru/)
 
-14—16 июля, Ульяновск
+14–16 июля, Ульяновск
