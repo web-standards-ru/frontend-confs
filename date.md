@@ -7,80 +7,9 @@
 
 ## Апрель
 
-### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
-
-6 апреля, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Недокументированные приемы CSS», Дмитрий Григоров (Rambler&Co)
-  - «Пора начинать фыркать – Grid Layout уже здесь», Сергей Попов (Setka)
-  - «Следим за CSS», Дарья Пушкарская (Твой ментор)
-</details>
-
-### [UralJS #3](https://uraljs.timepad.ru/event/463916/)
-
-6 апреля, Екатеринбург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Фантастический WebAudio и где его искать», Максим Сырых
-  - «Трудности перехода», Вячеслав Бухарин и Денис Омельков
-  - «Как перестать бояться и использовать Vue.js», Владислав Килин
-</details>
-
-### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
-
-6-7 апреля, Минск, от 4750 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Offline Second», Алексей Богачук
-  - «Непрерывная интеграция для frontend», Константин Кривленя
-  - «Building a better login with the credential management API», James Allardice
-  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
-  - «Организация разработки frontend продукта на микросервисах», Максим Волошин
-  - «Dependencies in component web done right», Vladimir Grinenko
-  - «Как приручить WebVR», Дмитрий Барталевич
-  - «Применяя стандарты кодирования NASA к JavaScript», Денис Радин
-  - «Vue.JS: На что я променял React в 2017 и почему?», Илья Климов
-</details>
-
-### [SPA meetup #3](https://moscow-spa.timepad.ru/event/463443/)
-
-8 апреля, Москва
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Дизайн платформа в Avito», Александр Лобашев (Avito)
-  - «Работаем с API по-взрослому», Максим Кислов (Badoo)
-  - «Rempl — крутая платформа для крутых инструментов», Роман Дворнов (Avito)
-</details>
-
-### [DUMP 2017](http://dump-conf.ru/)
-
-14 апреля, Екатеринбург, от 4000 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Документация REST API», Артём Кузвесов (Ideco)
-  - «Зависимости в компонентном вебе, приготовленные правильно», Гриненко Владимир (Яндекс)
-  - «Как мы в Точке переезжаем...», Лызлов Ярослав (Банк Точка)
-  - «VUE.JS как Реакт с человеческим лицом», Дулецкий Вольдэмар (Evrone)
-  - «Клиенту и серверу нужно поговорить», Никита Прокопов (Cognician)
-  - «Кошелёк или деньги: сложный выбор между памятью и процессором», Алексеенко Игорь (Академия HTML)
-  - «Портирование WEB SDK c JS на TS», Петров Григорий (Voximplant)
-  - «Жизнь без интернета», Артём Кувалдин (Яндекс)
-</details>
-
 ### [Стачка](http://nastachku.ru)
 
-14 и 15 апреля, Ульяновск, 990 руб.
+14–15 апреля, Ульяновск, 990 руб.
 
 <details>
   <summary>**Доклады**</summary>
@@ -110,9 +39,23 @@
   - «Мой ванильный CSS», Вадим Макеев
 </details>
 
+### [BEMup, мастер-класс](https://ru.bem.info/forum/1314/)
+
+21 апреля, 19:00, Москва
+
+<details>
+  <summary>**Программа**</summary>
+
+  1. Напишем БЭМ-проект на основе project-stub.
+  2. На примерах покажем, для чего нужны технологии BEMJSON, BEMTREE, BEMHTML, DEPS, и как использовать их вместе.
+  3. По традиции ответим на все вопросы, которые вы зададите в комментариях к этому анонсу.
+  4. Вопросы, которые возникнут во время мастер-класса, конечно, тоже не оставим без ответов :)
+  5. 
+</details>
+
 ### [SECON'2017](http://2017.secon.ru)
 
-21 и 22 апреля, Пенза
+21–22 апреля, Пенза
 
 <details>
   <summary>**Доклады**</summary>
@@ -136,6 +79,18 @@
   - «Vue.js или как наконец отказаться от React», Андрей Грачёв (Сrello)
   - «Improve your web application using Progressive Web Metrics», Artem Denysov (Ciklum)
   - «How to improve Angular 2 performance?», Александр Трищенко (DataArt)
+</details>
+
+### [pitercss meetup № 12](https://pitercss.timepad.ru/event/457262/)
+
+25 апреля, 19:00
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как мы масштабировали банк для бизнеса», Александр Кашкабаш
+  - «Цена пропущенного фрейма», Дмитрий Шуранов
+  - Доклад уточняется
 </details>
 
 ## Май
@@ -172,7 +127,7 @@
 
 ### [HolyJS](https://holyjs-piter.ru)
 
-2 и 3 июня, Санкт-Петербург
+2–3 июня, Санкт-Петербург
 
 <details>
   <summary>**Доклады**</summary>
@@ -188,7 +143,7 @@
 
 ### [FrontendConf](http://frontendconf.ru/)
 
-5 и 6 июня, Москва  
+5–6 июня, Москва  
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
 
 ### [pitercss conference](https://pitercss.com/)
@@ -199,7 +154,7 @@
 
 ### [Odessa JS 2017](https://odessajs.org/)
 
-1 и 2 июля, Одесса
+1–2 июля, Одесса
 
 ### [WebCamp'17](http://webcamp.in.ua)
 
@@ -207,4 +162,4 @@
 
 ### [Ulcamp-2017](https://2017.ulcamp.ru/)
 
-14—16 июля, Ульяновск
+14–16 июля, Ульяновск
