@@ -1,8 +1,6 @@
 # По городам
 
-- [Екатеринбург](#Екатеринбург)
 - **[Киев](#Киев)**
-- **[Минск](#Минск)**
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
 - [Пенза](#Пенза)
@@ -12,37 +10,6 @@
 - [Харьков](#Харьков)
 - [Черновцы](#Черновцы)
 
-## Екатеринбург
-
-### [UralJS #3](https://uraljs.timepad.ru/event/463916/)
-
-6 апреля, Екатеринбург
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Фантастический WebAudio и где его искать», Максим Сырых
-  - «Трудности перехода», Вячеслав Бухарин и Денис Омельков
-  - «Как перестать бояться и использовать Vue.js», Владислав Килин
-</details>
-
-### [DUMP 2017](http://dump-conf.ru/)
-
-14 апреля, от 4000 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Документация REST API», Артём Кузвесов (Ideco)
-  - «Зависимости в компонентном вебе, приготовленные правильно», Гриненко Владимир (Яндекс)
-  - «Как мы в Точке переезжаем...», Лызлов Ярослав (Банк Точка)
-  - «VUE.JS как Реакт с человеческим лицом», Дулецкий Вольдэмар (Evrone)
-  - «Клиенту и серверу нужно поговорить», Никита Прокопов (Cognician)
-  - «Кошелёк или деньги: сложный выбор между памятью и процессором», Алексеенко Игорь (Академия HTML)
-  - «Портирование WEB SDK c JS на TS», Петров Григорий (Voximplant)
-  - «Жизнь без интернета», Артём Кувалдин (Яндекс)
-</details>
-
 ## Киев
 
 ### [JavaScript fwdays'17 Conference](http://frameworksdays.com/event/js-frameworks-day-2017)
@@ -51,7 +18,6 @@
 
 <details>
   <summary>**Доклады**</summary>
-
   - «Create Architecture and not Frameworks», Сергей Больщиков (Wix)
   - «Progressive web apps with Polymer», Martin Splitt (Archilogic)
   - «Testing in Node.js World», Никита Галкин (Ezetech)
@@ -61,57 +27,12 @@
   - «How to improve Angular 2 performance?», Александр Трищенко (DataArt)
 </details>
 
-## Минск
-
-### [Frontend Dev Conf на United Dev Conf](http://unitedconf.com/category/dokladchiki/frontend-dev-conf/)
-
-6-7 апреля, от 4750 руб.
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Offline Second», Алексей Богачук
-  - «Непрерывная интеграция для frontend», Константин Кривленя
-  - «Building a better login with the credential management API», James Allardice
-  - «Лебедь рак и щука: как технологии тянут фронтенд на дно», Евгений Гусев
-  - «Организация разработки frontend продукта на микросервисах», Максим Волошин
-  - «Dependencies in component web done right», Vladimir Grinenko
-  - «Как приручить WebVR», Дмитрий Барталевич
-  - «Применяя стандарты кодирования NASA к JavaScript», Денис Радин
-  - «Vue.JS: На что я променял React в 2017 и почему?», Илья Климов
-</details>
-
 ## Москва
-
-### [moscowcss №2](https://moscowcss.timepad.ru/event/457567/)
-
-6 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Недокументированные приемы CSS», Дмитрий Григоров (Rambler&Co)
-  - «Пора начинать фыркать – Grid Layout уже здесь», Сергей Попов (Setka)
-  - «Следим за CSS», Дарья Пушкарская (Твой ментор)
-</details>
-
-### [SPA meetup #3](https://moscow-spa.timepad.ru/event/463443/)
-
-8 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Дизайн платформа в Avito», Александр Лобашев (Avito)
-  - «Работаем с API по-взрослому», Максим Кислов (Badoo)
-  - «Rempl — крутая платформа для крутых инструментов», Роман Дворнов (Avito)
-</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
 5 и 6 июня  
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
-
 
 ## Одесса
 
@@ -131,7 +52,6 @@
 
 <details>
   <summary>**Доклады**</summary>
-
   - «Кроссплатформенные приложения с Ionic 2 и Apache Cordova», Слава Жарков (Rails Jedies)
   - «Веб-компоненты: 4 года спустя», Маковеев Сергей (CodeInside)
   - «Elm в production», Васильков Василий (Ecwid)
@@ -149,7 +69,6 @@
 
 <details>
   <summary>**Доклады**</summary>
-
   - «Rendering performance from the ground up», Martin Splitt (Archilogic)
   - «Переносим существующее web-приложение в виртуальную реальность», Денис Радин
   - «The Post JavaScript Apocalypse», Douglas Crockford
@@ -167,7 +86,6 @@
 
 <details>
   <summary>**Доклады**</summary>
-
   - «Идем к синхронному flow в асинхронном мире node.js», Павлов Александр (AndersenLab)
   - «Деоптимизация JavaScript», Игорь Лобанов (OneTwoTrip)
   - «Мист. Сервис для работы с Apache Spark», Леонид Блохин (pache Spark)
@@ -193,7 +111,6 @@
 
 <details>
   <summary>**Доклады**</summary>
-
   - «Архитектура в сложных React-приложениях», Павел Силин (Devim)
   - «AMP для e-comerce и журналистики», Игорь Шеко (Voximplant)
   - «Offline SPA - это больно!?», Николай Чубаров
@@ -214,7 +131,6 @@
 
 <details>
   <summary>**Доклады**</summary>
-
   - «Что нам стоит дом построить?», Антон Немцев
   - «CSS Selectors», Евгений Исаков
   - «Построение сложных анимационных интерфейсов», Андрей Бойко
