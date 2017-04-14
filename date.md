@@ -39,6 +39,19 @@
   - «Мой ванильный CSS», Вадим Макеев
 </details>
 
+### [BEMup, мастер-класс](https://ru.bem.info/forum/1314/)
+
+21 апреля, 19:00, Москва
+
+<details>
+  <summary>**Программа**</summary>
+  1. Напишем БЭМ-проект на основе project-stub.
+  2. На примерах покажем, для чего нужны технологии BEMJSON, BEMTREE, BEMHTML, DEPS, и как использовать их вместе.
+  3. По традиции ответим на все вопросы, которые вы зададите в комментариях к этому анонсу.
+  4. Вопросы, которые возникнут во время мастер-класса, конечно, тоже не оставим без ответов :)
+  5. 
+</details>
+
 ### [SECON'2017](http://2017.secon.ru)
 
 21–22 апреля, Пенза
@@ -65,6 +78,17 @@
   - «Vue.js или как наконец отказаться от React», Андрей Грачёв (Сrello)
   - «Improve your web application using Progressive Web Metrics», Artem Denysov (Ciklum)
   - «How to improve Angular 2 performance?», Александр Трищенко (DataArt)
+</details>
+
+### [pitercss meetup № 12](https://pitercss.timepad.ru/event/457262/)
+
+25 апреля, 19:00
+
+<details>
+  <summary>**Доклады**</summary>
+  - «Как мы масштабировали банк для бизнеса», Александр Кашкабаш
+  - «Цена пропущенного фрейма», Дмитрий Шуранов
+  - Доклад уточняется
 </details>
 
 ## Май
