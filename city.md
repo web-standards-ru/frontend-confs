@@ -1,40 +1,11 @@
 # По городам
 
-- **[Киев](#Киев)**
 - **[Москва](#Москва)**
 - [Одесса](#Одесса)
-- [Пенза](#Пенза)
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
 - [Черновцы](#Черновцы)
-
-## Киев
-
-### [JavaScript fwdays'17 Conference](http://frameworksdays.com/event/js-frameworks-day-2017)
-
-22 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Create Architecture and not Frameworks», Сергей Больщиков (Wix)
-  - «Progressive web apps with Polymer», Martin Splitt (Archilogic)
-  - «Testing in Node.js World», Никита Галкин (Ezetech)
-  - «Introduction in Reactive Programming with React», Григорий Шехет (Grammarly)
-  - «Internet of Peers», Mathias Buus (Open Source Hacker)
-  - «2017: Автостопом по галактике JavaScript», Илья Климов (WookieeLabs)
-  - «Password Hashing», Emil Bayes (CommodiTrader)
-  - «Trojan War: SinonJS», Александра Калинина (Valor Software)
-  - «React + Redux: performance & scalability», Виталий Редько (Ezetech)
-  - «Настройка SEO для одностраничных web-приложений на Angular», Сергей Мелашич (Agilie)
-  - «Compile like it's 2017», Артем Яворский (Hell Yeah LLC)
-  - «CSS 5DX», Александр Павлыщ (Astound commerce)
-  - «Robust and efficient message-driven development», Алексей Распопов (DataRobot)
-  - «Vue.js или как наконец отказаться от React», Андрей Грачёв (Сrello)
-  - «Improve your web application using Progressive Web Metrics», Artem Denysov (Ciklum)
-  - «How to improve Angular 2 performance?», Александр Трищенко (DataArt)
-</details>
 
 ## Минск
 
@@ -43,35 +14,6 @@
 18 мая
 
 ## Москва
-
-### [BEMup, мастер-класс](https://ru.bem.info/forum/1314/)
-
-21 апреля, 19:00
-
-<details>
-  <summary>**Программа**</summary>
-
-  1. Напишем БЭМ-проект на основе project-stub.
-  2. На примерах покажем, для чего нужны технологии BEMJSON, BEMTREE, BEMHTML, DEPS, и как использовать их вместе.
-  3. По традиции ответим на все вопросы, которые вы зададите в комментариях к этому анонсу.
-  4. Вопросы, которые возникнут во время мастер-класса, конечно, тоже не оставим без ответов :)
-</details>
-
-### [Я.Субботник по фронтенду](https://events.yandex.ru/events/yasubbotnik/22-april-2017/)
-
-22 апреля
-
-<details>
-  <summary>**Программа**</summary>
-
-  - «Опыт внедрения Flow», Алексей Верхоланцев
-  - «10k», Виталий Харисов
-  - «Сomposition over inheritance», Владимир Гриненко
-  - «Собираем Kinect из смартфона и Smart TV», Виталий Потапов, Александр Олейников
-  - «Карта для Олимпиады», Иван Карев
-  - «Сага о redux», Максим Васильев
-  - «Жизнь без интернета», Артем Кувалдин
-</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
@@ -126,34 +68,7 @@
 
 7–9 июля
 
-## Пенза
-
-### [SECON'2017](http://2017.secon.ru)
-
-21–22 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Кроссплатформенные приложения с Ionic 2 и Apache Cordova», Слава Жарков (Rails Jedies)
-  - «Веб-компоненты: 4 года спустя», Маковеев Сергей (CodeInside)
-  - «Elm в production», Васильков Василий (Ecwid)
-</details>
-
 ## Санкт-Петербург
-
-### [pitercss meetup № 12](https://pitercss.timepad.ru/event/457262/)
-
-25 апреля, 19:00
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Как мы масштабировали банк для бизнеса», Александр Кашкабаш
-  - «Цена пропущенного фрейма», Дмитрий Шуранов
-  - Доклад уточняется
-</details>
-
 
 ### [IT Global Meetup #10](http://piter-united.ru/itgm10/)
 
@@ -221,26 +136,6 @@
 ### [Ulcamp-2017](https://2017.ulcamp.ru/)
 
 14–16 июля
-
-## Харьков
-
-### [KharkivCSS #2](http://kharkivcss.org)
-
-22 апреля
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Что нам стоит дом построить?», Антон Немцев
-  - «CSS Selectors», Евгений Исаков
-  - «Построение сложных анимационных интерфейсов», Андрей Бойко
-  - «Фронтенд по фэн-шуй», Виктор Павлов
-  - «Bootstrap 4 уже скоро! Что там?», Игорь Зенич
-  - «CSS-переменные», Елена Жукова
-  - «Velosipedium structuris», Олександр Шпак
-  - «Функциональные анимации в вебе», Денис Яровой
-  - «Мой ванильный CSS», Вадим Макеев
-</details>
 
 ## Черновцы
 
