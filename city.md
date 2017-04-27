@@ -5,15 +5,27 @@
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
+- [Хабаровск](#Хабаровск)
 - [Черновцы](#Черновцы)
 
 ## Минск
 
-### [MinskJS Meetup #2](https://www.facebook.com/MinskJS)
+### [MinskJS Meetup #2](https://minskjs.timepad.ru/event/479052/)
 
 18 мая
 
 ## Москва
+
+### [moscowcss №3](https://moscowcss.timepad.ru/event/480215/)
+
+18 мая
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Топ-15 ваших ошибок CSS», Елена Семёнова (Roox Solutions)
+  - «Atomic CSS в дикой природе», Савва Михалевский (Grabr Inc)
+</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
@@ -74,6 +86,10 @@
 
 14 мая
 
+### [pitercss №13](https://pitercss.timepad.ru/events/)
+
+17 мая
+
 ### [pitercss conference](https://pitercss.com/)
 
 16 июня
@@ -83,6 +99,7 @@
 
   - «Paint the web with CSS. On creating art with code», Eva Lettner (ChillBill)
   - «Creating Magic With Houdini», Patrick Kettner (Microsoft)
+  - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
 </details>
 
 ### [HolyJS](https://holyjs-piter.ru)
@@ -129,6 +146,7 @@
   - «Оптимизация сборки Webpack», Алексей Иванов (Evil Martians)
   - «Как подружить дизайнеров с разработчиками? Прототипирование на основе WebComponents», Виталий Грин (Альфа Лаборатория)
   - «AMP для e-comerce и журналистики», Игорь Шеко (Voximplant)
+  - «Большая история маленького чата», Антон Ерышев (RedMadRobot)
 </details>
 
 ## Ульяновск
@@ -136,6 +154,22 @@
 ### [Ulcamp-2017](https://2017.ulcamp.ru/)
 
 14–16 июля
+
+## Хабаровск
+
+### [Ha.js](http://hajs.ru/)
+
+13 мая
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «История JavaScript», Егор Абоймов
+  - «Как работает React», Андрей Волобуев (White-Soft)
+  - «Куда пойти учиться?», Игорь Антонов (АО "ДальЖАСО")
+  - «Расказчики JS», Дмитрий Кузнецов (DersuDev)
+  - «Битва фреймворков», Денис Ткаченко (АО "РЖД")
+</details>
 
 ## Черновцы
 

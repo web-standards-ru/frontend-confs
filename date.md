@@ -6,11 +6,40 @@
 
 ## Май
 
+### [Ha.js](http://hajs.ru/)
+
+13 мая, Хабаровск
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «История JavaScript», Егор Абоймов
+  - «Как работает React», Андрей Волобуев (White-Soft)
+  - «Куда пойти учиться?», Игорь Антонов (АО "ДальЖАСО")
+  - «Расказчики JS», Дмитрий Кузнецов (DersuDev)
+  - «Битва фреймворков», Денис Ткаченко (АО "РЖД")
+</details>
+
 ### [IT Global Meetup #10](http://piter-united.ru/itgm10/)
 
 14 мая, Санкт-Петербург
 
-### [MinskJS Meetup #2](https://www.facebook.com/MinskJS)
+### [pitercss №13](https://pitercss.timepad.ru/events/)
+
+17 мая, Санкт-Петербург
+
+### [moscowcss №3](https://moscowcss.timepad.ru/event/480215/)
+
+18 мая, Москва
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Топ-15 ваших ошибок CSS», Елена Семёнова (Roox Solutions)
+  - «Atomic CSS в дикой природе», Савва Михалевский (Grabr Inc)
+</details>
+
+### [MinskJS Meetup #2](https://minskjs.timepad.ru/event/479052/)
 
 18 мая, Минск
 
@@ -37,6 +66,7 @@
   - «Оптимизация сборки Webpack», Алексей Иванов (Evil Martians)
   - «Как подружить дизайнеров с разработчиками? Прототипирование на основе WebComponents», Виталий Грин (Альфа Лаборатория)
   - «AMP для e-comerce и журналистики», Игорь Шеко (Voximplant)
+  - «Большая история маленького чата», Антон Ерышев (RedMadRobot)
 </details>
 
 ### [ChernivtsiJS](http://chernivtsi.js.org/)
@@ -117,6 +147,7 @@
 
   - «Paint the web with CSS. On creating art with code», Eva Lettner (ChillBill)
   - «Creating Magic With Houdini», Patrick Kettner (Microsoft)
+  - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
 </details>
 
 ## Июль
