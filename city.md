@@ -1,17 +1,31 @@
 # По городам
 
 - **[Москва](#Москва)**
-- [Черновцы](#Черновцы)
-- [Гродно](#Гродно)
-- **[Санкт-Петербург](#Санкт-Петербург)**
-- [Нижний Новгород](#Нижний_Новгород)
-- [Ростов-на-Дону](#Ростов-на-Дону)
 - [Одесса](#Одесса)
+- **[Санкт-Петербург](#Санкт-Петербург)**
+- [Тольятти](#Тольятти)
 - [Ульяновск](#Ульяновск)
-- [Винница](#Винница)
-- [Львов](#Львов)
+- [Хабаровск](#Хабаровск)
+- [Черновцы](#Черновцы)
+
+## Минск
+
+### [MinskJS Meetup #2](https://minskjs.timepad.ru/event/479052/)
+
+18 мая
 
 ## Москва
+
+### [moscowcss №3](https://moscowcss.timepad.ru/event/480215/)
+
+18 мая
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Топ-15 ваших ошибок CSS», Елена Семёнова (Roox Solutions)
+  - «Atomic CSS в дикой природе», Савва Михалевский (Grabr Inc)
+</details>
 
 ### [FrontendConf](http://frontendconf.ru/)
 
@@ -43,83 +57,6 @@
 
 [Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
 
-### [DevConf](https://devconf.ru/ru)
-
-17-18 июня
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Гибкая расширяемая архитектура компонентов или как правильно приготовить React и БЭМ», Виталий Грин
-  - «Возвращаем фронтенд на сервер с Korolev», Алексей Фомкин
-  - «Angular 4: конфигурируем до неузнаваемости», Алексей Охрименко
-  - «React Native - Learn once, write anywhere», Дмитрий Пацура
-  - «Выбор JS-фреймоврка для крупного проекта», Сергей Аверин
-  - «ReactVR: как пообщаться голосом в виртуальном пространстве», Григорий Петров
-  - «Цена пропущенного фрейма», Дмитрий Шуранов
-  - «Lua-in-Moscow: Быстрое прототипирование функциональных макетов UI на Lua и Mermaid.js», Александр Гладыш
-  - «Lua-in-Moscow: Вжух - и написал кроссплатформенную игру», Sergey Lerg
-  - «Lua-in-Moscow: Архитектура бэкенда нагруженной игры на C++ и Lua», Андрей Трифанов
-  - «Lua-in-Moscow: Как и зачем LuaJIT нарушает DRY?», Антон Солдатов
-</details>
-
-## Черновцы
-
-### [ChernivtsiJS](http://chernivtsi.js.org/)
-
-10 июня
-
-## Гродно
-
-### [The Rolling Scopes #39. Grodno](https://grodno.rollingscopes.com/)
-
-10 июня
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «OpenGl rendering with Node and Rust», Andrei Vouchanka
-  - «Serverless architecture: functions as a service», Dzmitry Varabei
-  - «Accelerated mobile pages: делаем web сверхбыстрым», Денис Влассенко
-  - «React Native & Closurescript», Siarhei Melnik
-</details>
-
-## Санкт-Петербург
-
-### [pitercss conference](https://pitercss.com/)
-
-16 июня
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Paint the web with CSS. On creating art with code», Eva Lettner (ChillBill)
-  - «Creating Magic With Houdini», Patrick Kettner (Microsoft)
-  - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
-</details>
-
-## Нижний_Новгород
-
-### [JS NN #6](https://www.it52.info/events/2017-06-17-js-nn-6-603059bf-c448-472e-b689-381684f8b4dd)
-
-17 июня
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «Фронтенд для миллионов», Анастасия Горячева (avito.ru)
-  - «Unit тесты в NodeJS», Кирилл Новиков
-  - «Секретный доклад не про Vue.js», Макаров Андрей
-  - «Генераторы в javascript», Михаил Ангелов
-  - «React + Redux: Data flow management», Андрей Синицын
-</details>
-
-## Ростов-на-Дону
-
-### [RND.JS #3](https://it61.info/events/2017-06-24-rnd-js-3-170)
-
-24 июня
-
 ## Одесса
 
 ### [Odessa JS 2017](https://odessajs.org/)
@@ -143,20 +80,113 @@
 
 7–9 июля
 
+## Санкт-Петербург
+
+### [IT Global Meetup #10](http://piter-united.ru/itgm10/)
+
+14 мая
+
+### [pitercss №13](https://pitercss.timepad.ru/events/)
+
+17 мая
+
+### [pitercss conference](https://pitercss.com/)
+
+16 июня
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Paint the web with CSS. On creating art with code», Eva Lettner (ChillBill)
+  - «Creating Magic With Houdini», Patrick Kettner (Microsoft)
+  - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
+</details>
+
+### [HolyJS](https://holyjs-piter.ru)
+
+2–3 июня
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Forgotten funky functions», Jakob Mattson
+  - «Переносим существующее web-приложение в виртуальную реальность», Денис Радин
+  - «Зависимости в компонентном вебе, сделанные правильно», Владимир Гриненко
+  - «Down the Rabbit Hole: JavaScript in Wonderland», Claudia Hernández
+  - «Functional Programming in JS: What? Why? How?», Anjana Vakil
+  - «Typing, Goto There and Back Again», Douglas Crockford
+  - «The Post JavaScript Apocalypse», Douglas Crockford
+  - «Rendering performance from the ground up», Martin Splitt (Archilogic)
+  - «JS UX: Writing code for humans», Lea Verou
+  - «The Hitchhiker's Guide to the Serverless Galaxy», Slobodan Stojanovic
+</details>
+
+## Тольятти
+
+### [FrontDays](https://frontdays.ru)
+
+20 мая
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Идем к синхронному flow в асинхронном мире node.js», Павлов Александр (AndersenLab)
+  - «Деоптимизация JavaScript», Игорь Лобанов (OneTwoTrip)
+  - «Мист. Сервис для работы с Apache Spark», Леонид Блохин (pache Spark)
+  - «REACTивные терминалы оплаты. Да, так тоже можно!», Дмитрий Тупалов (Tyme.ru)
+  - «Погружение в Service Worker», Олег Наянов (DZ Systems)
+  - «Как мы уменьшили время релиза с 4 месяцев до 30 минут», Алексей Букин (Альфа-лаборатория)
+  - «Прогрессивные методы ускорения», Артём Белов (Право.ру)
+  - «λ в js без фанатизма», Михаил Синяков, (X-Card)
+  - «В поисках утерянных полимеров», Влад Минаев (Haulmont)
+  - «CSS-методологии от О до Б», Алексей Охрименко (IPONWEB)
+  - «Оптимизация React приложений: сокращаем рендеры и не только», Дмитрий Васюк (RedMadRobot)
+  - «Регрессионное тестирование верстки скриншотами с помощью gemini», Сергей Савельев (Яндекс)
+  - «Весна. Время почистить код!», Виталий Потапов (Яндекс)
+  - «Оптимизация сборки Webpack», Алексей Иванов (Evil Martians)
+  - «Как подружить дизайнеров с разработчиками? Прототипирование на основе WebComponents», Виталий Грин (Альфа Лаборатория)
+  - «AMP для e-comerce и журналистики», Игорь Шеко (Voximplant)
+  - «Большая история маленького чата», Антон Ерышев (RedMadRobot)
+</details>
+
 ## Ульяновск
 
 ### [Ulcamp-2017](https://2017.ulcamp.ru/)
 
 14–16 июля
 
-## Винница
+## Хабаровск
 
-### [VinnytsiaJS](http://vinnytsiajs.org/)
+### [Ha.js](http://hajs.ru/)
 
-5 августа
+13 мая
 
-## Львов 
+<details>
+  <summary>**Доклады**</summary>
 
-### [LvivJS](http://www.lvivjs.org.ua/)
+  - «История JavaScript», Егор Абоймов
+  - «Как работает React», Андрей Волобуев (White-Soft)
+  - «Куда пойти учиться?», Игорь Антонов (АО "ДальЖАСО")
+  - «Расказчики JS», Дмитрий Кузнецов (DersuDev)
+  - «Битва фреймворков», Денис Ткаченко (АО "РЖД")
+</details>
 
-26 августа
+## Черновцы
+
+### [ChernivtsiJS](http://chernivtsi.js.org/)
+
+27 мая
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Peg.js and writing custom grammar parser», Oleksandr Lapshin (Rails Reactor)
+  - «Bootstrap: как правильно и что нового в 4-ке», Ihor Zenich (EPAM)
+  - «Мобильные приложения на JS. Как, зачем, почему бы и нет?», Volodymyr Stelmakh (Hell Yeah LLC)
+  - «Secret Topic», Roman Liutikov (Attendify)
+  - «How to keep node_modules huge with Babel», Artem Yavorsky (Hell Yeah LLC)
+  - «Styles in the world of components», Kyrylo Yakovenko (CleverCrew)
+  - «Secret Topic», Tanya Sakharova (MobiDev)
+  - «Програмування мікроконтроллерів на JavaScript», Andrew Kostetskyi (ASD Team)
+  - «A word on Regular Expressions», Aleksey Shvayka (Hell Yeah LLC)
+</details>
