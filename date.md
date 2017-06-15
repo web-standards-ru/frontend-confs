@@ -3,55 +3,10 @@
 - [Июнь](#Июнь)
 - [Июль](#Июль)
 - [Август](#Август)
+- [Сентябрь](#Сентябрь)
+- [Декабрь](#Декабрь)
 
 ## Июнь
-
-### [FrontendConf](http://frontendconf.ru/)
-
-5–6 июня, Москва  
-
-<details>
-  <summary>**Предварительная программа**</summary>
-
-  - Секция «Инструменты»
-    - «React на стероидах», Владимир Гриненко (Яндекс)
-    - «Ваш CSS нас не устраивает, мы придумаем свой», Роман Прудников (2ГИС)
-    - «Бешеные псы: Angular 2 vs React», Евгений Гусев (Wrike)
-    - «Юзабилити, конверсии и SEO для Frontend», Тарас Гуща (Seo.Ua)
-    - «Рефакторинг клиентского кода или как отрефакторить миллион строк кода и не сойти с ума», Алексей Золотых (Wrike)
-    - «React native на практике: от идеи до приложения», Павел Кондратенко (Rambler&Co)
-    - «Паразитируем на React-экосистеме (Angular 2+)», Алексей Охрименко (IPONWEB)
-    - «Как создать компонент, которым все захотят пользоваться», Виктор Русакович (GP Solutions)
-    - «Возвращаем фронтенд на сервер с Korolev», Алексей Фомкин (Data Monsters)
-    - «Документация REST API», Артём Кузвесов (Ideco)
-
-  - Секция «Адаптация»
-    - «Адаптивная верстка 5 лет спустя», Сергей Кузнецов (AGIMA)
-    - «Как мы запустили offline-версию сайта RG.RU», Алексей Чернышев (Российская Газета)
-    - «Как технология AMP HTML ускоряет сайты и повышает бизнес-метрики», Артём Цымпов (eski.mobi)
-    - «Адаптивный сайт. Как грамотно сделать муху из слона и слона из мухи», Дмитрий Шагаров (Tutmee Agency)
-
-  [Полный список докладов на рассмотрении](http://frontendconf.ru/2017/abstracts/)
-</details>
-
-[Бронирование билетов](http://conf.ontico.ru/conference/join/frontend_conf_2017.html)
-
-### [ChernivtsiJS](http://chernivtsi.js.org/)
-
-10 июня, Черновцы
-
-### [The Rolling Scopes #39. Grodno](https://grodno.rollingscopes.com/)
-
-10 июня, Гродно
-
-<details>
-  <summary>**Доклады**</summary>
-
-  - «OpenGl rendering with Node and Rust», Andrei Vouchanka
-  - «Serverless architecture: functions as a service», Dzmitry Varabei
-  - «Accelerated mobile pages: делаем web сверхбыстрым», Денис Влассенко
-  - «React Native & Closurescript», Siarhei Melnik
-</details>
 
 ### [pitercss conference](https://pitercss.com/)
 
@@ -60,9 +15,15 @@
 <details>
   <summary>**Доклады**</summary>
 
-  - «Paint the web with CSS. On creating art with code», Eva Lettner (ChillBill)
-  - «Creating Magic With Houdini», Patrick Kettner (Microsoft)
-  - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
+- «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
+- «Paint the Web with CSS. On Creating Art with Code», Eva Lettner (ChillBill)
+- «Creating Magic With Houdini», Patrick Kettner (Microsoft)
+- «Is CSS-in-JS Really That Bad Idea?», Andrey Okonetchnikov
+- «Chinese Typography on the Web», Hui Jing Chen (Wismut Labs)
+- «Breaking the Norm with Creative CSS», Agnieszka Naplocha (Adobe)
+- «Accessible UX», Manuel Matuzovic
+- «Designing Declarative APIs», Ilya Birman (Bureau Gorbunov)
+
 </details>
 
 ### [JS NN #6](https://www.it52.info/events/2017-06-17-js-nn-6-603059bf-c448-472e-b689-381684f8b4dd)
@@ -99,10 +60,42 @@
   - «Lua-in-Moscow: Как и зачем LuaJIT нарушает DRY?», Антон Солдатов
 </details>
 
+### [Орелъ JS Meetup](http://oreljs.ru/)
+
+24 июня, Орёл
+
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Как стать фронтендером в Орле», Александр Мотин (Braind)
+  - «Angular 4 не так уж и плох, а если задуматься то и просто хорош», Алексей Охрименко (IPONWEB)
+  - «Настройка среды разработки с использованием TypeScript, ES6-модулей и VisualStudio на основе SystemJS», Павел Богатырёв (Docsvision)
+  - «DraftJS: Компонентный подход в визуальных редакторах», Александр Федотов
+  - «Фронтенд для миллионов», Анастасия Горячева (Avito)
+
+</details>
+
 ### [RND.JS #3](https://it61.info/events/2017-06-24-rnd-js-3-170)
 
 24 июня, Ростов-на-Дону
 
+<details>
+  <summary>**Доклады**</summary>
+
+  - «Управляемые каскады в React-компонентах», Кирилл Агалаков (DevExperts)
+  - «TDD with React/Redux»,  Глеб Паньшин (Точка Кипения)
+  - «Styled-components в react. Стили, css modules, css-in-js и styled-components», Тигран Тумасов (These Guys)
+  - «Определение устройства и его производительности в мобильном вебе», Денис Ильин (Songsterr)
+  - «А у вас в фреймворке веб апи убежало», Виктор Суздалев (CodeHipsters) 
+
+</details>
+
+### [WebPurple Meetup #20](https://webpurple.timepad.ru/event/510796/)
+
+29 июня, Рязань
+
+<!-- 
+ -->
 ## Июль
 
 ### [Odessa JS 2017](https://odessajs.org/)
@@ -130,6 +123,8 @@
 
 14–16 июля, Ульяновск
 
+<!-- 
+ -->
 ## Август
 
 ### [VinnytsiaJS](http://vinnytsiajs.org/)
@@ -139,3 +134,41 @@
 ### [LvivJS](http://www.lvivjs.org.ua/)
 
 26 августа, Львов
+
+<!-- 
+ -->
+## Сентябрь
+
+### [DevFest Siberia 2017](http://it-events.com/events/9055)
+
+23-24 сентября, Новосибирск
+
+<!-- 
+ -->
+## Декабрь
+
+### [HolyJS](https://holyjs-moscow.ru/)
+
+10-11 декабря, Москва
+
+<details>
+  <summary>**Предварительный список тем**</summary>
+  - Архитектура современных JS-приложений
+  - Node.js: best practices, performance, memory management
+  - JS и спецификация ECMAScript
+  - Практика применения ES6 и ES7
+  - Оптимизация JS-приложений
+  - Функциональное программирование на JS
+  - Kлиент-серверная синхронизация
+  - Тестирование приложений
+  - Работа с графикой (WebGL, D3.js и т.п.)
+  - Web API (Bluetooth, Network API, IndexedDB, Web Notifications и т.п.)
+  - WebAssembly
+  - JS engines
+  - JS на устройствах
+  - Progressive Web Apps
+  - Desktop apps (Electron и т.п.)
+  - Babel
+  - Web developer workflow
+
+</details>
