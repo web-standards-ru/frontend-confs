@@ -13,7 +13,7 @@
 16 июня, Санкт-Петербург
 
 <details>
-  <summary>**Доклады**</summary>
+  <summary>Доклады</summary>
 
 - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
 - «Paint the Web with CSS. On Creating Art with Code», Eva Lettner (ChillBill)
@@ -31,7 +31,7 @@
 17 июня, Нижний Новгород
 
 <details>
-  <summary>**Доклады**</summary>
+  <summary>Доклады</summary>
 
   - «Фронтенд для миллионов», Анастасия Горячева (avito.ru)
   - «Unit тесты в NodeJS», Кирилл Новиков
@@ -45,7 +45,7 @@
 17-18 июня, Москва
 
 <details>
-  <summary>**Доклады**</summary>
+  <summary>Доклады</summary>
 
   - «Гибкая расширяемая архитектура компонентов или как правильно приготовить React и БЭМ», Виталий Грин
   - «Возвращаем фронтенд на сервер с Korolev», Алексей Фомкин
@@ -65,7 +65,7 @@
 24 июня, Орёл
 
 <details>
-  <summary>**Доклады**</summary>
+  <summary>Доклады</summary>
 
   - «Как стать фронтендером в Орле», Александр Мотин (Braind)
   - «Angular 4 не так уж и плох, а если задуматься то и просто хорош», Алексей Охрименко (IPONWEB)
@@ -80,7 +80,7 @@
 24 июня, Ростов-на-Дону
 
 <details>
-  <summary>**Доклады**</summary>
+  <summary>Доклады</summary>
 
   - «Управляемые каскады в React-компонентах», Кирилл Агалаков (DevExperts)
   - «TDD with React/Redux»,  Глеб Паньшин (Точка Кипения)
@@ -103,7 +103,7 @@
 1–2 июля, Одесса
 
 <details>
-  <summary>**Доклады**</summary>
+  <summary>Доклады</summary>
 
   - «Progressive Web Apps или как сделать веб-приложение ближе к нативному», Тимофей Лавренюк
   - «Троянская война: SinonJS», Александра Калинина
