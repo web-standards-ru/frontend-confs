@@ -40,6 +40,7 @@
 
 <details>
   <summary>Предварительный список тем</summary>
+  
   - Архитектура современных JS-приложений
   - Node.js: best practices, performance, memory management
   - JS и спецификация ECMAScript
@@ -67,15 +68,15 @@
 
 <details>
   <summary>Доклады</summary>
-
-- «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
-- «Paint the Web with CSS. On Creating Art with Code», Eva Lettner (ChillBill)
-- «Creating Magic With Houdini», Patrick Kettner (Microsoft)
-- «Is CSS-in-JS Really That Bad Idea?», Andrey Okonetchnikov
-- «Chinese Typography on the Web», Hui Jing Chen (Wismut Labs)
-- «Breaking the Norm with Creative CSS», Agnieszka Naplocha (Adobe)
-- «Accessible UX», Manuel Matuzovic
-- «Designing Declarative APIs», Ilya Birman (Bureau Gorbunov)
+  
+  - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
+  - «Paint the Web with CSS. On Creating Art with Code», Eva Lettner (ChillBill)
+  - «Creating Magic With Houdini», Patrick Kettner (Microsoft)
+  - «Is CSS-in-JS Really That Bad Idea?», Andrey Okonetchnikov
+  - «Chinese Typography on the Web», Hui Jing Chen (Wismut Labs)
+  - «Breaking the Norm with Creative CSS», Agnieszka Naplocha (Adobe)
+  - «Accessible UX», Manuel Matuzovic
+  - «Designing Declarative APIs», Ilya Birman (Bureau Gorbunov)
 </details>
 
 ## Нижний_Новгород
