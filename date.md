@@ -23,7 +23,6 @@
 - «Breaking the Norm with Creative CSS», Agnieszka Naplocha (Adobe)
 - «Accessible UX», Manuel Matuzovic
 - «Designing Declarative APIs», Ilya Birman (Bureau Gorbunov)
-
 </details>
 
 ### [JS NN #6](https://www.it52.info/events/2017-06-17-js-nn-6-603059bf-c448-472e-b689-381684f8b4dd)
@@ -135,8 +134,6 @@
 
 26 августа, Львов
 
-<!-- 
- -->
 ## Сентябрь
 
 ### [DevFest Siberia 2017](http://it-events.com/events/9055)

@@ -39,7 +39,7 @@
 10-11 декабря
 
 <details>
-  <summary>**Предварительный список тем**</summary>
+  <summary>Предварительный список тем</summary>
   - Архитектура современных JS-приложений
   - Node.js: best practices, performance, memory management
   - JS и спецификация ECMAScript
@@ -57,7 +57,6 @@
   - Desktop apps (Electron и т.п.)
   - Babel
   - Web developer workflow
-
 </details>
 
 ## Санкт-Петербург
@@ -77,7 +76,6 @@
 - «Breaking the Norm with Creative CSS», Agnieszka Naplocha (Adobe)
 - «Accessible UX», Manuel Matuzovic
 - «Designing Declarative APIs», Ilya Birman (Bureau Gorbunov)
-
 </details>
 
 ## Нижний_Новгород
@@ -177,7 +175,7 @@
 
 5 августа
 
-## Львов 
+## Львов
 
 ### [LvivJS](http://www.lvivjs.org.ua/)
 
