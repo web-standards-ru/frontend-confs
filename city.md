@@ -1,38 +1,14 @@
 # По городам
 
 - **[Москва](#Москва)**
-- **[Санкт-Петербург](#Санкт-Петербург)**
-- [Нижний Новгород](#Нижний_Новгород)
 - [Новосибирск](#Новосибирск)
-- [Ростов-на-Дону](#Ростов-на-Дону)
 - [Рязань](#Рязань)
 - [Одесса](#Одесса)
-- [Орёл](#Орёл)
 - [Ульяновск](#Ульяновск)
 - [Винница](#Винница)
 - [Львов](#Львов)
 
 ## Москва
-
-### [DevConf](https://devconf.ru/ru)
-
-17-18 июня
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Гибкая расширяемая архитектура компонентов или как правильно приготовить React и БЭМ», Виталий Грин
-  - «Возвращаем фронтенд на сервер с Korolev», Алексей Фомкин
-  - «Angular 4: конфигурируем до неузнаваемости», Алексей Охрименко
-  - «React Native - Learn once, write anywhere», Дмитрий Пацура
-  - «Выбор JS-фреймоврка для крупного проекта», Сергей Аверин
-  - «ReactVR: как пообщаться голосом в виртуальном пространстве», Григорий Петров
-  - «Цена пропущенного фрейма», Дмитрий Шуранов
-  - «Lua-in-Moscow: Быстрое прототипирование функциональных макетов UI на Lua и Mermaid.js», Александр Гладыш
-  - «Lua-in-Moscow: Вжух - и написал кроссплатформенную игру», Sergey Lerg
-  - «Lua-in-Moscow: Архитектура бэкенда нагруженной игры на C++ и Lua», Андрей Трифанов
-  - «Lua-in-Moscow: Как и зачем LuaJIT нарушает DRY?», Антон Солдатов
-</details>
 
 ### [HolyJS](https://holyjs-moscow.ru/)
 
@@ -60,69 +36,23 @@
   - Web developer workflow
 </details>
 
-## Санкт-Петербург
-
-### [pitercss conference](https://pitercss.com/)
-
-16 июня
-
-<details>
-  <summary>Доклады</summary>
-  
-  - «Designing Data-Driven Products. Controlled Chaos and Evolution», Anton Shein (Yandex)
-  - «Paint the Web with CSS. On Creating Art with Code», Eva Lettner (ChillBill)
-  - «Creating Magic With Houdini», Patrick Kettner (Microsoft)
-  - «Is CSS-in-JS Really That Bad Idea?», Andrey Okonetchnikov
-  - «Chinese Typography on the Web», Hui Jing Chen (Wismut Labs)
-  - «Breaking the Norm with Creative CSS», Agnieszka Naplocha (Adobe)
-  - «Accessible UX», Manuel Matuzovic
-  - «Designing Declarative APIs», Ilya Birman (Bureau Gorbunov)
-</details>
-
-## Нижний_Новгород
-
-### [JS NN #6](https://www.it52.info/events/2017-06-17-js-nn-6-603059bf-c448-472e-b689-381684f8b4dd)
-
-17 июня
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Фронтенд для миллионов», Анастасия Горячева (avito.ru)
-  - «Unit тесты в NodeJS», Кирилл Новиков
-  - «Секретный доклад не про Vue.js», Макаров Андрей
-  - «Генераторы в javascript», Михаил Ангелов
-  - «React + Redux: Data flow management», Андрей Синицын
-</details>
-
 ## Новосибирск
 
 ### [DevFest Siberia 2017](http://it-events.com/events/9055)
 
 23-24 сентября
 
-## Ростов-на-Дону
-
-### [RND.JS #3](https://it61.info/events/2017-06-24-rnd-js-3-170)
-
-24 июня
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Управляемые каскады в React-компонентах», Кирилл Агалаков (DevExperts)
-  - «TDD with React/Redux»,  Глеб Паньшин (Точка Кипения)
-  - «Styled-components в react. Стили, css modules, css-in-js и styled-components», Тигран Тумасов (These Guys)
-  - «Определение устройства и его производительности в мобильном вебе», Денис Ильин (Songsterr)
-  - «А у вас в фреймворке веб апи убежало», Виктор Суздалев (CodeHipsters) 
-
-</details>
-
 ## Рязань 
 
 ### [WebPurple Meetup #20](https://webpurple.timepad.ru/event/510796/)
 
 29 июня
+
+<details>
+  <summary>Тема</summary>
+Руслан Абрамов расскажет об основных концепциях функционального программирования, о том, как они могут быть применены к языку Javascript. 
+
+</details>
 
 ## Одесса
 
@@ -133,36 +63,54 @@
 <details>
   <summary>Доклады</summary>
 
-  - «Progressive Web Apps или как сделать веб-приложение ближе к нативному», Тимофей Лавренюк
-  - «Троянская война: SinonJS», Александра Калинина
-  - «Component-Driven Development», Кожухаренко Николай
-  - «Понимание Vim», Бойко Виктор
-  - «Dart... жив?», Гусев Евгений
-  - «Use cases of Node.js Streams», Andrii Shumada
-  - «Как правильно думать», Oleksiy Pletnov
-  - «Reactive State Management with Focal», Григорий Шехет
+  - «Функциональная садо-мазо разработка на TypeScript и F# с примесью Elm», Андрей Чебукин 
+  - «Offline first made right with Reflex», Denis Yaremov 
+  - «Easy ways to speed up your web app», Артем Денисов 
+  - «I didn’t know the browser could do that!», Sam Bellen
+  - «Real world WebAssembly», Sergey Rubanov 
+  - «JS static typing. What and why», Helen Zhukova 
+  - «Magic of Vue.js», Andrew Borisenko 
+  - «Unleashing the power of GraphQL and React», Gerard Sans
+  - «Service-oriented GraphQL», Nick Raienko 
+  - «Дарт...жив?», Евгений Гусев 
+  - «V8 + libuv = Node.js. Under the hood», Yurii Shevtsov 
+  - «DDD во фронтенде. WAT? WTF? YAGNI!», Alex Migutsky 
+  - «More Than Music: Tiny Computers, JavaScript and MIDI», George Mandis  
+  - «Best practices of Node.js in production», Nikita Galkin 
+  - «Пишу на колбеках, а что... (Асинхронное программирование)», Timur Shemsedinov 
+  - «The rise of javascript robotics», Markus Leutwyler
+  - «Machine Learning and AI - зачем оно мне джаваскриптеру?», Philip Shurpik 
+  - «Practical difficulties and approaches to its solution in node.js development (not final)», Vitaliy Lebedev 
+  - «High-performance IPC and RPC for microservices and apps», Alexey Orlenko 
+  - «Облако в штанах», Yuriy Dadichin 
+  - «Angular Universal», Artem Paliy 
+  - «Лайфхаки для фронтендера», Alexey Zolotykh 
+  - «Angular 4 Animate: завтрашние UI технологии», Anton Vidinev 
+  - «KonamiJS: a 10 year old Open Source project», George Mandis
+  - «Subject: Oh my Node или что нужно знать о безопасности в NodeJS», Roman Sachenko 
+  - «Progressive Web Apps или как сделать веб-приложение ближе к нативному», Timofey Lavrenyuk 
+  - «Groupware System for fun and profit», Maksym Klymyshyn 
+  - «Angular Testing Recipes (v4+)», Gerard Sans
+  - «Enhancing durability of ReactJS applications with Elm components», Vyacheslav Voronchuk 
+  - «Remote Developer Crash Start», Alex Rozumii 
+  - «Как правильно думать», Oleksiy Pletnov 
+  - «Neural networks in js», Vsevolod Rodionov 
+  - «Reactive State Management», Gregory Shehet 
+  - «JSPM way of doing ES6 development», Sergey Seletskyy
+  - «Changing live audio with the web-audio-api», Sam Bellen  
+  - «Cross-shell prompts in JavaScript», Denys Dovhan 
+  - «Component Driven Development», Nikolay Kozhukharenko 
+  - «Use cases of Node.js Streams», Andrii Shumada 
+  - «RxJS - think reactevly», Aleksandr Gribanov 
+  - «Эволюция архитектуры ИС», Timur Shemsedinov 
+  - «Modern approach to localization in javascript with the good old gettext and c-3po», Alexander Mostovenko 
+  - «Trojan War: Sinon», Oleksandra Kalinina 
+
 </details>
 
 ### [WebCamp'17](http://webcamp.in.ua)
 
 7–9 июля
-
-## Орёл
-
-### [Орелъ JS Meetup](http://oreljs.ru/)
-
-24 июня
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Как стать фронтендером в Орле», Александр Мотин (Braind)
-  - «Angular 4 не так уж и плох, а если задуматься то и просто хорош», Алексей Охрименко (IPONWEB)
-  - «Настройка среды разработки с использованием TypeScript, ES6-модулей и VisualStudio на основе SystemJS», Павел Богатырёв (Docsvision)
-  - «DraftJS: Компонентный подход в визуальных редакторах», Александр Федотов
-  - «Фронтенд для миллионов», Анастасия Горячева (Avito)
-
-</details>
 
 ## Ульяновск
 
@@ -170,11 +118,34 @@
 
 14–16 июля
 
+<details>
+  <summary>Доклады</summary>
+
+- «Личная эффективность: исповедь человека, который ничего не успевает», Алексей Бородкин (Notamedia)
+- «Что программисту нужно знать про дизайн», Алексей Бородкин (Notamedia)
+- «Влияние IT на тракерские пути: сказки о том, как один стартап baas использовал, табличку users в трех базах хранил и на лиспе писал», Андрей Неверов (Trucker Path)
+- «Личная и корпоративная информационная безопасность — как не остаться в дураках», Самат Галимов (Meduza)
+- «Пуши, а особенно веб-пуши — портал в ад», Самат Галимов (Meduza)
+  
+</details>
+
 ## Винница
 
 ### [VinnytsiaJS](http://vinnytsiajs.org/)
 
 5 августа
+
+<details>
+  <summary>Доклады</summary>
+
+  - «Accelerated Mobile Pages: Making the Web Fast and Compelling», Denis Vlassenko
+  - «Custom CLI tools in the project. Flexibility and comfort for every day tasks automatisation. Command line tools in NodeJS: How to create, where to use, how to adopt for the project. General overview, tools, common tasks etc.», Denis Kuzin
+  - «React Next - Fiber and Some other neat things», Yevhen Shemet
+  - «Implementing UI testing using screenshots in CI process», Sergey Puzankov
+  - «Multipackages applications: what? why? when?», Andrey Kucherenko
+  - «PWA - native apps power in web», Borys Mohyla
+  
+</details>
 
 ## Львов
 
