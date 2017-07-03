@@ -1,6 +1,7 @@
 # По городам
 
 - **[Москва](#Москва)**
+- **[Санкт-Петербург](#Санкт-Петербург)**
 - [Новосибирск](#Новосибирск)
 - [Рязань](#Рязань)
 - [Одесса](#Одесса)
@@ -36,77 +37,39 @@
   - Web developer workflow
 </details>
 
+## Санкт-Петербург
+
+### [Ember.js Meetup](https://ember-js-spb.timepad.ru/event/524391/)
+
+6 июля c 17:30 до 20:30
+
+<details>
+  <summary>Темы обсуждения</summary>
+
+  - Как перенести Backbone приложение на Ember.js за 5 дней.
+  - Как уйти от фронтенда на Django к SPA на Ember.js + Django REST
+  - Можно ли работать с Ember.js, когда у меня на бекенде полный ужас.
+  - 5000 моделей на клиенте - это ещё не предел.
+  - Как поддерживать 3 проекта 1 разработчику без боли и страданий.
+  - Мой JSON весит 10 мегабайт и при парсинге подвешивает страницу, что делать.
+  - Зачем WebWorkers в продакшн?
+  - Что, кроме админок, можно сделать на Ember.js
+  - Как сказать пользователю, что пора обновить своё SPA.
+  - Нужны ли кнопки для сохранения форм.
+  - Пишем код, на который хочется смотреть.
+  - Интерактивные приложения с Ember.js.
+  - JS Генераторы в продакшн, возможно ли это и зачем они нужны.
+  - От каких проблем можно убежать с помощью Ember.JS?
+  - Что такое Ember Coin.
+</details>  
+
 ## Новосибирск
 
 ### [DevFest Siberia 2017](http://it-events.com/events/9055)
 
 23-24 сентября
 
-## Рязань 
-
-### [WebPurple Meetup #20](https://webpurple.timepad.ru/event/510796/)
-
-29 июня
-
-<details>
-  <summary>Тема</summary>
-Руслан Абрамов расскажет об основных концепциях функционального программирования, о том, как они могут быть применены к языку Javascript. 
-
-</details>
-
 ## Одесса
-
-### [Odessa JS 2017](https://odessajs.org/)
-
-1–2 июля
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Функциональная садо-мазо разработка на TypeScript и F# с примесью Elm», Андрей Чебукин 
-  - «Offline first made right with Reflex», Denis Yaremov 
-  - «Easy ways to speed up your web app», Артем Денисов 
-  - «I didn’t know the browser could do that!», Sam Bellen
-  - «Real world WebAssembly», Sergey Rubanov 
-  - «JS static typing. What and why», Helen Zhukova 
-  - «Magic of Vue.js», Andrew Borisenko 
-  - «Unleashing the power of GraphQL and React», Gerard Sans
-  - «Service-oriented GraphQL», Nick Raienko 
-  - «Дарт...жив?», Евгений Гусев 
-  - «V8 + libuv = Node.js. Under the hood», Yurii Shevtsov 
-  - «DDD во фронтенде. WAT? WTF? YAGNI!», Alex Migutsky 
-  - «More Than Music: Tiny Computers, JavaScript and MIDI», George Mandis  
-  - «Best practices of Node.js in production», Nikita Galkin 
-  - «Пишу на колбеках, а что... (Асинхронное программирование)», Timur Shemsedinov 
-  - «The rise of javascript robotics», Markus Leutwyler
-  - «Machine Learning and AI - зачем оно мне джаваскриптеру?», Philip Shurpik 
-  - «Practical difficulties and approaches to its solution in node.js development (not final)», Vitaliy Lebedev 
-  - «High-performance IPC and RPC for microservices and apps», Alexey Orlenko 
-  - «Облако в штанах», Yuriy Dadichin 
-  - «Angular Universal», Artem Paliy 
-  - «Лайфхаки для фронтендера», Alexey Zolotykh 
-  - «Angular 4 Animate: завтрашние UI технологии», Anton Vidinev 
-  - «KonamiJS: a 10 year old Open Source project», George Mandis
-  - «Subject: Oh my Node или что нужно знать о безопасности в NodeJS», Roman Sachenko 
-  - «Progressive Web Apps или как сделать веб-приложение ближе к нативному», Timofey Lavrenyuk 
-  - «Groupware System for fun and profit», Maksym Klymyshyn 
-  - «Angular Testing Recipes (v4+)», Gerard Sans
-  - «Enhancing durability of ReactJS applications with Elm components», Vyacheslav Voronchuk 
-  - «Remote Developer Crash Start», Alex Rozumii 
-  - «Как правильно думать», Oleksiy Pletnov 
-  - «Neural networks in js», Vsevolod Rodionov 
-  - «Reactive State Management», Gregory Shehet 
-  - «JSPM way of doing ES6 development», Sergey Seletskyy
-  - «Changing live audio with the web-audio-api», Sam Bellen  
-  - «Cross-shell prompts in JavaScript», Denys Dovhan 
-  - «Component Driven Development», Nikolay Kozhukharenko 
-  - «Use cases of Node.js Streams», Andrii Shumada 
-  - «RxJS - think reactevly», Aleksandr Gribanov 
-  - «Эволюция архитектуры ИС», Timur Shemsedinov 
-  - «Modern approach to localization in javascript with the good old gettext and c-3po», Alexander Mostovenko 
-  - «Trojan War: Sinon», Oleksandra Kalinina 
-
-</details>
 
 ### [WebCamp'17](http://webcamp.in.ua)
 
