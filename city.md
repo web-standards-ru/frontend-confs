@@ -1,14 +1,19 @@
 # По городам
 
 - **[Москва](#Москва)**
+- [Екатеринбург](#Екатеринбург)
+- [Краснодар](#Краснодар)
 - [Новосибирск](#Новосибирск)
-- [Рязань](#Рязань)
-- [Одесса](#Одесса)
-- [Ульяновск](#Ульяновск)
 - [Винница](#Винница)
 - [Львов](#Львов)
+- [Минск](#Минск)
+- [Харьков](#Харьков)
 
 ## Москва
+
+### [Moscow Frontend Conference](http://frontconf.moscow)
+
+2 сентября
 
 ### [HolyJS](https://holyjs-moscow.ru/)
 
@@ -36,99 +41,56 @@
   - Web developer workflow
 </details>
 
+<details>
+  <summary>Доклады</summary>
+  
+  - «The Post JavaScript Apocalypse», Douglas Crockford
+  - «Managing Asynchronicity with RQ», Douglas Crockford
+  - «New Adventures in Responsive Web Design», Виталий Фридман
+  - «Big Bang Redesign: Smashing Magazine’s 2017 Relaunch, a Case Study», Виталий Фридман
+  - «Better, faster, stronger — getting more from the web platform», Martin Splitt
+  - «/Reg(exp){2}lained/: Demystifying Regular Expressions», Lea Verou
+  - «Bending time with Schedulers and RxJS 5», Gerard Sans
+  - «HyperDB — a scalable key-value store», Mathias Buus Madsen
+  - «Testing serverless applications», Slobodan Stojanovic
+
+</details>
+
+<!-- 
+ -->
+## Екатеринбург
+
+### [Fronttalks](http://fronttalks.ru)
+
+16-17 сентября
+
+<!-- 
+ -->
+## Краснодар
+
+### [Krasnodar Dev Days #2](https://krddevdays.timepad.ru/event/512166/)
+
+17 сентября
+
+<details>
+  <summary>Доклады и расписание в процессе утверждения</summary>
+
+  - «Nuxt.js — фреймворк для приложений на Vue.js», Андрей Солодовников
+  - «Построение высокопроизводительного отказоустойчивого хранилища для Big Data и Stateful сервисов», Евгений Хашин
+  - «Тест Джоэла Спольски. 20 лет спустя. Наши дни», Иван Муратов
+
+</details>
+
+<!-- 
+ -->
 ## Новосибирск
 
-### [DevFest Siberia 2017](http://it-events.com/events/9055)
+### [DevFest Siberia 2017](https://gdg-siberia.com)
 
 23-24 сентября
 
-## Рязань 
-
-### [WebPurple Meetup #20](https://webpurple.timepad.ru/event/510796/)
-
-29 июня
-
-<details>
-  <summary>Тема</summary>
-Руслан Абрамов расскажет об основных концепциях функционального программирования, о том, как они могут быть применены к языку Javascript. 
-
-</details>
-
-## Одесса
-
-### [Odessa JS 2017](https://odessajs.org/)
-
-1–2 июля
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Функциональная садо-мазо разработка на TypeScript и F# с примесью Elm», Андрей Чебукин 
-  - «Offline first made right with Reflex», Denis Yaremov 
-  - «Easy ways to speed up your web app», Артем Денисов 
-  - «I didn’t know the browser could do that!», Sam Bellen
-  - «Real world WebAssembly», Sergey Rubanov 
-  - «JS static typing. What and why», Helen Zhukova 
-  - «Magic of Vue.js», Andrew Borisenko 
-  - «Unleashing the power of GraphQL and React», Gerard Sans
-  - «Service-oriented GraphQL», Nick Raienko 
-  - «Дарт...жив?», Евгений Гусев 
-  - «V8 + libuv = Node.js. Under the hood», Yurii Shevtsov 
-  - «DDD во фронтенде. WAT? WTF? YAGNI!», Alex Migutsky 
-  - «More Than Music: Tiny Computers, JavaScript and MIDI», George Mandis  
-  - «Best practices of Node.js in production», Nikita Galkin 
-  - «Пишу на колбеках, а что... (Асинхронное программирование)», Timur Shemsedinov 
-  - «The rise of javascript robotics», Markus Leutwyler
-  - «Machine Learning and AI - зачем оно мне джаваскриптеру?», Philip Shurpik 
-  - «Practical difficulties and approaches to its solution in node.js development (not final)», Vitaliy Lebedev 
-  - «High-performance IPC and RPC for microservices and apps», Alexey Orlenko 
-  - «Облако в штанах», Yuriy Dadichin 
-  - «Angular Universal», Artem Paliy 
-  - «Лайфхаки для фронтендера», Alexey Zolotykh 
-  - «Angular 4 Animate: завтрашние UI технологии», Anton Vidinev 
-  - «KonamiJS: a 10 year old Open Source project», George Mandis
-  - «Subject: Oh my Node или что нужно знать о безопасности в NodeJS», Roman Sachenko 
-  - «Progressive Web Apps или как сделать веб-приложение ближе к нативному», Timofey Lavrenyuk 
-  - «Groupware System for fun and profit», Maksym Klymyshyn 
-  - «Angular Testing Recipes (v4+)», Gerard Sans
-  - «Enhancing durability of ReactJS applications with Elm components», Vyacheslav Voronchuk 
-  - «Remote Developer Crash Start», Alex Rozumii 
-  - «Как правильно думать», Oleksiy Pletnov 
-  - «Neural networks in js», Vsevolod Rodionov 
-  - «Reactive State Management», Gregory Shehet 
-  - «JSPM way of doing ES6 development», Sergey Seletskyy
-  - «Changing live audio with the web-audio-api», Sam Bellen  
-  - «Cross-shell prompts in JavaScript», Denys Dovhan 
-  - «Component Driven Development», Nikolay Kozhukharenko 
-  - «Use cases of Node.js Streams», Andrii Shumada 
-  - «RxJS - think reactevly», Aleksandr Gribanov 
-  - «Эволюция архитектуры ИС», Timur Shemsedinov 
-  - «Modern approach to localization in javascript with the good old gettext and c-3po», Alexander Mostovenko 
-  - «Trojan War: Sinon», Oleksandra Kalinina 
-
-</details>
-
-### [WebCamp'17](http://webcamp.in.ua)
-
-7–9 июля
-
-## Ульяновск
-
-### [Ulcamp-2017](https://2017.ulcamp.ru/)
-
-14–16 июля
-
-<details>
-  <summary>Доклады</summary>
-
-- «Личная эффективность: исповедь человека, который ничего не успевает», Алексей Бородкин (Notamedia)
-- «Что программисту нужно знать про дизайн», Алексей Бородкин (Notamedia)
-- «Влияние IT на тракерские пути: сказки о том, как один стартап baas использовал, табличку users в трех базах хранил и на лиспе писал», Андрей Неверов (Trucker Path)
-- «Личная и корпоративная информационная безопасность — как не остаться в дураках», Самат Галимов (Meduza)
-- «Пуши, а особенно веб-пуши — портал в ад», Самат Галимов (Meduza)
-  
-</details>
-
+<!-- 
+ -->
 ## Винница
 
 ### [VinnytsiaJS](http://vinnytsiajs.org/)
@@ -144,11 +106,69 @@
   - «Implementing UI testing using screenshots in CI process», Sergey Puzankov
   - «Multipackages applications: what? why? when?», Andrey Kucherenko
   - «PWA - native apps power in web», Borys Mohyla
-  
+  - «Serverless applications with cross-cloud experience», Andriy Deren
+  - «Immutable.js under the hood», Vitali Fokin
+  - «Docker for Node.js Developer», Nikita Galkin
+  - «Project experience in Angular2+», Kostiantyn Hryshyn
+  - «Machines must suffer», Oleksandr Pavlyshch
+
 </details>
 
+<!-- 
+ -->
 ## Львов
 
 ### [LvivJS](http://www.lvivjs.org.ua/)
 
 26 августа
+
+<details>
+  <summary>Доклады</summary>
+
+  - «WebVR - the next frontier», Martin Splitt
+  - «Honey, we have a chatbot», Roman Rodomanskyy 
+  - «Code Transformation for Fun and Profit», Roman Liutikov
+  - «Building serverless applications with firebase and google functions», Artem Arkhipov
+  - «TV in Browsers: Live Cases», Aliaksandr Karlovich
+  - «Evolutionary Programming on JS», Dmytro Tarasenko
+
+</details>
+
+<!-- 
+ -->
+## Минск 
+
+### [The Rolling Scopes #41](https://minsk.rollingscopes.com/)
+
+15 августа
+
+<details>
+  <summary>Доклады</summary>
+
+  - «Декорируем JavaScript», Денис Влассенко
+  - «История одного проекта Wargaming», Петр Романовский
+  - «Persistent memory and Linux», Кирилл Шутемов
+
+</details>
+
+### [Frontend Dev Conf](https://fdconf.by/ru/)
+
+30 сентября
+
+<details>
+  <summary>Доклады</summary>
+
+  - «Bring WEB to the game client», Maxim Schepelin (Wargaming)
+  - «The rise of Javascript Robotics», Markus Leutwyler
+  - «A deep dive into the web-audio API», Sam Bellen
+  - «Handling GraphQL with React and Apollo», Radoslav Stankov
+
+</details>
+
+<!-- 
+ -->
+## Харьков
+
+### [KharkivJS #8](http://kharkivjs.org/)
+
+28-29 октября
