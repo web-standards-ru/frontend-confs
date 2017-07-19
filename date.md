@@ -117,29 +117,6 @@
 10-11 декабря, Москва
 
 <details>
-  <summary>Предварительный список тем</summary>
-  
-  - Архитектура современных JS-приложений
-  - Node.js: best practices, performance, memory management
-  - JS и спецификация ECMAScript
-  - Практика применения ES6 и ES7
-  - Оптимизация JS-приложений
-  - Функциональное программирование на JS
-  - Kлиент-серверная синхронизация
-  - Тестирование приложений
-  - Работа с графикой (WebGL, D3.js и т.п.)
-  - Web API (Bluetooth, Network API, IndexedDB, Web Notifications и т.п.)
-  - WebAssembly
-  - JS engines
-  - JS на устройствах
-  - Progressive Web Apps
-  - Desktop apps (Electron и т.п.)
-  - Babel
-  - Web developer workflow
-
-</details>
-
-<details>
   <summary>Доклады</summary>
   
   - «The Post JavaScript Apocalypse», Douglas Crockford
