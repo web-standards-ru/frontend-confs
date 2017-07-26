@@ -25,6 +25,7 @@
   - «Docker for Node.js Developer», Nikita Galkin
   - «Project experience in Angular2+», Kostiantyn Hryshyn
   - «Machines must suffer», Oleksandr Pavlyshch
+  - «The portrait of professional developer 3.0», Mikalai Alimenkou
 
 </details>
 
@@ -54,6 +55,9 @@
   - «Building serverless applications with firebase and google functions», Artem Arkhipov
   - «TV in Browsers: Live Cases», Aliaksandr Karlovich
   - «Evolutionary Programming on JS», Dmytro Tarasenko
+  - «How to hack a node app?», Assim Hussain
+  - «Cannibal UI», Vadim Makeev
+  - «Web is secure. Let's hack it», Andriy Vandakurov
 
 </details>
 
@@ -65,9 +69,21 @@
 
 2 сентября, Москва
 
+### [moscowcss №4](https://www.facebook.com/cssmoscow)
+
+7 сентября, Москва 
+
 ### [Fronttalks](http://fronttalks.ru)
 
 16-17 сентября, Екатеринбург
+
+<details>
+  <summary>Доклады</summary>
+
+  - «Rendering performance inside out», Martin Splitt
+  - «Тестируем пользовательские сценарии вместе с Гермионой», Николай Ильченко
+
+</details>
 
 ### [Krasnodar Dev Days #2](https://krddevdays.timepad.ru/event/512166/)
 
@@ -85,6 +101,8 @@
 ### [DevFest Siberia 2017](https://gdg-siberia.com)
 
 23-24 сентября, Новосибирск
+  
+  [Список спикеров конференции](https://gdg-siberia.com/speakers/)
 
 ### [Frontend Dev Conf](https://fdconf.by/ru/)
 
@@ -97,6 +115,9 @@
   - «The rise of Javascript Robotics», Markus Leutwyler
   - «A deep dive into the web-audio API», Sam Bellen
   - «Handling GraphQL with React and Apollo», Radoslav Stankov
+  - «Accessibility as Performance», Estelle Weyl
+  - «Квант изменения. Реактивные реакции на React», Антон Киршанов
+  - «8 1/2 things about serverless», Slobodan Stojanovic
 
 </details>
 
