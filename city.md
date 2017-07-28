@@ -156,6 +156,30 @@
 
 </details>
 
+### [CSS-Minsk-JS 2017](http://css-minsk-js.by)
+
+10 сентября
+
+<details>
+  <summary>Доклады</summary>
+
+  - "Why Fast Matters", Harry Roberts
+  - "Clever, stop being so", Hugo Giraudel
+  - "CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back", Serg Hospodarets
+  - "Breaking the norm with CSS", Aga Naplocha
+  - "I18N - you doing it wrong!.. probably…", Aleksey Okhrimenko
+  - "TBA", Nikita Prokopov
+  - "TBA", Alexey Ivanov
+  - "TBA", Martin Splitt
+  - "TBA", Eva Lettner
+  - "TBA", Robert Haritonov
+  - "TBA", Zarema Khalilova
+  - "TBA", Manuel Matuzovic
+  - "TBA", Zach Leatherman
+  - "TBA", Yuriy Artyukh
+
+</details>
+
 ### [Frontend Dev Conf](https://fdconf.by/ru/)
 
 30 сентября
