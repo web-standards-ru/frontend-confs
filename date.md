@@ -17,15 +17,16 @@
   - «Accelerated Mobile Pages: Making the Web Fast and Compelling», Denis Vlassenko
   - «Custom CLI tools in the project. Flexibility and comfort for every day tasks automatisation. Command line tools in NodeJS: How to create, where to use, how to adopt for the project. General overview, tools, common tasks etc.», Denis Kuzin
   - «React Next - Fiber and Some other neat things», Yevhen Shemet
-  - «Implementing UI testing using screenshots in CI process», Sergey Puzankov
   - «Multipackages applications: what? why? when?», Andrey Kucherenko
   - «PWA - native apps power in web», Borys Mohyla
   - «Serverless applications with cross-cloud experience», Andriy Deren
-  - «Immutable.js under the hood», Vitali Fokin
   - «Docker for Node.js Developer», Nikita Galkin
   - «Project experience in Angular2+», Kostiantyn Hryshyn
   - «Machines must suffer», Oleksandr Pavlyshch
   - «The portrait of professional developer 3.0», Mikalai Alimenkou
+  - «Strict JavaScript», Helen Zhukova
+  - «Perf again? Let's play fonts», Artem Denysov
+  - «NestJS. When patterns matters», Ostap Chervak
 
 </details>
 
@@ -75,25 +76,25 @@
 
 ### [CSS-Minsk-JS 2017](http://css-minsk-js.by)
 
-10 сентября
+10 сентября, Минск
 
 <details>
   <summary>Доклады</summary>
 
-  - "Why Fast Matters", Harry Roberts
-  - "Clever, stop being so", Hugo Giraudel
-  - "CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back", Serg Hospodarets
-  - "Breaking the norm with CSS", Aga Naplocha
-  - "I18N - you doing it wrong!.. probably…", Aleksey Okhrimenko
-  - "TBA", Nikita Prokopov
-  - "TBA", Alexey Ivanov
-  - "TBA", Martin Splitt
-  - "TBA", Eva Lettner
-  - "TBA", Robert Haritonov
-  - "TBA", Zarema Khalilova
-  - "TBA", Manuel Matuzovic
-  - "TBA", Zach Leatherman
-  - "TBA", Yuriy Artyukh
+  - «Why Fast Matters», Harry Roberts
+  - «Clever, stop being so», Hugo Giraudel
+  - «CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back», Serg Hospodarets
+  - «Breaking the norm with CSS», Aga Naplocha
+  - «I18N - you doing it wrong!.. probably…», Aleksey Okhrimenko
+  - «TBA», Nikita Prokopov
+  - «TBA», Alexey Ivanov
+  - «TBA», Martin Splitt
+  - «TBA», Eva Lettner
+  - «TBA», Robert Haritonov
+  - «TBA», Zarema Khalilova
+  - «TBA», Manuel Matuzovic
+  - «TBA», Zach Leatherman
+  - «TBA», Yuriy Artyukh
 
 </details>
 
@@ -106,6 +107,9 @@
 
   - «Rendering performance inside out», Martin Splitt
   - «Тестируем пользовательские сценарии вместе с Гермионой», Николай Ильченко
+  - «Waaaaasm?», Валерий Кузьмин
+  - «Нативная валидация как фреймворк», Павел Ловцевич
+  - «Lessons from the field: bringing digital products to emerging markets», Ally Long
 
 </details>
 
@@ -119,6 +123,9 @@
   - «Nuxt.js — фреймворк для приложений на Vue.js», Андрей Солодовников
   - «Построение высокопроизводительного отказоустойчивого хранилища для Big Data и Stateful сервисов», Евгений Хашин
   - «Тест Джоэла Спольски. 20 лет спустя. Наши дни», Иван Муратов
+  - «Get git», Александр Иванов
+  - «Кросс-функциональные команды и самоорганизация в основе Agile», Денис Сальников
+  - «Realm vs CoreData», Ник Ков
 
 </details>
 
@@ -127,6 +134,7 @@
 23-24 сентября, Новосибирск
   
   [Список спикеров конференции](https://gdg-siberia.com/speakers/)
+  [Расписание конференции](https://gdg-siberia.com/schedule/)
 
 ### [Frontend Dev Conf](https://fdconf.by/ru/)
 
@@ -142,6 +150,11 @@
   - «Accessibility as Performance», Estelle Weyl
   - «Квант изменения. Реактивные реакции на React», Антон Киршанов
   - «8 1/2 things about serverless», Slobodan Stojanovic
+  - «Почему мне зашел PWA?», Тимофей Лавренюк
+  - «Feedback first», Ilya Birman
+  - «Создаём виртуальный тур», Игорь Еростенко
+  - «Юнит тестирование для ленивых», Владимир Дашукевич
+  - «The Compiler & You — Pleasant PureScript», Christoph Hegemann
 
 </details>
 
