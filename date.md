@@ -113,7 +113,7 @@
 
 </details>
 
-### [Krasnodar Dev Days #2](https://krddevdays.timepad.ru/event/512166/)
+### [Krasnodar Dev Days #2](https://krddevdays.ru)
 
 17 сентября, Краснодар
 
