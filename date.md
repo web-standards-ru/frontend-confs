@@ -1,78 +1,24 @@
 # По датам
 
-- [Август](#Август)
 - [Сентябрь](#Сентябрь)
 - [Октябрь](#Октябрь)
+- [Ноябрь](#Ноябрь)
 - [Декабрь](#Декабрь)
 
-## Август
-
-### [VinnytsiaJS](http://vinnytsiajs.org/)
-
-5 августа, Винница
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Accelerated Mobile Pages: Making the Web Fast and Compelling», Denis Vlassenko
-  - «Custom CLI tools in the project. Flexibility and comfort for every day tasks automatisation. Command line tools in NodeJS: How to create, where to use, how to adopt for the project. General overview, tools, common tasks etc.», Denis Kuzin
-  - «React Next - Fiber and Some other neat things», Yevhen Shemet
-  - «Multipackages applications: what? why? when?», Andrey Kucherenko
-  - «PWA - native apps power in web», Borys Mohyla
-  - «Serverless applications with cross-cloud experience», Andriy Deren
-  - «Docker for Node.js Developer», Nikita Galkin
-  - «Project experience in Angular2+», Kostiantyn Hryshyn
-  - «Machines must suffer», Oleksandr Pavlyshch
-  - «The portrait of professional developer 3.0», Mikalai Alimenkou
-  - «Strict JavaScript», Helen Zhukova
-  - «Perf again? Let's play fonts», Artem Denysov
-  - «NestJS. When patterns matters», Ostap Chervak
-
-</details>
-
-### [The Rolling Scopes #41](https://minsk.rollingscopes.com/)
-
-15 августа, Минск
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Декорируем JavaScript», Денис Влассенко
-  - «История одного проекта Wargaming», Петр Романовский
-  - «Persistent memory and Linux», Кирилл Шутемов
-
-</details>
-
-### [LvivJS](http://www.lvivjs.org.ua/)
-
-26 августа, Львов
-
-<details>
-  <summary>Доклады</summary>
-
-  - «WebVR - the next frontier», Martin Splitt
-  - «Honey, we have a chatbot», Roman Rodomanskyy 
-  - «Code Transformation for Fun and Profit», Roman Liutikov
-  - «Building serverless applications with firebase and google functions», Artem Arkhipov
-  - «TV in Browsers: Live Cases», Aliaksandr Karlovich
-  - «Evolutionary Programming on JS», Dmytro Tarasenko
-  - «How to hack a node app?», Assim Hussain
-  - «Cannibal UI», Vadim Makeev
-  - «Web is secure. Let's hack it», Andriy Vandakurov
-
-</details>
-
-<!-- 
- -->
 ## Сентябрь
 
-### [Moscow Frontend Conference](http://frontconf.moscow)
-
-2 сентября, Москва
-
-### [moscowcss №4](https://www.facebook.com/cssmoscow)
+### [moscowcss №4](https://moscowcss.timepad.ru/event/552269/)
 
 7 сентября, Москва 
+
+<details>
+  <summary>Доклады</summary>
+
+  - «Обратная сторона UI Kit», Максим Панов
+  - «CSS и HTML — это язык программирования», Алексей Охрименко
+  - «Пишем игры без JS», Леонид Лебедев
+
+</details>
 
 ### [CSS-Minsk-JS 2017](http://css-minsk-js.by)
 
@@ -82,19 +28,31 @@
   <summary>Доклады</summary>
 
   - «Why Fast Matters», Harry Roberts
+  - «Designed for Inclusion: Writing CSS with Accessibility in Mind», Manuel Matuzovic
+  - «I18N – you're doing it wrong!.. probably...», Aleksey Okhrimenko
   - «Clever, stop being so», Hugo Giraudel
-  - «CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back», Serg Hospodarets
+  - «Playful webcam», Zarema Khalilova
   - «Breaking the norm with CSS», Aga Naplocha
-  - «I18N - you doing it wrong!.. probably…», Aleksey Okhrimenko
-  - «TBA», Nikita Prokopov
-  - «TBA», Alexey Ivanov
-  - «TBA», Martin Splitt
-  - «TBA», Eva Lettner
-  - «TBA», Robert Haritonov
-  - «TBA», Zarema Khalilova
-  - «TBA», Manuel Matuzovic
-  - «TBA», Zach Leatherman
-  - «TBA», Yuriy Artyukh
+  - «Inner structure of webpack bundle», Alexey Ivanov
+  - «Anything is possible», Yuriy Artyukh
+  - «Client and server need to talk», Nikita Prokopov
+  - «CSS Grid and the magic of creative layouts», Eva Lettner
+  - «The Truth Is Out There... Monitoring Your Isomorphic Application», Robert Haritonov
+  - « Web Fonts are ▢▢▢ Rocket Science», Zach Leatherman
+  - «WebVR: The next frontier», Martin Splitt
+  - «CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back», Serg Hospodarets
+
+</details>
+
+### [Frontend Party](https://events.yandex.ru/events/meetings/13-sep-2017/)
+
+13 сентября, Казань
+
+<details>
+  <summary>Доклады</summary>
+
+  - «ESLint: пятиминутка рекламы», Михаил Трошев
+  - «Знакомство с GraphQL», Сергей Савельев
 
 </details>
 
@@ -105,11 +63,14 @@
 <details>
   <summary>Доклады</summary>
 
-  - «Rendering performance inside out», Martin Splitt
-  - «Тестируем пользовательские сценарии вместе с Гермионой», Николай Ильченко
-  - «Waaaaasm?», Валерий Кузьмин
-  - «Нативная валидация как фреймворк», Павел Ловцевич
-  - «Lessons from the field: bringing digital products to emerging markets», Ally Long
+- «Lessons from the field: bringing digital products to emerging markets», Ally Long
+- «Clientside optimization for mobile devices», Иван Карев
+- «Watch your back, Browser! You're being observed», Stefan Judis
+- «Inner structure of webpack bundle», Алексей Иванов, Evil Martians
+- «8 1/2 things about serverless (with Node.js)», Slobodan Stojanović
+- «Time estimation: short cookbook for developers», Александра Шинкевич
+- «Inhuman UI», Вадим Макеев
+- «Rendering performance inside out», Martin Splitt
 
 </details>
 
@@ -123,9 +84,13 @@
   - «Nuxt.js — фреймворк для приложений на Vue.js», Андрей Солодовников
   - «Построение высокопроизводительного отказоустойчивого хранилища для Big Data и Stateful сервисов», Евгений Хашин
   - «Тест Джоэла Спольски. 20 лет спустя. Наши дни», Иван Муратов
-  - «Get git», Александр Иванов
+  - «get git», Александр Иванов
   - «Кросс-функциональные команды и самоорганизация в основе Agile», Денис Сальников
   - «Realm vs CoreData», Ник Ков
+  - «Зачем мне Python?», Виктор Тыщенко
+  - «WinDbg & Co.: отладка.Net приложений», Павел Колмаков
+  - «Безбажный код. Опыт борьбы с ошибками в большой компании», Алексей Светлицкий
+  - «React: ecosystem & future», Марк Ланговой
 
 </details>
 
@@ -136,6 +101,17 @@
   [Список спикеров конференции](https://gdg-siberia.com/speakers/)
   [Расписание конференции](https://gdg-siberia.com/schedule/)
 
+### [pitercss №14](https://pitercss.timepad.ru/event/564590/)
+
+26 сентября, Санкт-Петербург
+
+<details>
+  <summary>Доклады</summary>
+
+  - «А что, если мы долетим и там будет всё?», Серёжа Попов
+
+</details>
+
 ### [Frontend Dev Conf](https://fdconf.by/ru/)
 
 30 сентября, Минск
@@ -145,6 +121,7 @@
 
   - «Bring WEB to the game client», Maxim Schepelin (Wargaming)
   - «The rise of Javascript Robotics», Markus Leutwyler
+  - «Workshop: Build your own JavaScript powered Robot», Markus Leutwyler
   - «A deep dive into the web-audio API», Sam Bellen
   - «Handling GraphQL with React and Apollo», Radoslav Stankov
   - «Accessibility as Performance», Estelle Weyl
@@ -162,9 +139,52 @@
  -->
 ## Октябрь
 
+### [Съесть собаку](https://eatdog.com.ua/#poster)
+
+12 октября, Харьков
+
+<details>
+  <summary>Доклады</summary>
+  
+  - «Большие проекты, архитектура и фреймворки», Александр Макаров
+  - «Microservices in a wild», Иван Мосев
+
+</details>
+
 ### [KharkivJS #8](http://kharkivjs.org/)
 
 28-29 октября, Харьков
+
+<details>
+  <summary>Доклады</summary>
+  
+  - «Effortless Serverless», Aleksandar Simovic
+  - «How to hack a node app», Asim Hussain
+  - «Pixel shaders for Web developers», Denis Radin
+  - «А что если мы долетим и там будет всё?», Max Popov
+  - «Async programming with JavaScript and Node.js», Timur Shemsedinov
+  - «Your last desperate attempt at AngularJS migration», Asim Hussain
+  - «Groupware Systems for fun and profit CRDT, OT, Offline», Max Klymyshyn
+  - «Async exception handling or when something goes wrong», Nick Lototskiy
+  - «How to be a 10x JavaScript developer», Vladimir Polyakov
+  - «Web VR», Denys Dovhan
+  - «Софт скилы», Yuzva Maksim
+  - «Тайны зеленого замочка», Vladimir Dashukevich
+  - «Vue: business-first», Vitalii Ratyshnyi
+
+</details>
+
+<!-- 
+ -->
+## Ноябрь
+
+### [HighLoad++](http://www.highload.ru/)
+
+7-8 ноября, Москва
+
+### [Dev2Dev](http://dev2dev.ru/)
+
+11 ноября, Красноярск
 
 <!-- 
  -->
