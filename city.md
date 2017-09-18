@@ -44,6 +44,8 @@
   <summary>Доклады</summary>
 
   - «А что, если мы долетим и там будет всё?», Серёжа Попов
+  - «Шрифты в вебе», Владимир Ракчаев
+  - «Может без SVG?», Юлия Маслова
 
 </details>
 
@@ -93,6 +95,10 @@
   - «The Compiler & You — Pleasant PureScript», Christoph Hegemann
 
 </details>
+
+### [Web Standarts Days](https://wsd.events/2017/10/21/)
+
+21 октября
 
 <!-- 
  -->
