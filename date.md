@@ -7,93 +7,6 @@
 
 ## Сентябрь
 
-### [moscowcss №4](https://moscowcss.timepad.ru/event/552269/)
-
-7 сентября, Москва 
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Обратная сторона UI Kit», Максим Панов
-  - «CSS и HTML — это язык программирования», Алексей Охрименко
-  - «Пишем игры без JS», Леонид Лебедев
-
-</details>
-
-### [CSS-Minsk-JS 2017](http://css-minsk-js.by)
-
-10 сентября, Минск
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Why Fast Matters», Harry Roberts
-  - «Designed for Inclusion: Writing CSS with Accessibility in Mind», Manuel Matuzovic
-  - «I18N – you're doing it wrong!.. probably...», Aleksey Okhrimenko
-  - «Clever, stop being so», Hugo Giraudel
-  - «Playful webcam», Zarema Khalilova
-  - «Breaking the norm with CSS», Aga Naplocha
-  - «Inner structure of webpack bundle», Alexey Ivanov
-  - «Anything is possible», Yuriy Artyukh
-  - «Client and server need to talk», Nikita Prokopov
-  - «CSS Grid and the magic of creative layouts», Eva Lettner
-  - «The Truth Is Out There... Monitoring Your Isomorphic Application», Robert Haritonov
-  - « Web Fonts are ▢▢▢ Rocket Science», Zach Leatherman
-  - «WebVR: The next frontier», Martin Splitt
-  - «CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back», Serg Hospodarets
-
-</details>
-
-### [Frontend Party](https://events.yandex.ru/events/meetings/13-sep-2017/)
-
-13 сентября, Казань
-
-<details>
-  <summary>Доклады</summary>
-
-  - «ESLint: пятиминутка рекламы», Михаил Трошев
-  - «Знакомство с GraphQL», Сергей Савельев
-
-</details>
-
-### [Fronttalks](http://fronttalks.ru)
-
-16-17 сентября, Екатеринбург
-
-<details>
-  <summary>Доклады</summary>
-
-- «Lessons from the field: bringing digital products to emerging markets», Ally Long
-- «Clientside optimization for mobile devices», Иван Карев
-- «Watch your back, Browser! You're being observed», Stefan Judis
-- «Inner structure of webpack bundle», Алексей Иванов, Evil Martians
-- «8 1/2 things about serverless (with Node.js)», Slobodan Stojanović
-- «Time estimation: short cookbook for developers», Александра Шинкевич
-- «Inhuman UI», Вадим Макеев
-- «Rendering performance inside out», Martin Splitt
-
-</details>
-
-### [Krasnodar Dev Days #2](https://krddevdays.timepad.ru/event/512166/)
-
-17 сентября, Краснодар
-
-<details>
-  <summary>Доклады и расписание в процессе утверждения</summary>
-
-  - «Nuxt.js — фреймворк для приложений на Vue.js», Андрей Солодовников
-  - «Построение высокопроизводительного отказоустойчивого хранилища для Big Data и Stateful сервисов», Евгений Хашин
-  - «Тест Джоэла Спольски. 20 лет спустя. Наши дни», Иван Муратов
-  - «get git», Александр Иванов
-  - «Кросс-функциональные команды и самоорганизация в основе Agile», Денис Сальников
-  - «Realm vs CoreData», Ник Ков
-  - «Зачем мне Python?», Виктор Тыщенко
-  - «WinDbg & Co.: отладка.Net приложений», Павел Колмаков
-  - «Безбажный код. Опыт борьбы с ошибками в большой компании», Алексей Светлицкий
-  - «React: ecosystem & future», Марк Ланговой
-
-</details>
-
 ### [DevFest Siberia 2017](https://gdg-siberia.com)
 
 23-24 сентября, Новосибирск
@@ -109,6 +22,8 @@
   <summary>Доклады</summary>
 
   - «А что, если мы долетим и там будет всё?», Серёжа Попов
+  - «Шрифты в вебе», Владимир Ракчаев
+  - «Может без SVG?», Юлия Маслова
 
 </details>
 
@@ -151,6 +66,10 @@
 
 </details>
 
+### [Web Stansrts Days](https://wsd.events/2017/10/21/)
+
+21 октября, Минск
+
 ### [KharkivJS #8](http://kharkivjs.org/)
 
 28-29 октября, Харьков
@@ -161,7 +80,7 @@
   - «Effortless Serverless», Aleksandar Simovic
   - «How to hack a node app», Asim Hussain
   - «Pixel shaders for Web developers», Denis Radin
-  - «А что если мы долетим и там будет всё?», Max Popov
+  - «А что если мы долетим и там будет всё?», Сергей Попов
   - «Async programming with JavaScript and Node.js», Timur Shemsedinov
   - «Your last desperate attempt at AngularJS migration», Asim Hussain
   - «Groupware Systems for fun and profit CRDT, OT, Offline», Max Klymyshyn
