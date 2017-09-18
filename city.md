@@ -2,9 +2,6 @@
 
 - **[Москва](#Москва)**
 - **[Санкт-Петербург](#Санкт-Петербург)**
-- [Екатеринбург](#Екатеринбург)
-- [Казань](#Казань)
-- [Краснодар](#Краснодар)
 - [Красноярск](#Красноярск)
 - [Новосибирск](#Новосибирск)
 - [Минск](#Минск)
@@ -52,68 +49,7 @@
 
 <!-- 
  -->
-## Екатеринбург
-
-### [Fronttalks](http://fronttalks.ru)
-
-16-17 сентября
-
-<details>
-  <summary>Доклады</summary>
-
-- «Lessons from the field: bringing digital products to emerging markets», Ally Long
-- «Clientside optimization for mobile devices», Иван Карев
-- «Watch your back, Browser! You're being observed», Stefan Judis
-- «Inner structure of webpack bundle», Алексей Иванов, Evil Martians
-- «8 1/2 things about serverless (with Node.js)», Slobodan Stojanović
-- «Time estimation: short cookbook for developers», Александра Шинкевич
-- «Inhuman UI», Вадим Макеев
-- «Rendering performance inside out», Martin Splitt
-
-</details>
-
-<!-- 
- -->
- ## Казань
-
- ### [Frontend Party](https://events.yandex.ru/events/meetings/13-sep-2017/)
-
-13 сентября
-
-<details>
-  <summary>Доклады</summary>
-
-  - «ESLint: пятиминутка рекламы», Михаил Трошев
-  - «Знакомство с GraphQL», Сергей Савельев
-
-</details>
-
-<!-- 
- -->
-## Краснодар
-
-### [Krasnodar Dev Days #2](https://krddevdays.timepad.ru/event/512166/)
-
-17 сентября
-
-<details>
-  <summary>Доклады и расписание в процессе утверждения</summary>
-
-  - «Nuxt.js — фреймворк для приложений на Vue.js», Андрей Солодовников
-  - «Построение высокопроизводительного отказоустойчивого хранилища для Big Data и Stateful сервисов», Евгений Хашин
-  - «Тест Джоэла Спольски. 20 лет спустя. Наши дни», Иван Муратов
-  - «get git», Александр Иванов
-  - «Кросс-функциональные команды и самоорганизация в основе Agile», Денис Сальников
-  - «Realm vs CoreData», Ник Ков
-  - «Зачем мне Python?», Виктор Тыщенко
-  - «WinDbg & Co.: отладка.Net приложений», Павел Колмаков
-  - «Безбажный код. Опыт борьбы с ошибками в большой компании», Алексей Светлицкий
-  - «React: ecosystem & future», Марк Ланговой
-
-</details>
-
-<!-- 
- -->
+ 
 ## Красноярск
 
 ### [Dev2Dev](http://dev2dev.ru/)
