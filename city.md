@@ -12,19 +12,6 @@
 
 ## Москва
 
-### [moscowcss №4](https://www.facebook.com/cssmoscow)
-
-7 сентября 
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Обратная сторона UI Kit», Максим Панов
-  - «CSS и HTML — это язык программирования», Алексей Охрименко
-  - «Пишем игры без JS», Леонид Лебедев
-
-</details>
-
 ### [HighLoad++](http://www.highload.ru/)
 
 7-8 ноября
@@ -147,30 +134,6 @@
 <!-- 
  -->
 ## Минск 
-
-### [CSS-Minsk-JS 2017](http://css-minsk-js.by)
-
-10 сентября
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Why Fast Matters», Harry Roberts
-  - «Designed for Inclusion: Writing CSS with Accessibility in Mind», Manuel Matuzovic
-  - «I18N – you're doing it wrong!.. probably...», Aleksey Okhrimenko
-  - «Clever, stop being so», Hugo Giraudel
-  - «Playful webcam», Zarema Khalilova
-  - «Breaking the norm with CSS», Aga Naplocha
-  - «Inner structure of webpack bundle», Alexey Ivanov
-  - «Anything is possible», Yuriy Artyukh
-  - «Client and server need to talk», Nikita Prokopov
-  - «CSS Grid and the magic of creative layouts», Eva Lettner
-  - «The Truth Is Out There... Monitoring Your Isomorphic Application», Robert Haritonov
-  - « Web Fonts are ▢▢▢ Rocket Science», Zach Leatherman
-  - «WebVR: The next frontier», Martin Splitt
-  - «CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back», Serg Hospodarets
-
-</details>
 
 ### [Frontend Dev Conf](https://fdconf.by/ru/)
 
