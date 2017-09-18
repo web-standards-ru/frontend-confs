@@ -221,7 +221,7 @@
   - «Effortless Serverless», Aleksandar Simovic
   - «How to hack a node app», Asim Hussain
   - «Pixel shaders for Web developers», Denis Radin
-  - «А что если мы долетим и там будет всё?», Max Popov
+  - «А что если мы долетим и там будет всё?», Сергей Попов
   - «Async programming with JavaScript and Node.js», Timur Shemsedinov
   - «Your last desperate attempt at AngularJS migration», Asim Hussain
   - «Groupware Systems for fun and profit CRDT, OT, Offline», Max Klymyshyn
