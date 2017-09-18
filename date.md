@@ -22,6 +22,8 @@
   <summary>Доклады</summary>
 
   - «А что, если мы долетим и там будет всё?», Серёжа Попов
+  - «Шрифты в вебе», Владимир Ракчаев
+  - «Может без SVG?», Юлия Маслова
 
 </details>
 
@@ -63,6 +65,10 @@
   - «Microservices in a wild», Иван Мосев
 
 </details>
+
+### [Web Stansrts Days](https://wsd.events/2017/10/21/)
+
+21 октября, Минск
 
 ### [KharkivJS #8](http://kharkivjs.org/)
 
