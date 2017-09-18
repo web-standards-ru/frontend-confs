@@ -7,43 +7,6 @@
 
 ## Сентябрь
 
-### [moscowcss №4](https://moscowcss.timepad.ru/event/552269/)
-
-7 сентября, Москва 
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Обратная сторона UI Kit», Максим Панов
-  - «CSS и HTML — это язык программирования», Алексей Охрименко
-  - «Пишем игры без JS», Леонид Лебедев
-
-</details>
-
-### [CSS-Minsk-JS 2017](http://css-minsk-js.by)
-
-10 сентября, Минск
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Why Fast Matters», Harry Roberts
-  - «Designed for Inclusion: Writing CSS with Accessibility in Mind», Manuel Matuzovic
-  - «I18N – you're doing it wrong!.. probably...», Aleksey Okhrimenko
-  - «Clever, stop being so», Hugo Giraudel
-  - «Playful webcam», Zarema Khalilova
-  - «Breaking the norm with CSS», Aga Naplocha
-  - «Inner structure of webpack bundle», Alexey Ivanov
-  - «Anything is possible», Yuriy Artyukh
-  - «Client and server need to talk», Nikita Prokopov
-  - «CSS Grid and the magic of creative layouts», Eva Lettner
-  - «The Truth Is Out There... Monitoring Your Isomorphic Application», Robert Haritonov
-  - « Web Fonts are ▢▢▢ Rocket Science», Zach Leatherman
-  - «WebVR: The next frontier», Martin Splitt
-  - «CSS Houdini: From CSS Custom Properties to JavaScript Worklets and back», Serg Hospodarets
-
-</details>
-
 ### [Frontend Party](https://events.yandex.ru/events/meetings/13-sep-2017/)
 
 13 сентября, Казань
@@ -161,7 +124,7 @@
   - «Effortless Serverless», Aleksandar Simovic
   - «How to hack a node app», Asim Hussain
   - «Pixel shaders for Web developers», Denis Radin
-  - «А что если мы долетим и там будет всё?», Max Popov
+  - «А что если мы долетим и там будет всё?», Сергей Попов
   - «Async programming with JavaScript and Node.js», Timur Shemsedinov
   - «Your last desperate attempt at AngularJS migration», Asim Hussain
   - «Groupware Systems for fun and profit CRDT, OT, Offline», Max Klymyshyn
