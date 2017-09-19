@@ -9,9 +9,47 @@
 
 ## Москва
 
+### [moscowcss 5](https://moscowcss.timepad.ru/event/576236/)
+
+31 октября, Москва
+
 ### [HighLoad++](http://www.highload.ru/)
 
 7-8 ноября
+
+### [Front Fest Moscow](https://2017.frontfest.ru/)
+
+18 ноября, Москва
+
+<details>
+  <summary>Доклады</summary>
+
+  - «My password doesn't work!», Blaine Cook
+  - «Writing Next level apps», Matheus Fernandes
+  - «Developer's guide to accessibility mechanics», Léonie Watson
+  - «Code & Art», Mathieu Henri
+  - «JavaScript on Things: Electronics for Web Devs», Lyza Danger Gardner
+  - «Six apps — one code with angular», Sani Yusuf
+  - «JavaScript and Node.js — why the ugly duckling is conquering the world?», Franziska Klingner
+  - «Progressive Image Rendering», Jose M. Perez
+  - «Arena Shooter from scratch», Mathieu Henri
+  - «Rendering performance inside out», Martin Splitt
+  - «История одной метрики производительности в Booking.com», Антон Епрев
+  - «Кодстайл и насилие», Антон Немцев
+  - «Интерфейс для 224 стран на 40 языках», Вениамин Тамбурин
+  - «Программисту нужно знать всё», Игорь Алексеенко
+  - «Оптимизация графики на практике», Тим Чаптыков
+  - «React и данные: Эффективные способы хранения и изменения стейта», Алексей Иванов
+  - «React, TypeScript и Redux — как сделать SPA для мобильных браузеров», Егор Банщиков
+  - «(Не очень) молчаливый наблюдатель: что я узнала, наблюдая за JavaScript-экосистемой», Екатерина Пригара
+  - «Декларативная шаблонизация», Владимир Гриненко
+  - «Как переписать крупный проект на Angular и (не) впасть в депрессию», Илья Таратухин
+  - «А что, если мы долетим и там будет всё?», Сергей Попов
+  - «Закложурю ваш джаваскрипт. Дорого. Опыт использования ClojureScript в aviasales.ru», Кирилл Чернышов
+  - «RON: Replicated object notation», Виктор Грищенко
+  - «Алгоритмы и структуры данных меняющие современный Frontend», Владимир Дашукевич
+
+</details>
 
 ### [HolyJS](https://holyjs-moscow.ru/)
 
@@ -19,7 +57,7 @@
 
 <details>
   <summary>Доклады</summary>
-  
+
   - «The Post JavaScript Apocalypse», Douglas Crockford
   - «Managing Asynchronicity with RQ», Douglas Crockford
   - «New Adventures in Responsive Web Design», Виталий Фридман
@@ -49,16 +87,16 @@
 
 </details>
 
-<!-- 
+<!--
  -->
- 
+
 ## Красноярск
 
 ### [Dev2Dev](http://dev2dev.ru/)
 
 11 ноября
 
-<!-- 
+<!--
  -->
 ## Новосибирск
 
@@ -69,9 +107,9 @@
   [Список спикеров конференции](https://gdg-siberia.com/speakers/)
   [Расписание конференции](https://gdg-siberia.com/schedule/)
 
-<!-- 
+<!--
  -->
-## Минск 
+## Минск
 
 ### [Frontend Dev Conf](https://fdconf.by/ru/)
 
@@ -104,7 +142,7 @@
 
 21 октября
 
-<!-- 
+<!--
  -->
 ## Харьков
 
@@ -114,7 +152,7 @@
 
 <details>
   <summary>Доклады</summary>
-  
+
   - «Большие проекты, архитектура и фреймворки», Александр Макаров
   - «Microservices in a wild», Иван Мосев
 
@@ -126,7 +164,7 @@
 
 <details>
   <summary>Доклады</summary>
-  
+
   - «Effortless Serverless», Aleksandar Simovic
   - «Pixel shaders for Web developers», Denis Radin
   - «А что если мы долетим и там будет всё?», Сергей Попов
