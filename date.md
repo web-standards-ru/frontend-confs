@@ -93,6 +93,10 @@
 
 </details>
 
+### [moscowcss 5](https://moscowcss.timepad.ru/event/576236/)
+
+31 октября, Москва
+
 <!--
  -->
 ## Ноябрь

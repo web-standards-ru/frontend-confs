@@ -9,28 +9,13 @@
 
 ## Москва
 
+### [moscowcss 5](https://moscowcss.timepad.ru/event/576236/)
+
+31 октября, Москва
+
 ### [HighLoad++](http://www.highload.ru/)
 
 7-8 ноября
-
-### [HolyJS](https://holyjs-moscow.ru/)
-
-10-11 декабря
-
-<details>
-  <summary>Доклады</summary>
-
-  - «The Post JavaScript Apocalypse», Douglas Crockford
-  - «Managing Asynchronicity with RQ», Douglas Crockford
-  - «New Adventures in Responsive Web Design», Виталий Фридман
-  - «Big Bang Redesign: Smashing Magazine’s 2017 Relaunch, a Case Study», Виталий Фридман
-  - «Better, faster, stronger — getting more from the web platform», Martin Splitt
-  - «/Reg(exp){2}lained/: Demystifying Regular Expressions», Lea Verou
-  - «Bending time with Schedulers and RxJS 5», Gerard Sans
-  - «HyperDB — a scalable key-value store», Mathias Buus Madsen
-  - «Testing serverless applications», Slobodan Stojanovic
-
-</details>
 
 ### [Front Fest Moscow](https://2017.frontfest.ru/)
 
@@ -63,6 +48,25 @@
   - «Закложурю ваш джаваскрипт. Дорого. Опыт использования ClojureScript в aviasales.ru», Кирилл Чернышов
   - «RON: Replicated object notation», Виктор Грищенко
   - «Алгоритмы и структуры данных меняющие современный Frontend», Владимир Дашукевич
+
+</details>
+
+### [HolyJS](https://holyjs-moscow.ru/)
+
+10-11 декабря
+
+<details>
+  <summary>Доклады</summary>
+
+  - «The Post JavaScript Apocalypse», Douglas Crockford
+  - «Managing Asynchronicity with RQ», Douglas Crockford
+  - «New Adventures in Responsive Web Design», Виталий Фридман
+  - «Big Bang Redesign: Smashing Magazine’s 2017 Relaunch, a Case Study», Виталий Фридман
+  - «Better, faster, stronger — getting more from the web platform», Martin Splitt
+  - «/Reg(exp){2}lained/: Demystifying Regular Expressions», Lea Verou
+  - «Bending time with Schedulers and RxJS 5», Gerard Sans
+  - «HyperDB — a scalable key-value store», Mathias Buus Madsen
+  - «Testing serverless applications», Slobodan Stojanovic
 
 </details>
 
