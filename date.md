@@ -1,58 +1,8 @@
 # По датам
 
-- [Сентябрь](#Сентябрь)
 - [Октябрь](#Октябрь)
 - [Ноябрь](#Ноябрь)
 - [Декабрь](#Декабрь)
-
-## Сентябрь
-
-### [DevFest Siberia 2017](https://gdg-siberia.com)
-
-23-24 сентября, Новосибирск
-
-  [Список спикеров конференции](https://gdg-siberia.com/speakers/)
-  [Расписание конференции](https://gdg-siberia.com/schedule/)
-
-### [pitercss №14](https://pitercss.timepad.ru/event/564590/)
-
-26 сентября, Санкт-Петербург
-
-<details>
-  <summary>Доклады</summary>
-
-  - «А что, если мы долетим и там будет всё?», Серёжа Попов
-  - «Шрифты в вебе», Владимир Ракчаев
-  - «Может без SVG?», Юлия Маслова
-
-</details>
-
-### [Frontend Dev Conf](https://fdconf.by/ru/)
-
-30 сентября, Минск
-
-<details>
-  <summary>Доклады</summary>
-
-  - «Bring WEB to the game client», Maxim Schepelin (Wargaming)
-  - «The rise of Javascript Robotics», Markus Leutwyler
-  - «Workshop: Build your own JavaScript powered Robot», Markus Leutwyler
-  - «A deep dive into the web-audio API», Sam Bellen
-  - «Handling GraphQL with React and Apollo», Radoslav Stankov
-  - «Accessibility as Performance», Estelle Weyl
-  - «Квант изменения. Реактивные реакции на React», Антон Киршанов
-  - «8 1/2 things about serverless», Slobodan Stojanovic
-  - «Почему мне зашел PWA?», Тимофей Лавренюк
-  - «Feedback first», Ilya Birman
-  - «Создаём виртуальный тур», Игорь Еростенко
-  - «Юнит тестирование для ленивых», Владимир Дашукевич
-  - «The Compiler & You — Pleasant PureScript», Christoph Hegemann
-  - «Reason: Маргиналы против Хайпа», Илья Климов
-  - «Индустрия разработки софта: что вам нужно знать», Алексей Мигуцкий
-  - «Выборы, выборы, все фреймворки… приторны», Виктор Русакович
-  - «Как правило «победитель получает все» работает и не работает в разработке», Черноокий Александр
-
-</details>
 
 <!--
  -->
@@ -73,6 +23,15 @@
 ### [Web Standarts Days](https://wsd.events/2017/10/21/)
 
 21 октября, Минск
+
+<details>
+  <summary>Доклады</summary>
+
+  - «SSR: DIY», Джеймс Аквух
+  - «Людоедский интерфейс», Вадим Макеев
+  - «Ответ на главный вопрос в CSS», Михаил Иванкив
+
+</details>
 
 ### [KharkivJS #8](http://kharkivjs.org/)
 
@@ -106,6 +65,10 @@
 <!--
  -->
 ## Ноябрь
+
+### [Web Standarts Days](https://wsd.events/2017/11/04/)
+
+4 ноября, Киев
 
 ### [HighLoad++](http://www.highload.ru/)
 
