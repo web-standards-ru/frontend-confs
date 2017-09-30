@@ -66,6 +66,10 @@
  -->
 ## Ноябрь
 
+### [Web Standarts Days](https://wsd.events/2017/11/04/)
+
+4 ноября, Киев
+
 ### [HighLoad++](http://www.highload.ru/)
 
 7-8 ноября, Москва

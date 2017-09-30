@@ -139,3 +139,11 @@
   - «UVP and the future of CSSinJS», Oleg Slobodskoi
 
 </details>
+
+<!--
+ -->
+## Киев
+
+### [Web Standarts Days](https://wsd.events/2017/11/04/)
+
+4 ноября
