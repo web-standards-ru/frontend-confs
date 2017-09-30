@@ -131,6 +131,10 @@
   - «Создаём виртуальный тур», Игорь Еростенко
   - «Юнит тестирование для ленивых», Владимир Дашукевич
   - «The Compiler & You — Pleasant PureScript», Christoph Hegemann
+  - «Reason: Маргиналы против Хайпа», Илья Климов
+  - «Индустрия разработки софта: что вам нужно знать», Алексей Мигуцкий
+  - «Выборы, выборы, все фреймворки… приторны», Виктор Русакович
+  - «Как правило «победитель получает все» работает и не работает в разработке», Черноокий Александр
 
 </details>
 
@@ -162,7 +166,6 @@
   <summary>Доклады</summary>
 
   - «Effortless Serverless», Aleksandar Simovic
-  - «How to hack a node app», Asim Hussain
   - «Pixel shaders for Web developers», Denis Radin
   - «А что если мы долетим и там будет всё?», Сергей Попов
   - «Async programming with JavaScript and Node.js», Timur Shemsedinov
@@ -174,5 +177,8 @@
   - «Софт скилы», Yuzva Maksim
   - «Тайны зеленого замочка», Vladimir Dashukevich
   - «Vue: business-first», Vitalii Ratyshnyi
+  - «Copy-pASTe», Illya Klymov
+  - «Taking care of performance easiest than ever», Artem Denysov
+  - «UVP and the future of CSSinJS», Oleg Slobodskoi
 
 </details>
