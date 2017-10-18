@@ -44,7 +44,7 @@
   - «Тесты без боли», Валентин Игнатьев (ivelum)
   - «Как завести себе бота», Сергей Голяшой (Эй-Пи Трейд)
   - «Шаблонизаторы PHP. О пользе для фронтенда», Алекснадр Костюк (Pantera DIgital)
-  
+
 </details>
 
 ### [KharkivJS #8](http://kharkivjs.org/)
@@ -80,9 +80,21 @@
  -->
 ## Ноябрь
 
-### [Web Standarts Days](https://wsd.events/2017/11/04/)
+### [Web Standards Days](https://wsd.events/2017/11/04/)
 
 4 ноября, Киев
+
+<details>
+  <summary>Доклады</summary>
+
+  - «CSS in a Components World», Bruce Lawson
+  - «Светлое будущее Custom Elements», Елена Жукова
+  - «Людоедский интерфейс», Вадим Макеев
+  - «Индуктивная доступность», Антон Есауленко
+  - «Оптимизируй это», Денис Завгородний
+  - «Изобретаем велосипед для фриланса», Павел Никитюк
+
+</details>
 
 ### [HighLoad++](http://www.highload.ru/)
 
