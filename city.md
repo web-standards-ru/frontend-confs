@@ -3,15 +3,54 @@
 - **[Москва](#Москва)**
 - **[Санкт-Петербург](#Санкт-Петербург)**
 - [Красноярск](#Красноярск)
-- [Новосибирск](#Новосибирск)
 - [Минск](#Минск)
+- [Хабаровск](#Хабаровск)
 - [Харьков](#Харьков)
+- [Киев](#Киев)
 
 ## Москва
+
+### [moscowcss 5](https://moscowcss.timepad.ru/event/576236/)
+
+31 октября, Москва
 
 ### [HighLoad++](http://www.highload.ru/)
 
 7-8 ноября
+
+### [Front Fest Moscow](https://2017.frontfest.ru/)
+
+18 ноября, Москва
+
+<details>
+  <summary>Доклады</summary>
+
+  - «My password doesn't work!», Blaine Cook
+  - «Writing Next level apps», Matheus Fernandes
+  - «Developer's guide to accessibility mechanics», Léonie Watson
+  - «Code & Art», Mathieu Henri
+  - «JavaScript on Things: Electronics for Web Devs», Lyza Danger Gardner
+  - «Six apps — one code with angular», Sani Yusuf
+  - «JavaScript and Node.js — why the ugly duckling is conquering the world?», Franziska Klingner
+  - «Progressive Image Rendering», Jose M. Perez
+  - «Arena Shooter from scratch», Mathieu Henri
+  - «Rendering performance inside out», Martin Splitt
+  - «История одной метрики производительности в Booking.com», Антон Епрев
+  - «Кодстайл и насилие», Антон Немцев
+  - «Интерфейс для 224 стран на 40 языках», Вениамин Тамбурин
+  - «Программисту нужно знать всё», Игорь Алексеенко
+  - «Оптимизация графики на практике», Тим Чаптыков
+  - «React и данные: Эффективные способы хранения и изменения стейта», Алексей Иванов
+  - «React, TypeScript и Redux — как сделать SPA для мобильных браузеров», Егор Банщиков
+  - «(Не очень) молчаливый наблюдатель: что я узнала, наблюдая за JavaScript-экосистемой», Екатерина Пригара
+  - «Декларативная шаблонизация», Владимир Гриненко
+  - «Как переписать крупный проект на Angular и (не) впасть в депрессию», Илья Таратухин
+  - «А что, если мы долетим и там будет всё?», Сергей Попов
+  - «Закложурю ваш джаваскрипт. Дорого. Опыт использования ClojureScript в aviasales.ru», Кирилл Чернышов
+  - «RON: Replicated object notation», Виктор Грищенко
+  - «Алгоритмы и структуры данных меняющие современный Frontend», Владимир Дашукевич
+
+</details>
 
 ### [HolyJS](https://holyjs-moscow.ru/)
 
@@ -19,7 +58,7 @@
 
 <details>
   <summary>Доклады</summary>
-  
+
   - «The Post JavaScript Apocalypse», Douglas Crockford
   - «Managing Asynchronicity with RQ», Douglas Crockford
   - «New Adventures in Responsive Web Design», Виталий Фридман
@@ -36,76 +75,60 @@
  -->
 ## Санкт-Петербург
 
-### [pitercss №14](https://pitercss.timepad.ru/event/564590/)
-
-26 сентября
-
-<details>
-  <summary>Доклады</summary>
-
-  - «А что, если мы долетим и там будет всё?», Серёжа Попов
-  - «Шрифты в вебе», Владимир Ракчаев
-  - «Может без SVG?», Юлия Маслова
-
-</details>
-
-<!-- 
+<!--
  -->
- 
+
 ## Красноярск
 
 ### [Dev2Dev](http://dev2dev.ru/)
 
 11 ноября
 
-<!-- 
+<!--
  -->
-## Новосибирск
+## Минск
 
-### [DevFest Siberia 2017](http://it-events.com/events/9055)
+### [Web Standards Days](https://wsd.events/2017/10/21/)
 
-23-24 сентября
-
-  [Список спикеров конференции](https://gdg-siberia.com/speakers/)
-  [Расписание конференции](https://gdg-siberia.com/schedule/)
-
-<!-- 
- -->
-## Минск 
-
-### [Frontend Dev Conf](https://fdconf.by/ru/)
-
-30 сентября
+21 октября
 
 <details>
   <summary>Доклады</summary>
 
-  - «Bring WEB to the game client», Maxim Schepelin (Wargaming)
-  - «The rise of Javascript Robotics», Markus Leutwyler
-  - «Workshop: Build your own JavaScript powered Robot», Markus Leutwyler
-  - «A deep dive into the web-audio API», Sam Bellen
-  - «Handling GraphQL with React and Apollo», Radoslav Stankov
-  - «Accessibility as Performance», Estelle Weyl
-  - «Квант изменения. Реактивные реакции на React», Антон Киршанов
-  - «8 1/2 things about serverless», Slobodan Stojanovic
-  - «Почему мне зашел PWA?», Тимофей Лавренюк
-  - «Feedback first», Ilya Birman
-  - «Создаём виртуальный тур», Игорь Еростенко
-  - «Юнит тестирование для ленивых», Владимир Дашукевич
-  - «The Compiler & You — Pleasant PureScript», Christoph Hegemann
-  - «Reason: Маргиналы против Хайпа», Илья Климов
-  - «Индустрия разработки софта: что вам нужно знать», Алексей Мигуцкий
-  - «Выборы, выборы, все фреймворки… приторны», Виктор Русакович
-  - «Как правило «победитель получает все» работает и не работает в разработке», Черноокий Александр
+  - «Нодскул в Минске: как и зачем», Тим Маринин
+  - «SSR: DIY», Джеймс Аквух
+  - «Знакомьтесь, модальное окно», Анна Селезнёва
+  - «Людоедский интерфейс», Вадим Макеев
+  - «Рендер HTML в PNG на клиенте», Андрей Роенко
+  - «Duck Hunters TV», Алексей Трусов
+  - «Что не так с Emoji», Алексей Авдеев
+  - «Ответ на главный вопрос в CSS», Михаил Иванкив
+  - «Houdini — великий разоблачитель», Никита Дубко
+  - «Верстальщик. Наследие», Сергей Попов
 
 </details>
 
-### [Web Standarts Days](https://wsd.events/2017/10/21/)
+### [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/)
 
-21 октября
+10-11 февраля, Минск
 
-<!-- 
+<!--
  -->
+
+ ## Хабаровск
+ ### [Ha.js](https://hajs.ru/)
+
+21 октября, донат  
+<details>
+  <summary>Доклады</summary>
+
+  - «Типы компонентов в Reac», Илья Евсеев
+  - «Тесты без боли», Валентин Игнатьев (ivelum)
+  - «Как завести себе бота», Сергей Голяшой (Эй-Пи Трейд)
+  - «Шаблонизаторы PHP. О пользе для фронтенда», Алекснадр Костюк (Pantera DIgital)
+
+</details>
+
 ## Харьков
 
 ### [Съесть собаку](https://eatdog.com.ua/#poster)
@@ -114,7 +137,7 @@
 
 <details>
   <summary>Доклады</summary>
-  
+
   - «Большие проекты, архитектура и фреймворки», Александр Макаров
   - «Microservices in a wild», Иван Мосев
 
@@ -126,7 +149,7 @@
 
 <details>
   <summary>Доклады</summary>
-  
+
   - «Effortless Serverless», Aleksandar Simovic
   - «Pixel shaders for Web developers», Denis Radin
   - «А что если мы долетим и там будет всё?», Сергей Попов
@@ -142,5 +165,25 @@
   - «Copy-pASTe», Illya Klymov
   - «Taking care of performance easiest than ever», Artem Denysov
   - «UVP and the future of CSSinJS», Oleg Slobodskoi
+
+</details>
+
+<!--
+ -->
+## Киев
+
+### [Web Standards Days](https://wsd.events/2017/11/04/)
+
+4 ноября
+
+<details>
+  <summary>Доклады</summary>
+
+  - «CSS in a Components World», Bruce Lawson
+  - «Светлое будущее Custom Elements», Елена Жукова
+  - «Людоедский интерфейс», Вадим Макеев
+  - «Индуктивная доступность», Антон Есауленко
+  - «Оптимизируй это», Денис Завгородний
+  - «Изобретаем велосипед для фриланса», Павел Никитюк
 
 </details>
