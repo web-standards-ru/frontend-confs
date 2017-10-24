@@ -151,6 +151,10 @@
  -->
 ## Декабрь
 
+### [MinskCSS #3](https://www.facebook.com/groups/MinskCSS/)
+
+7 декабря, Минск
+
 ### [HolyJS](https://holyjs-moscow.ru/)
 
 10-11 декабря, Москва

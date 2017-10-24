@@ -108,9 +108,13 @@
 
 </details>
 
+### [MinskCSS #3](https://www.facebook.com/groups/MinskCSS/)
+
+7 декабря
+
 ### [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/)
 
-10-11 февраля, Минск
+10-11 февраля
 
 <!--
  -->
