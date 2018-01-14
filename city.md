@@ -32,35 +32,26 @@
 ## Санкт-Петербург
 
 ### [HolyJS 2018 Piter](https://holyjs-piter.ru/)
-<<<<<<< HEAD
 
 19-20 мая Санкт-Петербург
+=======
 
 ### [pitercss conference](https://pitercss.com/)
 
 8-9 июня Санкт-Петербург
 =======
->>>>>>> 21eee84de5d82fbaa5cecdf238d048a9a320078e
-
-19-20 мая Санкт-Петербург
-
-<<<<<<< HEAD
-=======
 
 ## Красноярск
 
->>>>>>> 21eee84de5d82fbaa5cecdf238d048a9a320078e
 <!--
  -->
+ 
 ## Минск
 
-<<<<<<< HEAD
 ### [MinskJS Meetup #3](https://www.facebook.com/events/376143919465636/)
 
 25 января, Минск
 
-=======
->>>>>>> 21eee84de5d82fbaa5cecdf238d048a9a320078e
 ### [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/)
 
 10-11 февраля, Минск
@@ -69,7 +60,6 @@
  -->
 
  ## Хабаровск
-<<<<<<< HEAD
 
 <!--
  -->
@@ -88,8 +78,6 @@
 
 ## Киев
 
-=======
-
 <!--
  -->
 
@@ -101,6 +89,5 @@
 
 ## Киев
 
->>>>>>> 21eee84de5d82fbaa5cecdf238d048a9a320078e
 <!--
 -->
