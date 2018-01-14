@@ -5,40 +5,39 @@
 - [Красноярск](#Красноярск)
 - [Минск](#Минск)
 - [Хабаровск](#Хабаровск)
+- [Нижний Новгород](#Нижний Ногород)
 - [Харьков](#Харьков)
 - [Киев](#Киев)
 
 ## Москва
 
-### [HolyJS](https://holyjs-moscow.ru/)
-
-10-11 декабря
-
-<details>
-  <summary>Доклады</summary>
-
-  - «The Post JavaScript Apocalypse», Douglas Crockford
-  - «Managing Asynchronicity with RQ», Douglas Crockford
-  - «New Adventures in Responsive Web Design», Виталий Фридман
-  - «Big Bang Redesign: Smashing Magazine’s 2017 Relaunch, a Case Study», Виталий Фридман
-  - «Better, faster, stronger — getting more from the web platform», Martin Splitt
-  - «/Reg(exp){2}lained/: Demystifying Regular Expressions», Lea Verou
-  - «Bending time with Schedulers and RxJS 5», Gerard Sans
-  - «HyperDB — a scalable key-value store», Mathias Buus Madsen
-  - «Testing serverless applications», Slobodan Stojanovic
-
-</details>
-
 ### [Web Standarts Days](https://wsd.events/2018/02/03/)
 
 3 февраля, Москва
 
-<!--
- -->
+### [Forntend Conf](http://frontendconf.ru/2018/)
+
+28-29 мая Москва
+
+<details>
+  <summary>Доклады</summary>
+  - Автоматизация фронтенда
+  - Тестирование фронтенда
+  - Быстродействие интерфейса и сети
+  - Оффлайн и кэширование
+  - Шаблонизаторы и препроцессоры
+  - адаптивная вёрстка
+</details>
+
 ## Санкт-Петербург
 
-<!--
- -->
+### [HolyJS 2018 Piter](https://holyjs-piter.ru/)
+
+19-20 мая Санкт-Петербург
+
+### [pitercss conference](https://pitercss.com/)
+
+8-9 июня Санкт-Петербург
 
 ## Красноярск
 
@@ -46,9 +45,9 @@
  -->
 ## Минск
 
-### [MinskCss Meetup](https://minskcss.timepad.ru/event/604963/)
+### [MinskJS Meetup #3](https://www.facebook.com/events/376143919465636/)
 
-7 декабря, Минск
+25 января, Минск
 
 ### [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/)
 
@@ -62,13 +61,18 @@
 <!--
  -->
 
+## Нижний Новгород
+
+### [Я.Субботник по фронтенду](https://www.it52.info/)
+
+20 января, Нижний Новгород
+
 ## Харьков
 
-### [Съесть Собаку](https://eatdog.com.ua/#poster)
+### [KharkivCss](http://kharkivcss.org/)
 
-21 декабря, Харьков
-<!--
- -->
+21 апреля Харьков
+
 ## Киев
 
 <!--
