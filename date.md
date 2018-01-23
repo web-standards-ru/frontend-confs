@@ -26,11 +26,11 @@
 
 ### [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/)
 
+10-11 февраля, Минск
+
 ### [haJS #4](https://hajs.ru/)
 
 3 февраля, Хабаровск
-
-10-11 февраля, Минск
 
 ## Апрель
 
