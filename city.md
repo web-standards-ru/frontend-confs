@@ -45,7 +45,7 @@
 
 <!--
  -->
- 
+
 ## Минск
 
 ### [MinskJS Meetup #3](https://www.facebook.com/events/376143919465636/)
@@ -55,6 +55,10 @@
 ### [The Rolling Scopes Conference](https://2018.conf.rollingscopes.com/)
 
 10-11 февраля, Минск
+
+### [MinskCSS Meetup #4](https://www.facebook.com/events/159025461484995/)
+
+22 марта, Минск
 
 <!--
  -->
