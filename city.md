@@ -83,6 +83,19 @@
 
 20 января, Нижний Новгород
 
+### [EPAM INSIDER](https://events.epam.com/events/insider_nn/agenda)
+
+21 апреля
+
+*Сотрудники компании расскажут об интересных вещах от Big Data до Front-End*
+
+<details>
+  <summary>В программе два доклада по Front-End</summary>
+
+  - «Композиция в React», Никита Кирсанов (EPAM, Рязань)
+  - «Типизируй это!», Шушунов Александр (EPAM, Тверь)
+</details>
+
 ## Харьков
 
 ### [KharkivCss](http://kharkivcss.org/)
