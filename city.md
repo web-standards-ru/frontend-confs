@@ -60,6 +60,10 @@
 
 22 марта, Минск
 
+### [MinskJS Meetup #4](https://www.facebook.com/events/137407033681379/)
+
+24 мая, Минск
+
 <!--
  -->
 
