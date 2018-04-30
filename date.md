@@ -51,13 +51,21 @@
 
 ### [KharkivCss](http://kharkivcss.org/)
 
-21 апреля Харьков
+21 апреля, Харьков
 
 ## Май
 
-### [Forntend Conf](http://frontendconf.ru/2018/)
+### [HolyJS 2018 Piter](https://holyjs-piter.ru/)
 
-28-29 мая Москва
+19-20 мая, Санкт-Петербург
+
+### [MinskJS Meetup #4](https://www.facebook.com/events/137407033681379/)
+
+24 мая, Минск
+
+### [Frontend Conf](http://frontendconf.ru/2018/)
+
+28-29 мая, Москва
 
 <details>
   <summary>Доклады</summary>
@@ -69,12 +77,8 @@
   - адаптивная вёрстка
 </details>
 
-### [HolyJS 2018 Piter](https://holyjs-piter.ru/)
-
-19-20 мая Санкт-Петербург
-
 ## Июнь
 
 ### [pitercss conference](https://pitercss.com/)
 
-8-9 июня Санкт-Петербург
+8-9 июня, Санкт-Петербург
